@@ -36,7 +36,7 @@
         {
           "type": "Feature",
           "properties": {
-            "name": "Space Invader PA__0290 & PA_0532, 113 rue Oberkampf"
+            "name": "Space Invader PA_0290 & PA_0532, 113 rue Oberkampf"
           },
           "geometry": {
             "type": "Point",
@@ -9006,7 +9006,7 @@
         {
           "type": "Feature",
           "properties": {
-            "name": "Space invader PA_0851, 14 Bis rue de la Grande ChaumiÃ¨re"
+            "name": "Space Invader PA_0851, 14 Bis rue de la Grande ChaumiÃ¨re"
           },
           "geometry": {
             "type": "Point",
@@ -16455,7 +16455,7 @@
         {
           "type": "Feature",
           "properties": {
-            "name": "Space Invader, PA_0227, 15 rue Martel"
+            "name": "Space Invader PA_0227, 15 rue Martel"
           },
           "geometry": {
             "type": "Point",
