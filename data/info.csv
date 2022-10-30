@@ -1,4 +1,4 @@
-ID,point,District,Last state,Source_date
+ID,Point,District,State,Source_date
 PA_0001,10,Paris - 11ème arrondissement,Détruit !,septembre 2018 (spott)
 PA_0002,10,Paris - 4ème arrondissement,OK,juin 2019 (spott)
 PA_0003,10,Paris - 5ème arrondissement,OK,octobre 2019 (report)

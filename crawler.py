@@ -15,9 +15,9 @@ def extract_info(info):
         ID = ""
         point = ""
     if lines[0]:
-        District = lines[1][1:-1]
+        district = lines[1][1:-1]
     else:
-        District = ""
+        district = ""
     if lines[2]:
         state = lines[2].split(": ")[1]
     else:
@@ -27,7 +27,7 @@ def extract_info(info):
     else:
         date = ""
     
-    return [ID, point, District, state, date]
+    return [ID, point, district, state, date]
 
 options = Options()
 
@@ -48,15 +48,15 @@ max_page = int(wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/
 
 infos = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'haut')))
 
-dic = {"ID":[], "point":[], "District":[], "Last state":[], "Source_date":[]}
+dic = {"ID":[], "Point":[], "District":[], "State":[], "Source_date":[]}
 
 for info in infos:
-    ID, point, District, state, date = extract_info(info)
+    ID, Point, District, State, Date = extract_info(info)
     dic["ID"].append(ID)
-    dic["point"].append(point)
+    dic["Point"].append(Point)
     dic["District"].append(District)
-    dic["Last state"].append(state)
-    dic["Source_date"].append(date)
+    dic["State"].append(State)
+    dic["Source_date"].append(Date)
 
 for i in range(1, max_page):        
     xpath = f"/html/body/div[2]/div/p[5]/a[{i}]"
