@@ -22,7 +22,7 @@ class Invaders:
         with open(client_invader_path) as f:
             client_invader_list = f.readlines()
         client_invader_list = list(map(lambda x: "PA_" + x.strip().zfill(4), client_invader_list))
-        merged_df.loc[merged_df["ID"].isin(client_invader_list), "Color"] = "green"
+        merged_df.loc[merged_df["ID"].isin(client_invader_list), "Color"] = "blue"
         return merged_df
         
     def classify_invader(self, x):
@@ -35,7 +35,7 @@ class Invaders:
         elif x == "Un peu dégradé":
             return "white"
         else:
-            return "blue"
+            return "green"
         
         
     def display(self):
@@ -43,8 +43,8 @@ class Invaders:
         gmap = gmplot.GoogleMapPlotter(48, 2, 5)
         
         # Add current position, blur point
-        g = geocoder.ip('me')
-        gmap.marker(g.latlng[0], g.latlng[1], color="blue")
+        # g = geocoder.ip('me')
+        # gmap.marker(g.latlng[0], g.latlng[1], color="pink")
         
         for _, line in self.merged_df.iterrows():
             if not isnan(line["Latitude"]):
