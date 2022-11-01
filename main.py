@@ -1,7 +1,12 @@
 from cmath import isnan
 from gmplot import gmplot
 import pandas as pd
-import geocoder
+import simplekml
+from simplekml import Kml
+from zipfile import ZipFile
+from pykml.factory import KML_ElementMaker as KML
+from lxml import etree
+
 
 class Invaders:
     def __init__(self, client:str, address_path:str="data/address.csv", info_path:str="data/info.csv") -> None:
@@ -9,6 +14,7 @@ class Invaders:
         self.info_path = info_path
         self.client = client
         self.merged_df = self.gather_all_info()
+        self.generate_kml()
     
     def gather_all_info(self):
         address_df = pd.read_csv(self.address_path)
@@ -39,6 +45,28 @@ class Invaders:
         else:
             return "green"
         
+    def generate_kml(self):
+        df = self.merged_df
+        kml = Kml()
+        
+        color_map = {"red":'ff0000ff', 
+                     "orange":'ff00a5ff', 
+                     "yellow":'ffe0ffff', 
+                     "white":'fff0ffff', 
+                     "grey":'ffd3d3d3',
+                     "blue":'ffe6d8ad',
+                     "green":'ff90ee90'}
+        
+        for _, line in df.iterrows():
+            pnt = kml.newpoint()
+            pnt.name = line["ID"]
+            pnt.description = line["Address"]
+            color = line["Color"]
+            path = kml.addfile(f"data/icons/{color}.png")
+            pnt.description = '<img src="' + path +'" alt="picture" width="400" height="300" align="left" />'
+            # pnt.style.iconstyle.color = simplekml.Color.hex(color_map[line["Color"]])
+            pnt.coords = [(line["Longitude"], line["Latitude"])]
+        kml.save("data/invader.kml")
         
     def display(self):
         # Initialize the map at a given point
@@ -58,5 +86,5 @@ class Invaders:
 
 
 if __name__ == "__main__":
-    Inva = Invaders("xueying")
+    Inva = Invaders("nuoya")
     Inva.display()
