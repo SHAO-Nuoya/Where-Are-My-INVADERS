@@ -105,5 +105,5 @@ class Invaders:
 
 
 if __name__ == "__main__":
-    Inva=Invaders("xueying")
+    Inva=Invaders("nuoya")
     Inva.display()
