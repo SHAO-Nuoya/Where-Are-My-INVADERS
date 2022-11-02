@@ -6,28 +6,43 @@ from selenium.webdriver.common.by import By
 import time
 import pandas as pd
 
-def extract_info(info):
+def extract_info(info, city):
     lines = info.text.split("\n")
-    if lines[0]:
-        ID = lines[0].split(" ")[0]
-        point = lines[0].split("[")[1].split(" ")[0]
-    else:
-        ID = ""
-        point = ""
-    if lines[0]:
-        district = lines[1][1:-1]
-    else:
-        district = ""
-    if lines[2]:
-        state = lines[2].split(": ")[1]
-    else:
-        state = ""
-    if lines[3]:
-        date = lines[3].split(": ")[1]
-    else:
-        date = ""
     
-    return [ID, point, district, state, date]
+    if city == "PA":
+        if lines[0]:
+            ID = lines[0].split(" ")[0]
+            point = lines[0].split("[")[1].split(" ")[0]
+        else:
+            ID = ""
+            point = ""
+        if lines[2]:
+            state = lines[2].split(": ")[1]
+        else:
+            state = ""
+        if lines[3]:
+            date = lines[3].split(": ")[1]
+        else:
+            date = ""
+            
+        return [ID, point, state, date]
+    else:
+        if lines[0]:
+            ID = lines[0].split(" ")[0]
+            point = lines[0].split("[")[1].split(" ")[0]
+        else:
+            ID = ""
+            point = ""
+        if lines[1]:
+            state = lines[1].split(": ")[1]
+        else:
+            state = ""
+        if lines[2]:
+            date = lines[2].split(": ")[1]
+        else:
+            date = ""
+    
+        return [ID, point, state, date]
 
 options = Options()
 
@@ -43,20 +58,23 @@ wait = WebDriverWait(driver, 10)
 driver.get('http://invader.spotter.free.fr/choixville.php')
 
 time.sleep(1)
-wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[2]/div/table/tbody/tr/td[3]/a[1]'))).click()
-max_page = int(wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div/p[5]/a[last()]'))).text)
+wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[2]/div/table/tbody/tr/td[3]/a[7]'))).click()
+# max_page = int(wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div/p[5]/a[last()]'))).text)
+max_page = 1
 
 infos = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'haut')))
 
-dic = {"ID":[], "Point":[], "District":[], "State":[], "Source_date":[]}
+city = "VRS"
+dick = {"ID":[], "Point":[], "State":[], "Source_date":[]}
 
 for info in infos:
-    ID, Point, District, State, Date = extract_info(info)
-    dic["ID"].append(ID)
-    dic["Point"].append(Point)
-    dic["District"].append(District)
-    dic["State"].append(State)
-    dic["Source_date"].append(Date)
+    print(info.text)
+    ID, Point, State, Date = extract_info(info, city)
+    dick["ID"].append(ID)
+    dick["Point"].append(Point)
+    dick["State"].append(State)
+    dick["Source_date"].append(Date)
+
 
 for i in range(1, max_page):        
     xpath = f"/html/body/div[2]/div/p[5]/a[{i}]"
@@ -65,16 +83,18 @@ for i in range(1, max_page):
     infos = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'haut')))
     for info in infos:
         print(info.text)
-        # ID, point, District, state, date = extract_info(info)
-        # dic["ID"].append(ID)
-        # dic["point"].append(point)
-        # dic["District"].append(District)
-        # dic["Last state"].append(state)
-        # dic["Source_date"].append(date)
+        ID, Point, State, Date = extract_info(info, city)
+        dick["ID"].append(ID)
+        dick["Point"].append(Point)
+        dick["State"].append(State)
+        dick["Source_date"].append(Date)
 
 driver.close()
 
-df = pd.DataFrame.from_dict(dic)
-# df.to_csv("data.csv", index=False)
+for v in dick.values():
+    print(len(v))
+df = pd.DataFrame.from_dict(dick)
+df['ID'] = df['ID'].apply(lambda x: 'VRS_' + x.split('_')[1].zfill(4))
+df.to_csv("versailles.csv", index=False)
 
     

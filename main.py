@@ -31,7 +31,7 @@ class Invaders:
         abbre_dic = {"Paris": "PA", "Versailles": "VRS"}
         client_invader_list = []
         for col in client_invader_df.columns:
-            client_invader_list.extend(list(map(lambda x: abbre_dic[col] + str(x).strip().zfill(4), client_invader_df[col].values.tolist())))
+            client_invader_list.extend(list(map(lambda x: abbre_dic[col] + "_" + str(x).strip().zfill(4), client_invader_df[col].values.tolist())))
 
         merged_df.loc[merged_df["ID"].isin(
             client_invader_list), "Color"]="pink"
@@ -108,5 +108,5 @@ class Invaders:
 
 
 if __name__ == "__main__":
-    Inva=Invaders("nuoya")
+    Inva=Invaders("xueying")
     Inva.display()
