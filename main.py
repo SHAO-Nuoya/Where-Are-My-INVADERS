@@ -1,12 +1,9 @@
 from cmath import isnan
 from gmplot import gmplot
 import pandas as pd
-import simplekml
-from simplekml import Kml
 from zipfile import ZipFile
 from pykml.factory import KML_ElementMaker as KML
 from lxml import etree
-
 
 class Invaders:
     def __init__(self, client: str, address_path: str = "data/address.csv", info_path: str = "data/info.csv") -> None:
