@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Space Invaders Hong Kong 2014</name>
+    <description><![CDATA[Known locations of Invader's 2014 Artwork throughout Hong Kong... hopefully more to be found!<br><br>I've created a few Blog Entries for this on wordpress:<br>http://berlinhongkong.wordpress.com<br><br>As of 7th February 2014, I managed to locate 24 of them (plus 2 destroyed ones).  Will be going out to Kowloon side later on.<br><br>Numbers 25 to 30 found on 9th February 2014 (plus 1 destroyed).  Totaling 33 so far :)<br><br>Numbers 31 to 33 found on 12th February 2014 (plus 2 destroyed).  Totaling 38 so far! :)<br><br>Numbers 34 to 38 found on 15th February 2014 (plus 1 destroyed).  Totaling 44, so close but yet so far...<br><br>Numbers 39 to 41 documented on 19th February 2014.  Totaling 47... Where is 48!?!?!?<br><br>Number 42!!! Discovered on 26th February 2014.<br>I've also updated to show numbers 43 to 48 as the ones we did not get to take pictures of ourselves because we found them too late :(]]></description>
+    <Style id="icon-123-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-123-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-123">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>01 DESTROYED - Fruit Bowl</name>
+        <description><![CDATA[Awesome location!  Cool that it's located right on top of a produce shop<br><br>7th April 2014 - Also gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.145318,22.286719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 DESTROYED - Small Red Invader</name>
+        <description><![CDATA[On the corner building, located above what looks like a newspaper stand<br><br>16th March - gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.146949,22.286213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 DESTROYED - Girl</name>
+        <description>Pretty cute, look like an invader is following her. Best viewed from Ladder Street, corner building</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.150586,22.284766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 DESTROYED - Big Blue Invader</name>
+        <description><![CDATA[Just above the advertisement on the corner building, next to the staircase<br><br>7th Apr 2014 - They're disappearing fast!]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.151404,22.284498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 DESTROYED - Large Red Invader</name>
+        <description><![CDATA[On the column for the foot bridge, can be viewed Lung Wo Road<br><br>As of 23rd Feb 2014, Sadly one of the iconic large artwork is now destroyed :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.159724,22.284378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 DESTROYED - Black/Orange Invader</name>
+        <description><![CDATA[On the column under the flyover, just before Albany Road turns into Glenealy<br><br>16th March - More destruction :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.155127,22.279089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 DESTROYED - Golden Dollar Sign</name>
+        <description><![CDATA[On a Column, best viewed from the spiral staircase looking towards Bank of China<br><br>1st Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.161594,22.279933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 DESTROYED - Money Bag</name>
+        <description><![CDATA[Best viewed from either the bridge or on the tram line<br><br>1st Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.16257,22.279258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 DESTROYED - Big Green Invader</name>
+        <description><![CDATA[Trying to hide itself below the footbridge<br><br>1st Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.163257,22.2797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 DESTROYED - Gold/Red Invader</name>
+        <description><![CDATA[On the staircase of the bridge<br><br>18th March - Destroyed]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.167873,22.277727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 DESTROYED - Large Ghost</name>
+        <description><![CDATA[Easily spotted outside of Hopewell Centre<br><br>As of 11th Feb 2014, this was already removed :(<br>Might have to do with Chinese tenants being superstitious and not wanted a ghost on their building?]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.171563,22.275118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 DESTROYED - Blue Invader</name>
+        <description>Can be viewed from the Old Wan Chai Post Office</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.17343,22.274339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 DESTROYED - Hong Kong Phooey</name>
+        <description><![CDATA[This one is so awesome, perfect for taking photos with him<br><br>2nd Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.186664,22.26894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14 DESTROYED - Big Blue Invader</name>
+        <description><![CDATA[Nicely situated on the iconic Caroline-Haven round corner building<br><br>13th March - Already gone?]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.186136,22.277749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15 DESTROYED - Big Blue Invader</name>
+        <description><![CDATA[Look as if it's sneaking out of the billboard<br><br>7th Apr 2014 - Bye bye Big guy :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.184138,22.279328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 - Dollar Sign</name>
+        <description>At the entrance of a building</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            114.184033,22.279407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 - Big Kung Fu Fighter</name>
+        <description>Cause all Hongkies know how to fight!</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            114.183362,22.281872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18 DESTROYED - Small Gold/Red Invader</name>
+        <description><![CDATA[Under the column of the flyover<br><br>2nd Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.186098,22.282855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 DESTROYED - I Invader HK3</name>
+        <description><![CDATA[Located on a staircase<br><br>2nd Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.186286,22.27975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20 DESTROYED - Orange Invader</name>
+        <description>View from street level next to the Church</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.188968,22.278586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 DESTROYED - Small Gold/Blue Invader</name>
+        <description>In Tai Hang, above a restaurant</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.191846,22.278558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22 DESTROYED - PAC MAN</name>
+        <description>As of 14th February - Sadly this huge pac man piece has been removed as well. :(</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.19297,22.284728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23 DESTROYED - Big Red Invader</name>
+        <description><![CDATA[Watching the daily lives of folks in Tin Hau<br><br>2nd Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.191624,22.284649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 - Kung Fu Fighter Kicking</name>
+        <description>Defending Tin Hau from Invaders!</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            114.19083,22.285215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 DESTROYED - Small Ghost</name>
+        <description><![CDATA[On the column for Connaught Road Central, best viewed from Sheung Wan MTR Station exit D<br><br>16th March - Removed :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.152168,22.287342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 DESTROYED - Double Gold/Red Invaders</name>
+        <description>On the 4th floor of the Ramsey Street Multi Storey Car Park, best viewed from footbridge</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.153528,22.2872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 DESTROYED - Small Gold/Red Invader</name>
+        <description><![CDATA[On the footbridge, going from IFC to the Star Ferry Pier (Pier #7), located just before entering the building<br><br>18th March - WHY?!?! This one was so awesome :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.160818,22.286463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 DESTROYED - Popeye</name>
+        <description><![CDATA[Under the Kowloon Corridor, going about his day<br><br>As of 26th Feb 2014, this was also removed :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.17137,22.309011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 - Kung Fu Fighter Kicking</name>
+        <description>This time defending Temple Street!</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            114.170405,22.310386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 - Hong Kong Phooey</name>
+        <description>Once more :)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            114.171813,22.319694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31 DESTROYED - Small Gold/Red Invader</name>
+        <description><![CDATA[Sitting nicely on a tiny staircase, right before or after the reservoir (depending on which direction you're coming)<br>Best to take the 14 from Stanley to Sai Wan Ho and get off at the stop across from the Invader<br><br>7th Mar - Destroyed...]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.222021,22.243029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>32 DESTROYED - Small Black/Salmon Invader</name>
+        <description><![CDATA[At the end of the cul-de-sac, you'll be able to see it on the right side of the Paisanos]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.211831,22.218452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33 DESTROYED - Tiled White/Blue Invaders</name>
+        <description><![CDATA[Located on a supporting column by 71 Des Voeux Road West, closer to street level, so you'll have to look down instead of up this time.<br><br>2nd Mar - Removed :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.145972,22.287836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>34 DESTROYED - I Invader HK</name>
+        <description><![CDATA[Another piece similar to #19<br><br>Best viewed by taking the footbridge from the end of Percival street for crossing Gloucester Road.  It can be seen on the other side of the highway.<br><br>2nd Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.182003,22.282018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>35 DESTROYED - Gold/Red Invader</name>
+        <description><![CDATA[Located at the top of the stairs on the side of the footbridge<br><br>18th March - Destroyed :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.155556,22.285617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>36 DESTROYED  - Fruit</name>
+        <description><![CDATA[Best viewed coming from Lyndhurst Terrace, as it turns left up to Hollywood Road, look up and it'll be on the side of a building<br><br>20th March - Sadly another one gone]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.153367,22.282209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37 DESTROYED - Light Blue Invader</name>
+        <description>Coming out from Sham Shui Po exit D2, look up to the right of the building across from Fuk Wa Street</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.162377,22.331551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>38 DESTROYED - Large White/Blue Invader</name>
+        <description><![CDATA[Next to Elements mall, take the pathway to West Kowloon Cultural District, you'll see it along the way, on a column in the roundabout<br><br>2nd Mar - Another one gone!!! :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.159166,22.303053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39 DESTROYED - Twin Black/Blue Invaders</name>
+        <description><![CDATA[From Queen's road, there's a set of stairs that goes up directly to Battery Path, it is located just as you reach the top.<br><br>1st Mar - Gone :(]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.159349,22.279688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>40 DESTROYED - Large Light Blue Invader</name>
+        <description><![CDATA[Just below the entrance of 22 Magazine Gap Road, there's a tiny outcrop on the road, which allows you to see the invader along with Bank of China and IFC2 in the background]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.164209,22.269623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41 DESTROYED - Twin Blue Invaders</name>
+        <description><![CDATA[Shortly after you start your walk on Lugard Road, you'll find it around 150m to 300m in, be on a lookout to your right by your feet level :)]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.149258,22.272651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>42 UNKNOWN - Black/Blue Invader</name>
+        <description><![CDATA[Located on the left hand side when you're walking from Stanley Main Street towards Murray House or Blake Pier of Stanley]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            114.210048,22.218417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43 DESTROYED - Large Red Invader</name>
+        <description><![CDATA[Sadly this one was already removed by the time we got there :(<br><br>Source was invaderwashere's instagram<br>http://instagram.com/p/jaCRmfIMEa/#]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.181606,22.280268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>44 DESTROYED - Light Blue Invader</name>
+        <description><![CDATA[Never saw this one, used to be above the sign of Bee Cheng Hiang, sadness... :(<br><br>Source was invaderwashere's instagram<br>http://instagram.com/p/jwpvwToMLc/#]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.184725,22.280047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>45 DESTROYED - White/Blue Invader</name>
+        <description><![CDATA[This would've been a cool one to see.  To the top right of the viewing platform near the Clock Tower.<br>Why are people removing them?!?!? :(<br><br>Source was invaderwashere's instagram<br>http://instagram.com/p/jwuiRdoMB4/#]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.169356,22.293437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>46 DESTROYED - Gold/Blue Invader</name>
+        <description><![CDATA[Can't believe they removed this one already!<br>This resided on the #1 lifeguard tower in Shek O beach, sad to see that it's gone :(<br><br>Source was bibohk's instagram<br>http://instagram.com/p/jgdYrJi7tc/#]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.251769,22.229362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47 DESTROYED - Super Mario Ghost</name>
+        <description><![CDATA[This was sitting on the bottom of the North West lifeguard tower, maybe Chinese people didn't like having a ghost by the beach?<br><br>Source was bibohk's instagram<br>http://instagram.com/p/jgkObRi7i6/#]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.248315,22.246358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>48 DESTROYED - Ghost</name>
+        <description><![CDATA[Was advised by a friend they saw one here, next to the Centrium building, already gone when we got there :(<br><br>Located on Wyndham Street, across from ICON bar]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.154773,22.281075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>49 DESTROYED - Black w/mirror</name>
+        <description>New one added around the beginning of December</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            114.1686773,22.3225719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

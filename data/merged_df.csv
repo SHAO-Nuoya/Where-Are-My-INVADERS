@@ -114,8 +114,8 @@ PA_0112, 19 rue Gassendi,2.326943,48.835,10,OK,juin 2019 (report),blue
 PA_0113, 46 rue du Cardinal Lemoine,2.351423,48.846596,10,Un peu dégradé,octobre 2022,pink
 PA_0114, 26 rue Vieille du Temple,2.357275,48.857153,30,OK,juin 2019 (spott),blue
 PA_0115, impasse des ArbalÃƒÂ©triers,2.359639,48.858572,30,OK,juillet 2018 (report),blue
-PA_0116, 45 passage ThiÃƒÂ©rÃƒÂ©,2.372764,48.854719,20,Dégradé,septembre 2022 (FlashInvaders),pink
-PA_0117, 31 passage ThiÃƒÂ©rÃƒÂ© sur le trottoir,2.373113,48.854414,10,Détruit !,septembre 2022,pink
+PA_0116, 45 passage ThiÃƒÂ©rÃƒÂ©,2.372764,48.854719,20,Détruit !,octobre 2022,black
+PA_0117, 31 passage ThiÃƒÂ©rÃƒÂ© sur le trottoir,2.373113,48.854414,10,Détruit !,octobre 2022,pink
 PA_0118, 1 rue Raymond Ayron,2.375347,48.835576,10,Détruit !,mars 2021 (report),black
 PA_0119, 102 rue de Bagnolet,2.402789,48.859426,10,OK,septembre 2017 (spott),pink
 PA_0120, 44 quai de Jemmapes,2.367228,48.869474,30,OK,novembre 2021 (Instagram),pink
@@ -539,7 +539,7 @@ PA_0537," 160 rue Oberkampf, piscine de l'Espace Form",2.38281,48.86626,20,Détr
 PA_0538,,,,20,Non visible,,grey
 PA_0539, 30 rue Beaubourg dans la cour,2.354191,48.862014,10,OK,décembre 2018 (spott),blue
 PA_0540, impasse Questre,2.38131,48.8682,10,OK,juin 2018 (spott),pink
-PA_0541,"Sur le trottoir, rue des Taillandiers",2.37464,48.85555,20,Très dégradé,octobre 2022 (report),pink
+PA_0541,"Sur le trottoir, rue des Taillandiers",2.37464,48.85555,20,Très dégradé,octobre 2022,red
 PA_0542, 5 rue de Rambouillet,2.379208,48.843367,50,Très dégradé,avril 2022,red
 PA_0543, 1 rue Duchefdelaville,2.370989,48.832575,50,OK,août 2019 (report),blue
 PA_0544,,,,30,OK,septembre 2020 (Instagram),pink
@@ -1480,15 +1480,15 @@ PA_1478,,,,30,OK,octobre 2022,blue
 PA_1479,,,,30,OK,octobre 2022,blue
 VRS_0001,2 rue du Baillage,2.130904,48.807637,30,OK,mai 2019 (spott),pink
 VRS_0002,rue des 2 Portes,2.130867,48.806304,20,OK,mai 2019 (spott),pink
-VRS_0003,1 rue des Deux Portes,2.130321,48.805509,30,DÃ©truit !,mai 2019 (spott),blue
-VRS_0004,carré à la Marée,2.13219,48.8071,20,DÃ©truit !,juin 2019 (report),blue
+VRS_0003,1 rue des Deux Portes,2.130321,48.805509,30,Détruit !,mai 2019 (spott),black
+VRS_0004,carré à la Marée,2.13219,48.8071,20,Détruit !,juin 2019 (report),black
 VRS_0005,10 rue de Fontenay,2.1253,48.801279,40,OK,juillet 2018 (report),pink
 VRS_0006,2 avenue de Paris,2.129281,48.801969,30,OK,mai 2019 (spott),pink
 VRS_0007,2 rue Saint-Lazare,2.129415,48.808584,50,OK,mai 2019 (spott),pink
 VRS_0008,40 rue du Vieux Versailles,2.124758,48.800284,20,OK,juillet 2018 (report),pink
 VRS_0009,12 avenue du Général de Gaulle,2.128459,48.800617,30,OK,mai 2019 (spott),pink
 VRS_0010,48 boulevard de Jardy,2.152928,48.832282,30,OK,avril 2019 (report),blue
-VRS_0011,65 avenue de Saint-Cloud,2.13536,48.80561,40,OK,fÃ©vrier 2019 (report),pink
+VRS_0011,65 avenue de Saint-Cloud,2.13536,48.80561,40,OK,février 2019 (report),pink
 VRS_0012,1 place Hoche,2.12728,48.8063,20,OK,mai 2019 (spott),pink
 VRS_0013,pavillon de l'Octroi,2.153225,48.798473,30,OK,mai 2019 (spott),blue
 VRS_0014,25 rue de Noailles,2.13499,48.7981,30,OK,juillet 2018 (report),pink
@@ -1496,30 +1496,72 @@ VRS_0015,15 rue du Peintre Lebrun,2.12477,48.80652,40,OK,mai 2019 (spott),pink
 VRS_0016,40 rue de l'Orangerie,2.12429,48.7996,30,OK,juillet 2018 (report),pink
 VRS_0017,27 rue des Réservoirs,2.12515,48.8094,30,OK,juillet 2018 (report),pink
 VRS_0018,17 rue Colbert,2.127111,48.805025,30,OK,juillet 2018 (report),pink
-VRS_0019,0 rue d'Anjou,2.123183,48.79795,30,DÃ©gradÃ©,novembre 2020 (report),pink
-VRS_0020,allée du Potager,2.119912,48.800811,30,DÃ©truit !,mars 2019 (spott),blue
+VRS_0019,0 rue d'Anjou,2.123183,48.79795,30,Dégradé,novembre 2020 (report),pink
+VRS_0020,allée du Potager,2.119912,48.800811,30,Détruit !,mars 2019 (spott),black
 VRS_0021,0 rue de Limoges,2.132251,48.800292,40,OK,juillet 2018 (report),pink
 VRS_0022,16 rue Sainte-Anne,2.1258,48.80536,50,OK,juillet 2018 (report),pink
-VRS_0023,jardins de l'Orangerie,2.118563,48.801412,30,DÃ©truit !,mai 2019 (report),blue
-VRS_0024,,,,??,DÃ©truit !,mai 2019 (spott),blue
-VRS_0025,,,,40,DÃ©truit !,juin 2019 (report),blue
-VRS_0026,,,,50,DÃ©truit !,mai 2019 (report),blue
-VRS_0027,,,,40,DÃ©truit !,mai 2019 (report),blue
-VRS_0028,,,,40,DÃ©truit !,juin 2019 (Instagram),blue
-VRS_0029,,,,??,DÃ©truit !,mai 2019 (spott),blue
-VRS_0030,,,,40,DÃ©truit !,juin 2019 (report),blue
-VRS_0031,,,,40,DÃ©truit !,juin 2019 (report),blue
-VRS_0032,,,,??,DÃ©truit !,mai 2019 (spott),blue
-VRS_0033,,,,40,DÃ©truit !,mai 2019 (report),blue
-VRS_0034,0 rue Pierre Bertin,2.143041,48.806876,30,DÃ©gradÃ©,mai 2019 (spott),pink
+VRS_0023,jardins de l'Orangerie,2.118563,48.801412,30,Détruit !,mai 2019 (report),black
+VRS_0024,,,,??,Détruit !,mai 2019 (spott),black
+VRS_0025,,,,40,Détruit !,juin 2019 (report),black
+VRS_0026,,,,50,Détruit !,mai 2019 (report),black
+VRS_0027,,,,40,Détruit !,mai 2019 (report),black
+VRS_0028,,,,40,Détruit !,juin 2019 (Instagram),black
+VRS_0029,,,,??,Détruit !,mai 2019 (spott),black
+VRS_0030,,,,40,Détruit !,juin 2019 (report),black
+VRS_0031,,,,40,Détruit !,juin 2019 (report),black
+VRS_0032,,,,??,Détruit !,mai 2019 (spott),black
+VRS_0033,,,,40,Détruit !,mai 2019 (report),black
+VRS_0034,0 rue Pierre Bertin,2.143041,48.806876,30,Dégradé,mai 2019 (spott),pink
 VRS_0035,1 rue de Bretagne,2.15922,48.80226,50,OK,mai 2019 (spott),blue
 VRS_0036,30 rue des Chantiers,2.138546,48.795779,30,OK,mai 2019 (spott),pink
 VRS_0037,3 rue Saint-Honoré,2.125345,48.798534,40,OK,mai 2019 (spott),pink
-VRS_0038,Place d'Armes,2.126332,48.803361,40,DÃ©truit !,juin 2019 (report),blue
-VRS_0039,0 rue de la Paroisse,2.12389,48.8087,20,DÃ©truit !,juin 2019 (report),blue
+VRS_0038,Place d'Armes,2.126332,48.803361,40,Détruit !,juin 2019 (report),black
+VRS_0039,0 rue de la Paroisse,2.12389,48.8087,20,Détruit !,juin 2019 (report),black
 VRS_0040,1 avenue de Maintenon,2.137759,48.819504,30,OK,mai 2019 (spott),pink
 VRS_0041,42 rue du Maréchal Foch,2.134159,48.809835,100,OK,mai 2019 (spott),pink
 VRS_0042,54 avenue de Villeneuve l'Étang,2.149957,48.81891,40,OK,mai 2019 (spott),pink
+LJU_0001,"Pod turnom 3, Inside MGLC",14.492948,46.054692,30,OK,mai 2021 (report),blue
+LJU_0002,,,,10,OK,décembre 2021 (report),blue
+LJU_0003,,,,20,Non visible,septembre 2021 (report),grey
+LJU_0004,,,,10,OK,juillet 2020 (report),blue
+LJU_0005,,,,10,Un peu dégradé,mars 2021 (Live FlashInvaders),yellow
+LJU_0006,,,,10,OK,mai 2018 (flash),blue
+LJU_0007,,,,10,OK,juillet 2020 (report),blue
+LJU_0008,"Pod turnom 3, Tivoli Castle",14.493099,46.0547389,30,OK,juillet 2020 (report),blue
+LJU_0009,"Trubarjeva cesta 7, ",14.50762,46.052049,10,OK,juillet 2020 (report),blue
+LJU_0010,"Metelkova ulica 9, Accross the street - entrance pillar",14.515853,46.05645,10,Un peu dégradé,juillet 2021 (report),yellow
+LJU_0011,"Tabor 4, ",14.516726,46.05378,20,OK,mai 2021 (Instagram),blue
+LJU_0012,"Resljeva cesta 2, Building next to pedestrian crossing",14.510176,46.052406,20,OK,mai 2021 (Instagram),blue
+LJU_0013,"Židovska steza 7, ",14.504983,46.048625,10,OK,mai 2021 (Instagram),blue
+LJU_0014,"Židovska ulica 1, ",14.504941,46.049066,30,OK,mai 2021 (Instagram),blue
+LJU_0015,"Cankarjevo nabrežje 25, ",14.505701,46.049103,10,OK,mai 2021 (Instagram),blue
+LJU_0016,"Cankarjevo nabrežje 13, ",14.505698,46.04979,20,OK,mai 2021 (Instagram),blue
+LJU_0017,"Cankarjevo nabrežje 1, Triple Bridge",14.506137,46.050971,50,Un peu dégradé,juillet 2020 (report),yellow
+LJU_0018,"Masarykova cesta 15, ",14.517164,46.057629,30,OK,mai 2021 (Instagram),blue
+LJU_0019,"Masarykova cesta 15, Metelkova entrance pillar",14.517069,46.057522,10,Un peu dégradé,juillet 2021 (report),yellow
+LJU_0020,,,,20,OK,juillet 2020 (report),blue
+LJU_0021,"Zaloška cesta 16, ",14.530124,46.054564,30,OK,mars 2021 (report),blue
+LJU_0022,"Zaloška cesta 55, ",14.534499,46.056235,50,OK,mars 2021 (report),blue
+LJU_0023,"Trg prekomorskih brigad 3, Kino Šiška",14.489014,46.069094,30,OK,mars 2021 (report),blue
+LJU_0024,"Eipprova ulica 1a, Eipprova ulica & Trnovski pristan",14.505499,46.043592,20,OK,mars 2021 (report),blue
+LJU_0025,"Hradeckega most, Hradeckega Bridge",14.505312,46.044411,50,OK,mars 2021 (Instagram),blue
+LJU_0026,"Privoz 17, ",14.510934,46.04086,20,OK,mars 2021 (report),blue
+LJU_0027,"Gruberjevo nabrežje 14, ",14.512785,46.0411191,30,OK,mars 2021 (report),blue
+LJU_0028,"Celovška cesta 103, Bar Šiška",14.491255,46.067452,50,OK,mars 2021 (report),blue
+LJU_0029,"Poljanska cesta 30a, ",14.51946,46.048558,50,OK,mars 2021 (report),blue
+LJU_0030,"Tržaška c. 2, ",14.494757,46.047448,50,OK,mars 2021 (report),blue
+LJU_0031,"Krekov trg 2, Ljubljana Puppet Theatre",14.510076,46.050301,30,OK,mars 2021 (report),blue
+LJU_0032,"Stari trg 21, ",14.506731,46.046924,30,OK,mars 2021 (report),blue
+LJU_0033,"Stari trg 2, ",14.506085,46.048308,40,OK,mars 2021 (report),blue
+LJU_0034,"Pod Trančo 2, ",14.506106,46.048428,30,OK,mars 2021 (report),blue
+LJU_0035,"Vodnikov trg 5, Atrium - Go through the door from the main street",14.509209,46.050524,20,OK,mars 2021 (report),blue
+LJU_0036,"Resljeva cesta 2, Dragon Bridge",14.510446,46.052221,50,OK,mars 2021 (report),blue
+LJU_0037,"Slovenska cesta 30, Knafljev prehod",14.503363,46.051719,30,Détruit !,mai 2022,black
+LJU_0038,"Štefanova ulica 8, Argentinski park",14.502993,46.053985,50,OK,mars 2021 (report),blue
+LJU_0039,"Ajdovščina 1, Trg Ajdovščina",14.504499,46.053881,40,OK,mars 2021 (Instagram),blue
+LJU_0040,"Dalmatinova ulica 1, ",14.504701,46.054348,30,OK,mars 2021 (report),blue
+LJU_0041,"Cesta 27. aprila 2, Botanical garden in Tivoli of University of Ljubljana",14.493746,46.051861,30,OK,mars 2021 (report),blue
+LJU_0042,"Gornji trg 44, ",14.50961,46.045117,50,OK,mars 2021 (report),blue
 AIX_0001,,,,10,OK,juillet 2020 (report),blue
 AIX_0002,,,,10,Très dégradé,août 2020 (report),red
 AIX_0003,,,,10,OK,juillet 2020 (report),blue
@@ -2760,48 +2802,6 @@ LIL_0002,,,,10,OK,juillet 2020 (report),blue
 LIL_0003,,,,10,OK,septembre 2019 (report),blue
 LIL_0004,,,,10,Détruit !,mars 2021 (report),black
 LIL_0005,,,,20,Un peu dégradé,février 2021 (Live FlashInvaders),yellow
-LJU_0001,,,,30,OK,mai 2021 (report),blue
-LJU_0002,,,,10,OK,décembre 2021 (report),blue
-LJU_0003,,,,20,Non visible,septembre 2021 (report),grey
-LJU_0004,,,,10,OK,juillet 2020 (report),blue
-LJU_0005,,,,10,Un peu dégradé,mars 2021 (Live FlashInvaders),yellow
-LJU_0006,,,,10,OK,mai 2018 (flash),blue
-LJU_0007,,,,10,OK,juillet 2020 (report),blue
-LJU_0008,,,,30,OK,juillet 2020 (report),blue
-LJU_0009,,,,10,OK,juillet 2020 (report),blue
-LJU_0010,,,,10,Un peu dégradé,juillet 2021 (report),yellow
-LJU_0011,,,,20,OK,mai 2021 (Instagram),blue
-LJU_0012,,,,20,OK,mai 2021 (Instagram),blue
-LJU_0013,,,,10,OK,mai 2021 (Instagram),blue
-LJU_0014,,,,30,OK,mai 2021 (Instagram),blue
-LJU_0015,,,,10,OK,mai 2021 (Instagram),blue
-LJU_0016,,,,20,OK,mai 2021 (Instagram),blue
-LJU_0017,,,,50,Un peu dégradé,juillet 2020 (report),yellow
-LJU_0018,,,,30,OK,mai 2021 (Instagram),blue
-LJU_0019,,,,10,Un peu dégradé,juillet 2021 (report),yellow
-LJU_0020,,,,20,OK,juillet 2020 (report),blue
-LJU_0021,,,,30,OK,mars 2021 (report),blue
-LJU_0022,,,,50,OK,mars 2021 (report),blue
-LJU_0023,,,,30,OK,mars 2021 (report),blue
-LJU_0024,,,,20,OK,mars 2021 (report),blue
-LJU_0025,,,,50,OK,mars 2021 (Instagram),blue
-LJU_0026,,,,20,OK,mars 2021 (report),blue
-LJU_0027,,,,30,OK,mars 2021 (report),blue
-LJU_0028,,,,50,OK,mars 2021 (report),blue
-LJU_0029,,,,50,OK,mars 2021 (report),blue
-LJU_0030,,,,50,OK,mars 2021 (report),blue
-LJU_0031,,,,30,OK,mars 2021 (report),blue
-LJU_0032,,,,30,OK,mars 2021 (report),blue
-LJU_0033,,,,40,OK,mars 2021 (report),blue
-LJU_0034,,,,30,OK,mars 2021 (report),blue
-LJU_0035,,,,20,OK,mars 2021 (report),blue
-LJU_0036,,,,50,OK,mars 2021 (report),blue
-LJU_0037,,,,30,Détruit !,mai 2022,black
-LJU_0038,,,,50,OK,mars 2021 (report),blue
-LJU_0039,,,,40,OK,mars 2021 (Instagram),blue
-LJU_0040,,,,30,OK,mars 2021 (report),blue
-LJU_0041,,,,30,OK,mars 2021 (report),blue
-LJU_0042,,,,50,OK,mars 2021 (report),blue
 LSN_0001,,,,10,Détruit !,octobre 2021 (Instagram),black
 LSN_0002,,,,10,Un peu dégradé,septembre 2020 (report),yellow
 LSN_0004,,,,10,OK,mars 2019 (report),blue

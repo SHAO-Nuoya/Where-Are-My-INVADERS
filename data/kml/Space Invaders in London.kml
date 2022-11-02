@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Space Invaders in London</name>
+    <description>Space invaders around London. These have been installed in various waves over the years by a French guy who calls himself invader. See http://www.space-invaders.com for more information.</description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>LDN_01</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6gNRfkUuaCVghiKlivIsDJjFG3jXKWB0BWRrmrcNJ9WoToH54d97fvskJmd-r8ereggw0Klzfpm77bxlbFTFLHkB0Ov_jWQH1ZTUYA_98ZHfW_vhmXUqPHoyoI_Vi_rKGwwxc" height="200" width="auto" /><br><br>Ladbroke Grove (http://www.flickr.com/photos/oblong/3689905025/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6_ASkcvCL-6zI2eva9SAup2IUszE_E4Bzp5deusqkbmZM0GxhJ4kStA9n0hO4t3kb3IaRNo_yxE5CVFxhZMMkO9LKHRMLgabQTljAENwEp0HLau0T3yErQFG-cEhVS4Z5sx1s" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6gNRfkUuaCVghiKlivIsDJjFG3jXKWB0BWRrmrcNJ9WoToH54d97fvskJmd-r8ereggw0Klzfpm77bxlbFTFLHkB0Ov_jWQH1ZTUYA_98ZHfW_vhmXUqPHoyoI_Vi_rKGwwxc https://lh3.googleusercontent.com/umsh/AK26PW6_ASkcvCL-6zI2eva9SAup2IUszE_E4Bzp5deusqkbmZM0GxhJ4kStA9n0hO4t3kb3IaRNo_yxE5CVFxhZMMkO9LKHRMLgabQTljAENwEp0HLau0T3yErQFG-cEhVS4Z5sx1s</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.214142,51.52438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_04</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5KZuWknITgIC-swhQg3rCLT-MhCOu9TRis-vAauWtktlGiPYEWzV0n5wSoTp6xf85n-_ufJymm1FWXBJicndwd-aeDMNY67eikF584sUsGHI9U3o-Sc8FzxN_g7BSKfXwED5o" height="200" width="auto" /><br><br>Pembridge Road (http://www.flickr.com/photos/oblong/3690724314/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5cysMGLVV8DX9Kk3Ro_qgQn4_DiTgxPByB87MZ07CUYYrdGOO1F_vHYeqnq8IyP-yMRoi-kOuulrpDEtnHXCDqNzF14P2joXUvAZJEZvmbTtQokVZIIwJI3dpUqv4CDTGflbo" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5KZuWknITgIC-swhQg3rCLT-MhCOu9TRis-vAauWtktlGiPYEWzV0n5wSoTp6xf85n-_ufJymm1FWXBJicndwd-aeDMNY67eikF584sUsGHI9U3o-Sc8FzxN_g7BSKfXwED5o https://lh3.googleusercontent.com/umsh/AK26PW5cysMGLVV8DX9Kk3Ro_qgQn4_DiTgxPByB87MZ07CUYYrdGOO1F_vHYeqnq8IyP-yMRoi-kOuulrpDEtnHXCDqNzF14P2joXUvAZJEZvmbTtQokVZIIwJI3dpUqv4CDTGflbo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.197494,51.511356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_05</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5pOdxnhmUmVEyE9P4g4uQDBQgq5cNu-f8erqMdBiGvEidSp581mVDGtjF4ORzCKi39Sorfj7ZWS8W5dNdd3osEpKE22U0p39uBDu63lYhvqXwCL1kBxWhKnuflyIcVPp-zOA" height="200" width="auto" /><br><br>Bateman Street (http://www.flickr.com/photos/oblong/3415099165/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6NvdEdo5664LLpitbQCgX9llpHyU761AP-UsX__s71I-xnl4RaPwE6gwbD_yWush4dVpjQekEweLXWVGoZ_ZCVdAQX1eHAi76NXlBEHb7yIUp3FAWAi9dRiqgzjqX-rxoFbsk" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5pOdxnhmUmVEyE9P4g4uQDBQgq5cNu-f8erqMdBiGvEidSp581mVDGtjF4ORzCKi39Sorfj7ZWS8W5dNdd3osEpKE22U0p39uBDu63lYhvqXwCL1kBxWhKnuflyIcVPp-zOA https://lh3.googleusercontent.com/umsh/AK26PW6NvdEdo5664LLpitbQCgX9llpHyU761AP-UsX__s71I-xnl4RaPwE6gwbD_yWush4dVpjQekEweLXWVGoZ_ZCVdAQX1eHAi76NXlBEHb7yIUp3FAWAi9dRiqgzjqX-rxoFbsk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.13175,51.513991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_06</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6l1pSEuPY325qt238FFmVNzTg8p_5R8389ZMGTiYFmnJNxwigbsz7I-UzV-iB5tXznuZ0QkwkMNDJ4owt6CixqGDPVFli4kaPESS1cm40pNHeZc1lJA8uW7-mYxklpvaSQbQ" height="200" width="auto" /><br><br>Meard Street (http://www.flickr.com/photos/oblong/3415908798/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6uL9oVQlCWVz9blVGEpR8r4Kw96y5s7cEYPqDKWdHJUGtF8OB2PIXnsWE79CfRdYPD7jcpMsimRjV9zjvtJ76EIqqrwCCDMm6I3LnTNDYj2mJ1AfRtlnkA1WTwfqLFFo-T5qw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6l1pSEuPY325qt238FFmVNzTg8p_5R8389ZMGTiYFmnJNxwigbsz7I-UzV-iB5tXznuZ0QkwkMNDJ4owt6CixqGDPVFli4kaPESS1cm40pNHeZc1lJA8uW7-mYxklpvaSQbQ https://lh3.googleusercontent.com/umsh/AK26PW6uL9oVQlCWVz9blVGEpR8r4Kw96y5s7cEYPqDKWdHJUGtF8OB2PIXnsWE79CfRdYPD7jcpMsimRjV9zjvtJ76EIqqrwCCDMm6I3LnTNDYj2mJ1AfRtlnkA1WTwfqLFFo-T5qw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.13278,51.51337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_07</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW46MHmluwyx8XPEjVpYfgdISGVjCPaGVw-QwetvUo3QI0C_fni-BVfAP2htzTAiX5UQv8WFKoJAQmG9XrkZcPNY0bFhGap_7oRxfH-jXodNvCSDGAntwoCY9LbIIoiU2OsPIF0" height="200" width="auto" /><br><br>Carlisle Street (http://www.flickr.com/photos/oblong/3415090045/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6JQ2tHqwdcy3QzG1i8cxA1hvJSFDcbQrNcCfDBQgYh1JAlGq2-HOAg_qTTflJ6ye_btPCPf3t0eKOkh6p7m5nhCQQj2XxBRSisLJeRbgCwsnDHZQ2I4zJtS4BP0an2HxodpQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW46MHmluwyx8XPEjVpYfgdISGVjCPaGVw-QwetvUo3QI0C_fni-BVfAP2htzTAiX5UQv8WFKoJAQmG9XrkZcPNY0bFhGap_7oRxfH-jXodNvCSDGAntwoCY9LbIIoiU2OsPIF0 https://lh3.googleusercontent.com/umsh/AK26PW6JQ2tHqwdcy3QzG1i8cxA1hvJSFDcbQrNcCfDBQgYh1JAlGq2-HOAg_qTTflJ6ye_btPCPf3t0eKOkh6p7m5nhCQQj2XxBRSisLJeRbgCwsnDHZQ2I4zJtS4BP0an2HxodpQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.132893,51.515083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_08</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7tI4gE4PCbjWVP7OZBtrrn4y0M6mtqfI92Qy4stfSeTRWymU9XHNOQ7PDiDNaX4f-Z568ClppA6gZwyqY2BdT2-eAFAAzMruQd1Krq432Atavh3vz07gKg0FO4C_W4wjD3i8E" height="200" width="auto" /><br><br>Old Brewers Yard (http://www.flickr.com/photos/oblong/3415058395/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6I7D_Z2sGZNMf7POXO6dhaKMXD3f4LIIhsumQRhpmOSNmR94nd30qgtIZZZbUS2rwsCPsgbIxDoK_jspAiYO87fNDcPj0Fg8nAGFBbmcoDtNy2GiWmC2OaYrRBoZqJMToPUpw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7tI4gE4PCbjWVP7OZBtrrn4y0M6mtqfI92Qy4stfSeTRWymU9XHNOQ7PDiDNaX4f-Z568ClppA6gZwyqY2BdT2-eAFAAzMruQd1Krq432Atavh3vz07gKg0FO4C_W4wjD3i8E https://lh3.googleusercontent.com/umsh/AK26PW6I7D_Z2sGZNMf7POXO6dhaKMXD3f4LIIhsumQRhpmOSNmR94nd30qgtIZZZbUS2rwsCPsgbIxDoK_jspAiYO87fNDcPj0Fg8nAGFBbmcoDtNy2GiWmC2OaYrRBoZqJMToPUpw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.125275,51.513748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_09</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6pbq8PIGtpmQPg80D-JyNJqgT8glQsGW6UR2RV5kTYGCIVpkcgMYyPBkL-f7rt6AbFpCdFxO1DDiaJkcmi2MbznkK7Q799N71CKRe9BTNFFYwqe7B3d01A4SyK0Nk" height="200" width="auto" /><br><br>Neal Street.<br> <br>This invader has now gone.<br> <br>(Image from 2cauldrons (http://www.flickr.com/photos/2cauldrons/194532620/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6pbq8PIGtpmQPg80D-JyNJqgT8glQsGW6UR2RV5kTYGCIVpkcgMYyPBkL-f7rt6AbFpCdFxO1DDiaJkcmi2MbznkK7Q799N71CKRe9BTNFFYwqe7B3d01A4SyK0Nk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.124288,51.513365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_10</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4wjxrGeIVpbmExzecbGhFRZx1vqKMt_f1U4r_VkWh8Sj-OgywqHDnbwqhNTQUZ_G18MIl_bw2yuqIR4QVBv1aPl3Xq_KwQvrSIfvriEccyZtNPOxpO0dXzQgjohqAo" height="200" width="auto" /><br><br>Picadilly Circus.<br> <br>This invader has now gone.<br> <br>(Image from tofz4u (http://www.flickr.com/photos/tofz4u/248969752/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4wjxrGeIVpbmExzecbGhFRZx1vqKMt_f1U4r_VkWh8Sj-OgywqHDnbwqhNTQUZ_G18MIl_bw2yuqIR4QVBv1aPl3Xq_KwQvrSIfvriEccyZtNPOxpO0dXzQgjohqAo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.135197,51.509964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_11</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4e_Ye_v6CTQepWDy_ZFd-zLAh144chvmt9-anbO-HTVGmI8Z3VVWjT7JOHy8BpNrqdlFib8r2gN3SPipCKROAAAXARVowpnwD1BH3ox6AN5V2nyLwv-tIBdidcz37KmIfERQE" height="200" width="auto" /><br><br>Stafford Street (http://www.flickr.com/photos/oblong/3554116705/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5khtBNJ4dj0aSO_bqNUdDR2e5nng5R4N1xgCydXP_cF9MVb6dY7RaynFkh18GAcSMJlsDDsNsV7Yl1tzHQeyUv87Nh_MsCi7kdvm6aKj3tYwnp2hZd5QjSfavWctrQKE67NZg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4e_Ye_v6CTQepWDy_ZFd-zLAh144chvmt9-anbO-HTVGmI8Z3VVWjT7JOHy8BpNrqdlFib8r2gN3SPipCKROAAAXARVowpnwD1BH3ox6AN5V2nyLwv-tIBdidcz37KmIfERQE https://lh3.googleusercontent.com/umsh/AK26PW5khtBNJ4dj0aSO_bqNUdDR2e5nng5R4N1xgCydXP_cF9MVb6dY7RaynFkh18GAcSMJlsDDsNsV7Yl1tzHQeyUv87Nh_MsCi7kdvm6aKj3tYwnp2hZd5QjSfavWctrQKE67NZg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.141819,51.508519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_12</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7b7EpB2dUkCeV_SmGUyej4lN97hzcqBxOn0SCmuzs62Rs5EcprgQGXZVnhOIYig2T2vRR2kYe6QoSzSrBGpsqHVj9MKTpOaa-okU07VzWNEzCAfDbICfdhG0npMRr0" height="200" width="auto" /><br><br>Hay Hill.<br> <br>This invader has now gone.<br> <br>(Image from tofz4u (http://www.flickr.com/photos/tofz4u/251624818/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7b7EpB2dUkCeV_SmGUyej4lN97hzcqBxOn0SCmuzs62Rs5EcprgQGXZVnhOIYig2T2vRR2kYe6QoSzSrBGpsqHVj9MKTpOaa-okU07VzWNEzCAfDbICfdhG0npMRr0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.143285,51.50932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_13</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6_hSjNO9ozFClkKRVshJCON36tV8WXmJxfmHyKk4rsFMVE5-EDFjGFss82zZbCP-KEYr80G41p_8Qw3-u2FfjESZJuL9waS5ylf4QV7GNM4xzqYkTt9gO8B_kqNmUiJJwu" height="200" width="auto" /><br><br>Burlington Gardens.<br> <br>This invader has now gone.<br> <br>(Image from paulo90210 (http://www.flickr.com/photos/paulo2070/2972098138/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6_hSjNO9ozFClkKRVshJCON36tV8WXmJxfmHyKk4rsFMVE5-EDFjGFss82zZbCP-KEYr80G41p_8Qw3-u2FfjESZJuL9waS5ylf4QV7GNM4xzqYkTt9gO8B_kqNmUiJJwu</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.139899,51.510035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_14</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6AeaGjeEltyPBqN8loOMNTo4SC8ASfdQ224dzzO1BjUKwnkFM3fiP0Uyt2q47lR5N965qaCNJ1uIMqYHZ_VSj20lJ7gCDks_Gj6qHZlAzD8HYEhIeFbiX68PexPZMaF3hNRvM" height="200" width="auto" /><br><br>Coventry Street.<br> <br>This invader has now gone.<br> <br>(Image from paulo90210 (http://www.flickr.com/photos/paulo2070/2971250635/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6AeaGjeEltyPBqN8loOMNTo4SC8ASfdQ224dzzO1BjUKwnkFM3fiP0Uyt2q47lR5N965qaCNJ1uIMqYHZ_VSj20lJ7gCDks_Gj6qHZlAzD8HYEhIeFbiX68PexPZMaF3hNRvM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.134081,51.510121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_15</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7Qs8UOFNXp1lSkIinYIECr0j2doNah6mM-Du6JYpfpkPvR9uMBl8p9-JBTpXori_ofVYY8ETcQnKXLJ0Z8JuSEK-5IG-UShEw7DCo5UhZ5Lf5ARoYmB-raXk0q7g0UIeQ" height="200" width="auto" /><br><br>Air Street.<br> <br>This invader has now gone.<br> <br>(Image from paulo90210 (http://www.flickr.com/photos/paulo2070/2971249947/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7Qs8UOFNXp1lSkIinYIECr0j2doNah6mM-Du6JYpfpkPvR9uMBl8p9-JBTpXori_ofVYY8ETcQnKXLJ0Z8JuSEK-5IG-UShEw7DCo5UhZ5Lf5ARoYmB-raXk0q7g0UIeQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.136028,51.509621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_16</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4vftcd3KY2oFhUu3lbywGMV_0HoTP2d0EwJmNhvNpHjns98Zm83P_dIs9RaeJJ37vK8vGt1aN1vpIyAaQh5HbiL3X4sMMoarLmPckEEsPp_3KHnmpE4IMR8gQOUE-Lb5HQIsc" height="200" width="auto" /><br><br>Pall Mall.<br> <br>This invader has now gone.<br> <br>(Image from paulo90210 (http://www.flickr.com/photos/paulo2070/2972092162/in/set-72157605001549523/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4vftcd3KY2oFhUu3lbywGMV_0HoTP2d0EwJmNhvNpHjns98Zm83P_dIs9RaeJJ37vK8vGt1aN1vpIyAaQh5HbiL3X4sMMoarLmPckEEsPp_3KHnmpE4IMR8gQOUE-Lb5HQIsc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.132877,51.507153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_20</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4Z2V-jEFcZ6osiqbvOPgv2OdUKxN-4kwqr4kwiJQ4xw2HH5z_V2u1eeOiLbtNXb95tnzRnXOB58IVAVR1TPgN3VNZk5JC_Q-xfzSbXKc2r_xRF8tRi5VPT_IyKcOMQDZI482A" height="200" width="auto" /><br><br>Thayer Street (http://www.flickr.com/photos/oblong/3690735388/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW66q_v1Wmc3GSK8joUQDmk5gtz5FkVSz-ozxHRUvq2w6IzIucgGsYJxMo8YPuWGZcGvuN1WZ6emeBKedTR9pU7o9ENrGm4cLZtHjD764rQLnULHA8Ltk3g_ETnK-wyb7GqAcA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4Z2V-jEFcZ6osiqbvOPgv2OdUKxN-4kwqr4kwiJQ4xw2HH5z_V2u1eeOiLbtNXb95tnzRnXOB58IVAVR1TPgN3VNZk5JC_Q-xfzSbXKc2r_xRF8tRi5VPT_IyKcOMQDZI482A https://lh3.googleusercontent.com/umsh/AK26PW66q_v1Wmc3GSK8joUQDmk5gtz5FkVSz-ozxHRUvq2w6IzIucgGsYJxMo8YPuWGZcGvuN1WZ6emeBKedTR9pU7o9ENrGm4cLZtHjD764rQLnULHA8Ltk3g_ETnK-wyb7GqAcA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.151427,51.517009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_24</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6KNj-AoX0keUmv9P3SX8GCuGKu9ewoKLRr_r3Adgkh7YUQ463ntKQF6FCPfN8_c3crpo6koNF9RdholSLWz_ybIyIo2ryHUZCtV5wrnhgnzC6YxSQfVVL7Wcvq3up13wjMsd4" height="200" width="auto" /><br><br>Brick Lane (http://www.flickr.com/photos/oblong/3385019924/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5D-KqkM58lVwwxnbe4kBINyfmt2IH7c1NQO-lwPsYK0GAfnNq9I8d-TbajUNqUMWfSd_ZSuR7JwGZjvBNJWUAPBbX8jUxYftwJcsC4DCN_shGda3apVeH8QXEgXp5wuTZuezA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6KNj-AoX0keUmv9P3SX8GCuGKu9ewoKLRr_r3Adgkh7YUQ463ntKQF6FCPfN8_c3crpo6koNF9RdholSLWz_ybIyIo2ryHUZCtV5wrnhgnzC6YxSQfVVL7Wcvq3up13wjMsd4 https://lh3.googleusercontent.com/umsh/AK26PW5D-KqkM58lVwwxnbe4kBINyfmt2IH7c1NQO-lwPsYK0GAfnNq9I8d-TbajUNqUMWfSd_ZSuR7JwGZjvBNJWUAPBbX8jUxYftwJcsC4DCN_shGda3apVeH8QXEgXp5wuTZuezA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.071883,51.521603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_25</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6_Rwn6402VmKItC1ZQfso9D54W__F9x5kcvhGtg0YwXP32GkJ88TZ3r0hz8b0A9_-jpixDJ7vWzECCuq3ik2ZynBSStLBPeeRYRXfJUKKXUyytUMO26725MDAUwIZcy-F6mE0" height="200" width="auto" /><br><br>Brick Lane (http://www.flickr.com/photos/oblong/3384228299/in/set-72157615760682333/).<br> <br>This invader has now gone.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5fjeP36dhuva8HJvSHrKQuaX7yK4FNiYLc22rMwjLuhm7XNYJtqSW1WnP4wOo9fxVKCYg8b2FbZOP9SOQrAjgNH2HA5emidARugTCdO7OE5IMm3QJbjj1X2i_VJ98ExfurQw8" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6_Rwn6402VmKItC1ZQfso9D54W__F9x5kcvhGtg0YwXP32GkJ88TZ3r0hz8b0A9_-jpixDJ7vWzECCuq3ik2ZynBSStLBPeeRYRXfJUKKXUyytUMO26725MDAUwIZcy-F6mE0 https://lh3.googleusercontent.com/umsh/AK26PW5fjeP36dhuva8HJvSHrKQuaX7yK4FNiYLc22rMwjLuhm7XNYJtqSW1WnP4wOo9fxVKCYg8b2FbZOP9SOQrAjgNH2HA5emidARugTCdO7OE5IMm3QJbjj1X2i_VJ98ExfurQw8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.071787,51.521121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_27</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4iB6UFvpb54oqESHseoll-HD2AqotkL_B5CV5raUTcIkSe4xEEVjHKtbeW-m7mogkCQU45V_a0U-PnsR7mUiIx24lbbUbXpUuRei_vc65MFdn5yOGA2v8uOOAmT3kYbURl2qU" height="200" width="auto" /><br><br>Bayford Road (http://www.flickr.com/photos/oblong/3689889243/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7t-_Nb96tLm2HZGzHHK94Jyxu-MVZCrD5lE_9u9T5c46vx9pNVzVXHPaR3xzzMGHN6LbSigV9VnBiF2UkEwVB5EGkjrYVTSzVTzQcstiGFKYdhfem3S4K1DTSDyWOEKo2bbw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4iB6UFvpb54oqESHseoll-HD2AqotkL_B5CV5raUTcIkSe4xEEVjHKtbeW-m7mogkCQU45V_a0U-PnsR7mUiIx24lbbUbXpUuRei_vc65MFdn5yOGA2v8uOOAmT3kYbURl2qU https://lh3.googleusercontent.com/umsh/AK26PW7t-_Nb96tLm2HZGzHHK94Jyxu-MVZCrD5lE_9u9T5c46vx9pNVzVXHPaR3xzzMGHN6LbSigV9VnBiF2UkEwVB5EGkjrYVTSzVTzQcstiGFKYdhfem3S4K1DTSDyWOEKo2bbw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.220309,51.5298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_29</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5G8X_lVxpG_NhjqNZLOMUo59bB7jCIxMRqvFry0cE9MBXwhIZChiKeJCL2r95sTklg21R7ioVGeV7-X8DHy3lkz5GeBK1k7WZuHfqL-G3Ql98qsgQYPkE3JeWvZZlDHPU1wg" height="200" width="auto" /><br><br>Ramillies Street.<br> <br>This invader has now gone (or at least has been painted over once or twice).<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5IbljvuB_WiQ7cd_8wwrWxKr82LW76X6g0fNxPh_0pDgPSS_0HRuokfIyyecb9DdRlElnnAJwNkAzwgmaF4g-rpAGIFUo8cj45MqktUoItmwWNac5BAv_O77Kd-ABNoAay7FA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5G8X_lVxpG_NhjqNZLOMUo59bB7jCIxMRqvFry0cE9MBXwhIZChiKeJCL2r95sTklg21R7ioVGeV7-X8DHy3lkz5GeBK1k7WZuHfqL-G3Ql98qsgQYPkE3JeWvZZlDHPU1wg https://lh3.googleusercontent.com/umsh/AK26PW5IbljvuB_WiQ7cd_8wwrWxKr82LW76X6g0fNxPh_0pDgPSS_0HRuokfIyyecb9DdRlElnnAJwNkAzwgmaF4g-rpAGIFUo8cj45MqktUoItmwWNac5BAv_O77Kd-ABNoAay7FA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.13931,51.515451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_30</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5BDDA6ibn9ZRTNk3khX2WZAhnzmVL-1r-cfeby4-5-OTge_3MNfg_ykV2HZHVCy5hU1EX8nPR-bYVNApRpQpi8RiBgr4fARD7oMt6QQ6B1KvXoVlym5iAbpFRPPqxsBzJI7NU" height="200" width="auto" /><br><br>Carnaby Street.<br> <br>This invader has now gone.<br> <br>(Image from paulo90210 (http://www.flickr.com/photos/paulo2070/2972098492/in/set-72157605001549523/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5BDDA6ibn9ZRTNk3khX2WZAhnzmVL-1r-cfeby4-5-OTge_3MNfg_ykV2HZHVCy5hU1EX8nPR-bYVNApRpQpi8RiBgr4fARD7oMt6QQ6B1KvXoVlym5iAbpFRPPqxsBzJI7NU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.138386,51.512752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_31</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6h8nyDzI8bgNwbFyBLo45-fhDECCK9QMBwBVUFyFsH_h76jrMGWA2ZKkmGTPBAluytdmoajQmiI5DVFfwBJsNPVbzwbozFH30m3G6ICEQFsFYI3Fx9pOEyQSNfq5ea18cQPQ" height="200" width="auto" /><br><br>Marlborough Court (http://www.flickr.com/photos/oblong/3554119633/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5YHZv5YbxDQ0HvwM16iIaU6kHXe5CgB0DDEeSjcTzaXU3V94gbnkvUI1YNl3lg9-ey3IOb7I8dlvmNOLcd1nEBIq3kPTMjJkgatPXdnA8PpFoT13HvsnmCqnN_gOpdgiPbhQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6h8nyDzI8bgNwbFyBLo45-fhDECCK9QMBwBVUFyFsH_h76jrMGWA2ZKkmGTPBAluytdmoajQmiI5DVFfwBJsNPVbzwbozFH30m3G6ICEQFsFYI3Fx9pOEyQSNfq5ea18cQPQ https://lh3.googleusercontent.com/umsh/AK26PW5YHZv5YbxDQ0HvwM16iIaU6kHXe5CgB0DDEeSjcTzaXU3V94gbnkvUI1YNl3lg9-ey3IOb7I8dlvmNOLcd1nEBIq3kPTMjJkgatPXdnA8PpFoT13HvsnmCqnN_gOpdgiPbhQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.138853,51.513573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_32</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW68ZZJ8_t4i11DCxA-ctKfNxCne6SSS-EBGjI1p20jdc3Y0YglF_OFcYTVyBwCKTu89defkW0bNgXFtNqinHrOLQDra76NdV0zgXVKpeRbkI1tztndLvWPedYB3QGYXJQ" height="200" width="auto" /><br><br>Broadwick Street (http://www.flickr.com/photos/oblong/3415912698/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4oQKV2YPiS6AJitzWlUIvGLzWarJmU5dDPyxBkgM57095xgq6ttQhk7yKc8ACJoYcjfnd9ysPeaIMS2cIxrbxEWOQ2biy2I8jeTaK3Y7Fa6kXUzHTjhbds4xLpxgHsEmNJ_A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW68ZZJ8_t4i11DCxA-ctKfNxCne6SSS-EBGjI1p20jdc3Y0YglF_OFcYTVyBwCKTu89defkW0bNgXFtNqinHrOLQDra76NdV0zgXVKpeRbkI1tztndLvWPedYB3QGYXJQ https://lh3.googleusercontent.com/umsh/AK26PW4oQKV2YPiS6AJitzWlUIvGLzWarJmU5dDPyxBkgM57095xgq6ttQhk7yKc8ACJoYcjfnd9ysPeaIMS2cIxrbxEWOQ2biy2I8jeTaK3Y7Fa6kXUzHTjhbds4xLpxgHsEmNJ_A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.137179,51.51324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_33</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5thQKSJo5loS8Z-LIIqfhhgCmCahgfEuVYph3ApLBoxUHEEXECmgfrdEeLLIvQVhHx0_yJ3AP_4ITyOUeD9gjbolyho74AASY-PTwr3Sd7AfhIfA9DyRUQkwai3C5L1r5403M" height="200" width="auto" /><br><br>Wardour Street (http://www.flickr.com/photos/oblong/3554112777/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6Cf-Qfx02t2iQRN4gbOgCZ6XfmITQWbR-r0gJGLx1PCJa2AxpJUQQmBQXJIYbHLm1P5Mbv3IbOTEOX1TIoFszXQLUT81i6ROc_QLE1rDIKfhGZTHxJOwARQpeCyLDJwtnrzQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5thQKSJo5loS8Z-LIIqfhhgCmCahgfEuVYph3ApLBoxUHEEXECmgfrdEeLLIvQVhHx0_yJ3AP_4ITyOUeD9gjbolyho74AASY-PTwr3Sd7AfhIfA9DyRUQkwai3C5L1r5403M https://lh3.googleusercontent.com/umsh/AK26PW6Cf-Qfx02t2iQRN4gbOgCZ6XfmITQWbR-r0gJGLx1PCJa2AxpJUQQmBQXJIYbHLm1P5Mbv3IbOTEOX1TIoFszXQLUT81i6ROc_QLE1rDIKfhGZTHxJOwARQpeCyLDJwtnrzQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.133027,51.512382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_34</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW43SKuibJj3y_tJiG_irtzhOBVjY3y9lInkiPuZ1eKtbLRgMT7lS11Do92nJbVJVSAKtRxhonnPTiBNJUC78Iuh8gm98F1L3lyZcAjdS-AxEsLAIYelmRcmWN1N21Y2_RgLB6k" height="200" width="auto" /><br><br>Earlham Street. (http://www.flickr.com/photos/oblong/3554092291/in/set-72157615760682333/)<br><br>In its better days this one looked like this:<br><br><br><br>(Image from Space Invasion! (http://www.flickr.com/photos/spaceinvasion/1590883279/))<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7-FrkSbFP8aXCSd1NPZA0xFqGGc4hmTWj-w_ScY--myF6Ze_BEyiycAUgtfk30S4BXo6yPsK4UDSvpiv9fOP9wmxwhfuTiC8i6N3qXvj65y9SyDtoIRy3pGHZkkQmCuvozRFk" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4GzYw--Ov-4pUBkE33Htq3szdKUsUZ5agbyzmNyeTc9x0PX9dI8CC74kKYzRu43Rapyrzszqb_OGJHIqCmBAYCPesuUkql7sOee9Pl70_suxYzahVEMX1ghjPWbhIZapo" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW43SKuibJj3y_tJiG_irtzhOBVjY3y9lInkiPuZ1eKtbLRgMT7lS11Do92nJbVJVSAKtRxhonnPTiBNJUC78Iuh8gm98F1L3lyZcAjdS-AxEsLAIYelmRcmWN1N21Y2_RgLB6k https://lh3.googleusercontent.com/umsh/AK26PW7-FrkSbFP8aXCSd1NPZA0xFqGGc4hmTWj-w_ScY--myF6Ze_BEyiycAUgtfk30S4BXo6yPsK4UDSvpiv9fOP9wmxwhfuTiC8i6N3qXvj65y9SyDtoIRy3pGHZkkQmCuvozRFk https://lh3.googleusercontent.com/umsh/AK26PW4GzYw--Ov-4pUBkE33Htq3szdKUsUZ5agbyzmNyeTc9x0PX9dI8CC74kKYzRu43Rapyrzszqb_OGJHIqCmBAYCPesuUkql7sOee9Pl70_suxYzahVEMX1ghjPWbhIZapo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.12851,51.513583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_35</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6GVPDsRtfpk0iTsmU9bI7g3FqGU8To0Mg7M3XpUbwjJ9YC8A16n1x85dbsTUFHXb_HEzNqqwtP6YJNYuunBFH7Xf6tZNjz1OQ18Q3Dpi5lYQmcDQmcpfqEsHX3oIfQX-4sMGs" height="200" width="auto" /><br><br>James Street (http://www.flickr.com/photos/oblong/3554089349/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7upelFWGUGDnHJI5uV6ZYjzLdFX34MUsuOJAM8cXk9-QZyc1ii5tBlwm0c_A0TP9YYZ1yof8zf1mHOnAUsY0S-ZBZ4M1PkZmu7v3rGmFABkVmjhWJ9fEdVklIrMP49o9tAm7k" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6GVPDsRtfpk0iTsmU9bI7g3FqGU8To0Mg7M3XpUbwjJ9YC8A16n1x85dbsTUFHXb_HEzNqqwtP6YJNYuunBFH7Xf6tZNjz1OQ18Q3Dpi5lYQmcDQmcpfqEsHX3oIfQX-4sMGs https://lh3.googleusercontent.com/umsh/AK26PW7upelFWGUGDnHJI5uV6ZYjzLdFX34MUsuOJAM8cXk9-QZyc1ii5tBlwm0c_A0TP9YYZ1yof8zf1mHOnAUsY0S-ZBZ4M1PkZmu7v3rGmFABkVmjhWJ9fEdVklIrMP49o9tAm7k</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.124074,51.512912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_37</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW637cVKHkZLujarAyMg4VADIhccfNVtaeE5iN-xKqjVG9o17D94UR_V7cpPBO2MBQh87EiNDkLLEgccuKaLXnf1dwqVhkS8F5JbDz_QVkokqhKcEK5gSlme5Bjk1Z6lwmZ9U34" height="200" width="auto" /><br><br>Neals Yard (http://www.flickr.com/photos/oblong/3585786609/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4Cxy81nbdUdow3eoSrtiUJ5n1BFHWkIc5a5533vNdz6NMXHdBmjugUsnywWKKeQp0237ennmPgTRvXQAI8V8OtrrxO97T5gN_vmEv1yThcyLrcoYxwmukREnY_Z7vETvfTHg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW637cVKHkZLujarAyMg4VADIhccfNVtaeE5iN-xKqjVG9o17D94UR_V7cpPBO2MBQh87EiNDkLLEgccuKaLXnf1dwqVhkS8F5JbDz_QVkokqhKcEK5gSlme5Bjk1Z6lwmZ9U34 https://lh3.googleusercontent.com/umsh/AK26PW4Cxy81nbdUdow3eoSrtiUJ5n1BFHWkIc5a5533vNdz6NMXHdBmjugUsnywWKKeQp0237ennmPgTRvXQAI8V8OtrrxO97T5gN_vmEv1yThcyLrcoYxwmukREnY_Z7vETvfTHg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.126531,51.514471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_38</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6CBrVPsMnjDoL-CLhcbhrS-C8VJL4w5gdMYzTHnjhvyJIYrXQrH7pdA8XkBj3u6rn1Ikk8rnBHGyHJiO7dTm76Qr3pCt4zTAEmLp_3muOoKx3SEOG3Op8nnxRyic5jChVaAAU" height="200" width="auto" /><br><br>Shelton Street (http://www.flickr.com/photos/oblong/3554893076/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7OHoFXBcq3jbyCW2egOgKLxJWW6NgzOcutSkr68fxOuY3PgvGAs9NyCHXTHn-2Z_5wjSmdljOiQzgmhTXw4RecPJv-qMx2nR3kzsI6v8ywmp7mduW7hPfL0vslWQKTsiFTGT0" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6CBrVPsMnjDoL-CLhcbhrS-C8VJL4w5gdMYzTHnjhvyJIYrXQrH7pdA8XkBj3u6rn1Ikk8rnBHGyHJiO7dTm76Qr3pCt4zTAEmLp_3muOoKx3SEOG3Op8nnxRyic5jChVaAAU https://lh3.googleusercontent.com/umsh/AK26PW7OHoFXBcq3jbyCW2egOgKLxJWW6NgzOcutSkr68fxOuY3PgvGAs9NyCHXTHn-2Z_5wjSmdljOiQzgmhTXw4RecPJv-qMx2nR3kzsI6v8ywmp7mduW7hPfL0vslWQKTsiFTGT0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.124515,51.514111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_39</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6oRhXmqgtftPitLJE0mawMmkYeQc71L1S7UyKQGQW6KApCMglFKnFR-QwcUy7KSGO0DQWdd5sbh7GsqloZ7OCozJm0SJ1noDoA3rPiuoWkwsbTDEu5H_mqGxxxoOUm__AJLpo" height="200" width="auto" /><br><br>Neal Street (http://www.flickr.com/photos/oblong/3415060587/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4AzD9luUEIY1jBqJkhQ3Ck0r8l9ywJybooASWnzX4iFdTwx23jfwt33TE2iF1-oVQjH_1zv8NL5PbQ26BJ48rABAN79aAthWxU0TI3myjaBfj3tFwh1Iv7BaRZBrGn2pLCWa2-_EOHxmQhW80" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6oRhXmqgtftPitLJE0mawMmkYeQc71L1S7UyKQGQW6KApCMglFKnFR-QwcUy7KSGO0DQWdd5sbh7GsqloZ7OCozJm0SJ1noDoA3rPiuoWkwsbTDEu5H_mqGxxxoOUm__AJLpo https://lh3.googleusercontent.com/umsh/AK26PW4AzD9luUEIY1jBqJkhQ3Ck0r8l9ywJybooASWnzX4iFdTwx23jfwt33TE2iF1-oVQjH_1zv8NL5PbQ26BJ48rABAN79aAthWxU0TI3myjaBfj3tFwh1Iv7BaRZBrGn2pLCWa2-_EOHxmQhW80</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.124846,51.513757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_41</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7Za04QW03IZ3bCa-2uwqedSRlwVTeXBRUlblvID92rPHg2ZYftqDrai2KSkoDAIWU8VymTsoWYxe5KQWNtd-rsKdZKbWrUmX2Ccgi3kzd5iUUtzl1meBM6s7jWo83wcyTV7s0" height="200" width="auto" /><br><br>Rose Street (http://www.flickr.com/photos/oblong/3415874154/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW56pT6lfzgNBctTM-TOnO8jdOV7w9ezhZVyZOKLh2oo99sk6V07urXcs_5eSBeBLyLW6_PTgledrKgta4AB2SWrGO1FpSN-7cgekezufDhE_qIpX0FIWGQifn1FOwAkc0R98ygvE8f1vSUOz7k" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7Za04QW03IZ3bCa-2uwqedSRlwVTeXBRUlblvID92rPHg2ZYftqDrai2KSkoDAIWU8VymTsoWYxe5KQWNtd-rsKdZKbWrUmX2Ccgi3kzd5iUUtzl1meBM6s7jWo83wcyTV7s0 https://lh3.googleusercontent.com/umsh/AK26PW56pT6lfzgNBctTM-TOnO8jdOV7w9ezhZVyZOKLh2oo99sk6V07urXcs_5eSBeBLyLW6_PTgledrKgta4AB2SWrGO1FpSN-7cgekezufDhE_qIpX0FIWGQifn1FOwAkc0R98ygvE8f1vSUOz7k</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.126273,51.512034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_43</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4OlPMeIYw3GUI7H1PzEjWvwjbxR-Tu0booffQ0BYzmOhJI57HeN9A2KnSbPukgnPF83-0tpkU79UKXK8GUJ4S6bPz_gV-BIMtw6yAJSdsUsW2Qc0Q5y5xyh72-Wa4MeEl8_NU" height="200" width="auto" /><br><br>Harrow Road.<br><br>This invader has now gone, but it's image remains.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW55jFr5lENyUSI555ZM_ZrEF0TAFUWrodp4T9jHoSHxOoiqcw4c79s3XAZn-ViDnOpzvIZbHhxR8dlYb6nZD0FIJxXUWou1tb7Lw-O1ClZlkaTfqRmxHewIxGlvQPGnf0c2oQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4OlPMeIYw3GUI7H1PzEjWvwjbxR-Tu0booffQ0BYzmOhJI57HeN9A2KnSbPukgnPF83-0tpkU79UKXK8GUJ4S6bPz_gV-BIMtw6yAJSdsUsW2Qc0Q5y5xyh72-Wa4MeEl8_NU https://lh3.googleusercontent.com/umsh/AK26PW55jFr5lENyUSI555ZM_ZrEF0TAFUWrodp4T9jHoSHxOoiqcw4c79s3XAZn-ViDnOpzvIZbHhxR8dlYb6nZD0FIJxXUWou1tb7Lw-O1ClZlkaTfqRmxHewIxGlvQPGnf0c2oQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.219104,51.52877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_44</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7odKSM8t0VxHH2IjpfM-UrG0z22pt02D_qzL1aPsStWLT2nqogg6kts9Ef_T-WjkpsDCn2dLmtEhM13LZK_orK01-uugZvDJd7LVAx3WpD6aeDl7M9TBzgFLA9QkhQBaFx-hs" height="200" width="auto" /><br><br>Great Newport Street (http://www.flickr.com/photos/oblong/3690738700/in/set-72157615760682333/).<br><br>In its better days, this one looked like:<br><br><br><br>(Image from Space Invasion! (http://www.flickr.com/photos/spaceinvasion/1590885035/))<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4QK3GcudFdh0FuMc6Ik0uR5mAUJ-_CKL_6uLJGuqEKNQ86zDStM2iK_N3POfPVed8qvuKcgAtrZa_GXdziIKXC497B3mkWQ9kSf_JnHEsJLWyYcJhah_zrwDhT8TgJSkV8rHI" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7hAZPkhW1EU1QZHDTgTO8xKeBijUKaIZ59Sd0dUdcdOoA-A8ORVVs5JzxEChzWo7G9nnyDG34EFZRHTwNASDZ-C4xYC71UlbfFs2voIYklsD-Y-U-GVe-uzCF_6fkdb8s" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7odKSM8t0VxHH2IjpfM-UrG0z22pt02D_qzL1aPsStWLT2nqogg6kts9Ef_T-WjkpsDCn2dLmtEhM13LZK_orK01-uugZvDJd7LVAx3WpD6aeDl7M9TBzgFLA9QkhQBaFx-hs https://lh3.googleusercontent.com/umsh/AK26PW4QK3GcudFdh0FuMc6Ik0uR5mAUJ-_CKL_6uLJGuqEKNQ86zDStM2iK_N3POfPVed8qvuKcgAtrZa_GXdziIKXC497B3mkWQ9kSf_JnHEsJLWyYcJhah_zrwDhT8TgJSkV8rHI https://lh3.googleusercontent.com/umsh/AK26PW7hAZPkhW1EU1QZHDTgTO8xKeBijUKaIZ59Sd0dUdcdOoA-A8ORVVs5JzxEChzWo7G9nnyDG34EFZRHTwNASDZ-C4xYC71UlbfFs2voIYklsD-Y-U-GVe-uzCF_6fkdb8s</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.128132,51.51189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_45</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6oKNC6Yi4yLyBtK-3335f861vxBFTM_BzAtyFSzZkoezL0-quInBZijhloLC9Jdlysg7Dxc0Q-Lz4Yufr64-eJJrAXqGHqLuOpRjZq_tiuPZEX2wqb8F_DrzADoeYzXgekk9Q" height="200" width="auto" /><br><br>Ladbroke Grove (http://www.flickr.com/photos/oblong/3689900143/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5fNlHUZuwg8HLIDbHvF0fkSaqWMksImewKbM31gJn4uHXtENLfzyan4MAdj69K5D9vdQUdyG9m2UbxVI6sylH6YXeDLr0b95qgmN_qLwrlncytY7Fpgl8_Nx9wp-5fMkJwC_8" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6oKNC6Yi4yLyBtK-3335f861vxBFTM_BzAtyFSzZkoezL0-quInBZijhloLC9Jdlysg7Dxc0Q-Lz4Yufr64-eJJrAXqGHqLuOpRjZq_tiuPZEX2wqb8F_DrzADoeYzXgekk9Q https://lh3.googleusercontent.com/umsh/AK26PW5fNlHUZuwg8HLIDbHvF0fkSaqWMksImewKbM31gJn4uHXtENLfzyan4MAdj69K5D9vdQUdyG9m2UbxVI6sylH6YXeDLr0b95qgmN_qLwrlncytY7Fpgl8_Nx9wp-5fMkJwC_8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.21532,51.52663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_48</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6YZQ4bbr5t2J5oDJ0ugNOpprVHlLzX-QpdXssmJ1JCLpiruf6U0CVxPiv-RycXK2GOZRnZg_EpM4Kv18rIpW5v9mXIEc-UC9IcOeQ0CS7-KdW4As6m-smhtnYov3-65Kc" height="200" width="auto" /><br><br>This invader has now gone.<br><br>(Image from omnitix (http://www.flickr.com/photos/omnitix/2818709175/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6YZQ4bbr5t2J5oDJ0ugNOpprVHlLzX-QpdXssmJ1JCLpiruf6U0CVxPiv-RycXK2GOZRnZg_EpM4Kv18rIpW5v9mXIEc-UC9IcOeQ0CS7-KdW4As6m-smhtnYov3-65Kc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.20528,51.5149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_49</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW69PmST3MjH8NyN7gFmJ99LdtQZ29IjlrF_5ai9xxZDVwiN79OTLtdnMz9aJ3fQiQSkmcjIGq8eg4jL745AL2JAxI4Fha7XQMJfcxl9cVulSEJ62h8q8zo08qkKUbVef1Im" height="200" width="auto" /><br><br>Kensington Road.<br><br>This invader has now gone.<br><br>(Image from paulo90210 (http://www.flickr.com/photos/paulo2070/3224384957/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW69PmST3MjH8NyN7gFmJ99LdtQZ29IjlrF_5ai9xxZDVwiN79OTLtdnMz9aJ3fQiQSkmcjIGq8eg4jL745AL2JAxI4Fha7XQMJfcxl9cVulSEJ62h8q8zo08qkKUbVef1Im</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.187492,51.502425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_51</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6Uz6KOLrK9sNgWO9CJ2T68ntghFc1LoxqtFijIC4DibxOtTheAVlzg68QtxPHeKrMrQah9NZ7_gZWZR7uDfJYvJZDrEDU_dgxtLYvkTv_Zc_pAma3vil7Pf7ZMa8n6flfprA" height="200" width="auto" /><br><br>St John Street (http://www.flickr.com/photos/oblong/3415863130/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7G0P-Z2FfSIXPqggr5Vmy9GoKyBV8zoXtaW4Sw5uyJYIns9JyIRmTcoxPX63XiFKXiSGXww_20WFlrasQgR6HEZfAmJRlnql1_B0iRE5JbWqj8Z998CBeacfNNVqRnNw9tlnA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6Uz6KOLrK9sNgWO9CJ2T68ntghFc1LoxqtFijIC4DibxOtTheAVlzg68QtxPHeKrMrQah9NZ7_gZWZR7uDfJYvJZDrEDU_dgxtLYvkTv_Zc_pAma3vil7Pf7ZMa8n6flfprA https://lh3.googleusercontent.com/umsh/AK26PW7G0P-Z2FfSIXPqggr5Vmy9GoKyBV8zoXtaW4Sw5uyJYIns9JyIRmTcoxPX63XiFKXiSGXww_20WFlrasQgR6HEZfAmJRlnql1_B0iRE5JbWqj8Z998CBeacfNNVqRnNw9tlnA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.102026,51.52265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_52</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6JxMCM0S1WuZ7ozLAmNStmC6M3FTiImK8olEirUpKE-tqcIsMOOj9-1zZ_nT9Nf7anxAdp6JzT2wJmnEynzzA8awrgvGldsQWj6ktbl8fKF3hEse9rmTfvcKj5ra3KZn1UhA" height="200" width="auto" /><br><br>Ledbury Road.<br><br>This invader has clearly gone. It used to look like this:<br><br><br><br>(Image from tombomb20 (http://www.flickr.com/photos/tombomb20/2425538265/))<br><br><br><br>(Image from Space Invasion! (http://www.flickr.com/photos/spaceinvasion/854603222/))<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4PYzfvBflvKn4JyJ3uGA6gaO4UF5_ZH0GeZ80v046QnEwqhuwQhQISnVzlGTH0ksUHfQ9uhO48gl1G7ZxOBwx2Kq2ZcsQESmYN6RXZYq0A7z4JtUky3j36BGM8tBRa0cjn" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4zUr70EgldbZ8aiOt3D5KE6uV1CMrjqC35FvyGA6Dcme3OunGvCzdnElxqurBHzZ1bXbRkty3J7oeKhCRm3-MaZRAuHBF9f_xDUFsOKl34nPx--tVQDC6l5qsz7jFZ6lU" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6JxMCM0S1WuZ7ozLAmNStmC6M3FTiImK8olEirUpKE-tqcIsMOOj9-1zZ_nT9Nf7anxAdp6JzT2wJmnEynzzA8awrgvGldsQWj6ktbl8fKF3hEse9rmTfvcKj5ra3KZn1UhA https://lh3.googleusercontent.com/umsh/AK26PW4PYzfvBflvKn4JyJ3uGA6gaO4UF5_ZH0GeZ80v046QnEwqhuwQhQISnVzlGTH0ksUHfQ9uhO48gl1G7ZxOBwx2Kq2ZcsQESmYN6RXZYq0A7z4JtUky3j36BGM8tBRa0cjn https://lh3.googleusercontent.com/umsh/AK26PW4zUr70EgldbZ8aiOt3D5KE6uV1CMrjqC35FvyGA6Dcme3OunGvCzdnElxqurBHzZ1bXbRkty3J7oeKhCRm3-MaZRAuHBF9f_xDUFsOKl34nPx--tVQDC6l5qsz7jFZ6lU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.199239,51.514259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_54</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6TB13oiPRzojlfxMKVeIQIpyN9AQay7_aC2zjKUOQ8ZBGkZt1cR0cNi26xiV-hPc1pZvqsn1Y0MleGlET0j2KA_PC8VqxtD2_orm6HE7IHapfGQnBp7nkBCZfW9C2gcHxXXw" height="200" width="auto" /><br><br>Gower Street (http://www.flickr.com/photos/oblong/3554905214/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6Azz2J2dZF-pijYNR5CPVmcIfSUxfRxIxBjJ1305ROt459X8TH_-OziFWp556AvLEAhqKsUZyySr6QJ9bI-9hl0hVnKievF20apbwrGUt5CRg1CyTYrTsw-3WdEcX4hQvNHVw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6TB13oiPRzojlfxMKVeIQIpyN9AQay7_aC2zjKUOQ8ZBGkZt1cR0cNi26xiV-hPc1pZvqsn1Y0MleGlET0j2KA_PC8VqxtD2_orm6HE7IHapfGQnBp7nkBCZfW9C2gcHxXXw https://lh3.googleusercontent.com/umsh/AK26PW6Azz2J2dZF-pijYNR5CPVmcIfSUxfRxIxBjJ1305ROt459X8TH_-OziFWp556AvLEAhqKsUZyySr6QJ9bI-9hl0hVnKievF20apbwrGUt5CRg1CyTYrTsw-3WdEcX4hQvNHVw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.132295,51.522243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_55</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5KtXDclCyCmRfBgJ5pW_6bXW2cEUbW0JdBJQtKkDmwWQjBI3dGoTt5xxfEpfGhwfIX5GI_aASOpwo-_8-TaZ3yRvrX-u6lnJQdmUYYxyi6BemtwsMxi9naz2p5KCx-4N3EKFI" height="200" width="auto" /><br><br>St Anne's Court (http://www.flickr.com/photos/oblong/3554916510/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4p65SJAFfKn63ySyyxn0j1MnFTEJmpxSyVk5OzNp4CMMrWEuu2VNRjAO0Ys7W4ZTauWt0CPSlA1-wD4pGakA6dEk0P-YkxdiOzSYo8vc25TExmIVv-zY6nd3YLLLO_E9Wj9n4" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5KtXDclCyCmRfBgJ5pW_6bXW2cEUbW0JdBJQtKkDmwWQjBI3dGoTt5xxfEpfGhwfIX5GI_aASOpwo-_8-TaZ3yRvrX-u6lnJQdmUYYxyi6BemtwsMxi9naz2p5KCx-4N3EKFI https://lh3.googleusercontent.com/umsh/AK26PW4p65SJAFfKn63ySyyxn0j1MnFTEJmpxSyVk5OzNp4CMMrWEuu2VNRjAO0Ys7W4ZTauWt0CPSlA1-wD4pGakA6dEk0P-YkxdiOzSYo8vc25TExmIVv-zY6nd3YLLLO_E9Wj9n4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.134247,51.514285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_56</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7LNmoO2mQkvwp_5xWn3hvO_yuNsAQvZrEs9yfaS9zb7530bzUcdBhf2ycmDz9pld27Jt9IvPVbaJAQqQ0Z-FJmxaeVmum8OTCZzqJRcgnBdIE-0KK7NTqQ-mC5_6PoCPAzCsM" height="200" width="auto" /><br><br>Wilkes Street (http://www.flickr.com/photos/oblong/3554067611/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5UgMlEbTyWxXIP7DwTIz-Ia7Kk5EM1POEEx6U61glnrplml_AeFc94c6FzK4cjm5WuaGuxCH9UTddfbt9m6s_DhtlqIrAB0USYlk0K-UH7DNwO9tkKJVVgCZ5y4jZPt_Ljy2SOZOPuYpmoeTE" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7LNmoO2mQkvwp_5xWn3hvO_yuNsAQvZrEs9yfaS9zb7530bzUcdBhf2ycmDz9pld27Jt9IvPVbaJAQqQ0Z-FJmxaeVmum8OTCZzqJRcgnBdIE-0KK7NTqQ-mC5_6PoCPAzCsM https://lh3.googleusercontent.com/umsh/AK26PW5UgMlEbTyWxXIP7DwTIz-Ia7Kk5EM1POEEx6U61glnrplml_AeFc94c6FzK4cjm5WuaGuxCH9UTddfbt9m6s_DhtlqIrAB0USYlk0K-UH7DNwO9tkKJVVgCZ5y4jZPt_Ljy2SOZOPuYpmoeTE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.073085,51.521014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_57</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6H-JHuMOMfDFSO225937WBTxXXLwaeCA5gBl5PqguYpU1YdrDeaQCmtRLsG0sM1VD3eb_0fFRpQ-6SuDUFM5XIPAhOoTLpmt7CNhd7KTSflfUS8FvsVWq1s7ajm49mcOt-mA" height="200" width="auto" /><br><br>Brick Lane (http://www.flickr.com/photos/oblong/3385063418/in/set-72157615760682333/).<br> <br>This invader has now gone.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4hOqxOXEW7c5eoYW0tr9JEtiDOu1MypNxGvgkwm5syefkZVMbOZi1hIHgP8QiPg_aC6kNA6ra4okZiQw2JkfrqJ5KMLRs9qNeZbWaLauuim_0R5ef4aOxeTxaAMBXxHcx7bTk" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6H-JHuMOMfDFSO225937WBTxXXLwaeCA5gBl5PqguYpU1YdrDeaQCmtRLsG0sM1VD3eb_0fFRpQ-6SuDUFM5XIPAhOoTLpmt7CNhd7KTSflfUS8FvsVWq1s7ajm49mcOt-mA https://lh3.googleusercontent.com/umsh/AK26PW4hOqxOXEW7c5eoYW0tr9JEtiDOu1MypNxGvgkwm5syefkZVMbOZi1hIHgP8QiPg_aC6kNA6ra4okZiQw2JkfrqJ5KMLRs9qNeZbWaLauuim_0R5ef4aOxeTxaAMBXxHcx7bTk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.071722,51.522496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_58</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7vyI7qJpL7omgnw53OcNwasWSnnzp-GysK7M7ao-5Vk9nImTcYl1jeQd7iHcbMQcofQdSotG8NrL1RsY7490ZYXVT5juaaltuyr3WGhMsKGbfLabXwtN2IF6lXgy1t2fW8cQ" height="200" width="auto" /><br><br>Albert Embankment (http://www.flickr.com/photos/oblong/3554859032/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6SuKTgpIJFU2HOHQ8EJ7livuOudQWSdAtLKDZKtK3YFJVOKnXZLrt2GjnydecLNX9t09PZZHT-SKNNaa7aMQKFs-rc7ETF6MfXYDIwf_R1Wj4C5CqBhiBIqxmWC-YQUCcYvursAk13d8WBc5A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7vyI7qJpL7omgnw53OcNwasWSnnzp-GysK7M7ao-5Vk9nImTcYl1jeQd7iHcbMQcofQdSotG8NrL1RsY7490ZYXVT5juaaltuyr3WGhMsKGbfLabXwtN2IF6lXgy1t2fW8cQ https://lh3.googleusercontent.com/umsh/AK26PW6SuKTgpIJFU2HOHQ8EJ7livuOudQWSdAtLKDZKtK3YFJVOKnXZLrt2GjnydecLNX9t09PZZHT-SKNNaa7aMQKFs-rc7ETF6MfXYDIwf_R1Wj4C5CqBhiBIqxmWC-YQUCcYvursAk13d8WBc5A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.120013,51.500649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_59</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6tkRp0RRccwI0Xxh3dslBAdz7Kc1dwHFOek0wtX0TKV-GOtknPYVVh82Xrek_keZPbaQy4tfn2YEVTxwQykAw75uXRiGcLokLPxlQhk7uIimvrRVjXhyakMzCA9gGaQPmfLPA" height="200" width="auto" /><br><br>South Bank (http://www.flickr.com/photos/oblong/3690747848/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7tK99MXjixDHP843mlNGTJbLGzejSUQe2rAOyND9AQMvGKMXDjwvCVxHPAus8HvOl11knbua7qBNjL3x2DRyfktty4CT_1GMydJLjglVh3Wp0wpc1i9_Zh37PCepPnW_j56g4" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6tkRp0RRccwI0Xxh3dslBAdz7Kc1dwHFOek0wtX0TKV-GOtknPYVVh82Xrek_keZPbaQy4tfn2YEVTxwQykAw75uXRiGcLokLPxlQhk7uIimvrRVjXhyakMzCA9gGaQPmfLPA https://lh3.googleusercontent.com/umsh/AK26PW7tK99MXjixDHP843mlNGTJbLGzejSUQe2rAOyND9AQMvGKMXDjwvCVxHPAus8HvOl11knbua7qBNjL3x2DRyfktty4CT_1GMydJLjglVh3Wp0wpc1i9_Zh37PCepPnW_j56g4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.119801,51.502373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_61</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW71VV-m3w48KoHtCJpVZEpOsVcbl8Q8yqtE-4a_NpfQDuiMdg7tM9vGVGA9arngmBssJh5urCHpd5T1mqNFGPWNOm-kGI5Bx7QCE9V0XquYs2ypkhd1G3IdUnLnf-EXk40JQPA" height="200" width="auto" /><br><br>Tottenham Court Road (http://www.flickr.com/photos/oblong/3554097811/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5XkYzXPcRzWTLq-jkNVbl71bA5C6oQdFl5EQkqxXTijDEz7p6uMK-wJJKEnwljiEXTJrhDWBooFRdDdazNsOZoBNDTPsF9QY3CekA5r2KenceWEUQ8gzy12YiNLu_6VZWvVr4" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW71VV-m3w48KoHtCJpVZEpOsVcbl8Q8yqtE-4a_NpfQDuiMdg7tM9vGVGA9arngmBssJh5urCHpd5T1mqNFGPWNOm-kGI5Bx7QCE9V0XquYs2ypkhd1G3IdUnLnf-EXk40JQPA https://lh3.googleusercontent.com/umsh/AK26PW5XkYzXPcRzWTLq-jkNVbl71bA5C6oQdFl5EQkqxXTijDEz7p6uMK-wJJKEnwljiEXTJrhDWBooFRdDdazNsOZoBNDTPsF9QY3CekA5r2KenceWEUQ8gzy12YiNLu_6VZWvVr4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.131141,51.517523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_62</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6mf0IYNm_SYyFzonWAy8xt5lkogwhwwVo5U5Qh6yE1-vkCG6DtVSW8DaGXNcyLr8FKBrefn5Fh6AspZkheJ9mqtnDMr_GMVW8waJJYu_2o5ZVI_ca_ycFZVuoFS_Dg" height="200" width="auto" /><br><br>Flitcroft Street.<br><br>This invader has now gone. (Image from tofz4u (http://www.flickr.com/photos/tofz4u/249776410/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6mf0IYNm_SYyFzonWAy8xt5lkogwhwwVo5U5Qh6yE1-vkCG6DtVSW8DaGXNcyLr8FKBrefn5Fh6AspZkheJ9mqtnDMr_GMVW8waJJYu_2o5ZVI_ca_ycFZVuoFS_Dg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.129111,51.514829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_63</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5_5bnp08e9sIk_R2M_QG8jw6oMH8ZcrXPtOqUqU7Ph0TpzJJcQhZcY19o7GvgcBzIjb6MDDkafQk8Uekjp6lKAKyuo9BWC09ZJ5VTl0BE24Lj5UFZnl97KKXqLk5XlGX2AcA" height="200" width="auto" /><br><br>St Giles High Street (http://www.flickr.com/photos/oblong/3415074773/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6fhgr52a26o9fnAVYG44GaqWHxdtyw8C7oKcvHBIrbAJhD4Tr8IvY24aqG9hPHuwN_RtRuQnMSwmJzEeHS9IkZP5nw7C7wzRUYrs6uhVqMF70JcRA5Z407n-exzEJYdPrWClk" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5_5bnp08e9sIk_R2M_QG8jw6oMH8ZcrXPtOqUqU7Ph0TpzJJcQhZcY19o7GvgcBzIjb6MDDkafQk8Uekjp6lKAKyuo9BWC09ZJ5VTl0BE24Lj5UFZnl97KKXqLk5XlGX2AcA https://lh3.googleusercontent.com/umsh/AK26PW6fhgr52a26o9fnAVYG44GaqWHxdtyw8C7oKcvHBIrbAJhD4Tr8IvY24aqG9hPHuwN_RtRuQnMSwmJzEeHS9IkZP5nw7C7wzRUYrs6uhVqMF70JcRA5Z407n-exzEJYdPrWClk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.129848,51.515792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_64</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6f3AhsUhQqa1LqhuU-DuQoJGNDssQDrOECUGUU1RmhDOgPQg1iLPGYIZDnIMeJ9fV9Qepoj9r76nnhkXGb3Nq1SK04_0dUht0bOOUlyyLXOA8B8-jImVSwQ11rXLJkytURzA" height="200" width="auto" /><br><br>Greek Street (http://www.flickr.com/photos/oblong/3415878616/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4WWuDeplNgS9S8Wb51AzNq-WplYFGk51z4cvsUUlqX4K3m4YIJpZ1DRDJOFaxJtbvx06dyV2fJHrAB4DCKsuL-IOMLznPHV-Lo6Ca7u2kl9XBPsB_ZKUpn1XvaBzvbOCYoy_FCfeaAFt02jsI" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6f3AhsUhQqa1LqhuU-DuQoJGNDssQDrOECUGUU1RmhDOgPQg1iLPGYIZDnIMeJ9fV9Qepoj9r76nnhkXGb3Nq1SK04_0dUht0bOOUlyyLXOA8B8-jImVSwQ11rXLJkytURzA https://lh3.googleusercontent.com/umsh/AK26PW4WWuDeplNgS9S8Wb51AzNq-WplYFGk51z4cvsUUlqX4K3m4YIJpZ1DRDJOFaxJtbvx06dyV2fJHrAB4DCKsuL-IOMLznPHV-Lo6Ca7u2kl9XBPsB_ZKUpn1XvaBzvbOCYoy_FCfeaAFt02jsI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.131175,51.514542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_65</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7U3qxxZNJ4T50da9gFQSInRCoMZGoN959_zLuFgt6O1pcNpZFZlWxu7As8X71PWOmADkf8Z2nh9EJefhEUg_UBv3O61JTt701clU_MUFyQt0PROoWkLvZlcCxoTc0A2PKB_VQ" height="200" width="auto" /><br><br>Black Prince Road (http://www.flickr.com/photos/oblong/3554872384/in/set-72157615760682333/)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7U3qxxZNJ4T50da9gFQSInRCoMZGoN959_zLuFgt6O1pcNpZFZlWxu7As8X71PWOmADkf8Z2nh9EJefhEUg_UBv3O61JTt701clU_MUFyQt0PROoWkLvZlcCxoTc0A2PKB_VQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.119736,51.491959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_66</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7ZLAYZE3re39sSYovY5Z5Pw5lfR3WHr4NPdKz2NhDNTlHPrtn06_3pSGeXhxCPTL4Sxb93q3RNuxhqU1eN82PaDNBhg5bYavNL065z-9Xqc89juPw7Z2nXlFcNvNVzxIIAXg" height="200" width="auto" /><br><br>Leake Street (http://www.flickr.com/photos/oblong/3554856840/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW67-7wNk4xhMi2Wf9brUS-gon6pqUcsECbudvQXtQsicbV-NrwYP2n19QgrEIhfQrmvpAnnxtOmb5Pr1YzhqLWKsIp7wue8IufWTY9G3BAIB82UmFhoME-eR7FwSSpZuLb5LeM" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7ZLAYZE3re39sSYovY5Z5Pw5lfR3WHr4NPdKz2NhDNTlHPrtn06_3pSGeXhxCPTL4Sxb93q3RNuxhqU1eN82PaDNBhg5bYavNL065z-9Xqc89juPw7Z2nXlFcNvNVzxIIAXg https://lh3.googleusercontent.com/umsh/AK26PW67-7wNk4xhMi2Wf9brUS-gon6pqUcsECbudvQXtQsicbV-NrwYP2n19QgrEIhfQrmvpAnnxtOmb5Pr1YzhqLWKsIp7wue8IufWTY9G3BAIB82UmFhoME-eR7FwSSpZuLb5LeM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.115786,51.501973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_67</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7DmezYHVAIm2mjnt8ZGvGUgcoDGbo-JfqJeZhWRfaeOIDhZkmPeXhqPZS-ORI9RrfaF_bHdsfS_IgkuOXp_ADVUPrgRb0RCZTpjVVQJaHNz9BXJLeyywqIh4eW_ijGFdim3w" height="200" width="auto" /><br><br>Manette Street. (http://www.flickr.com/photos/oblong/3554101741/in/set-72157615760682333/)<br><br>In its better days this one looked like this:<br><br><br><br>(Image from tofz4u (http://www.flickr.com/photos/tofz4u/249702355/))<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7NAbXSFQtzFtWctxdAo0ddgFLyrVpjkK2ecoHukGcQOOHRif2LqZ_I3WDXdZqAKGw35jCtrpgo99ynM90gwk3sG2m-RjlA0WTwZba9gzJU-8QOe2KjWvR-mTvK29I5ZixOOHE" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7YdkpXspr_7PfzozLdy2anWu2uRbFNCCVpWzp0vKJZS3yjx_bi4R3ToEXOuX2hmqA9sn_1fju9kM3hLFuioh23rm6fslZJoWCcc5rg1t1uuNMa9MzN2cqJ633hih9z" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7DmezYHVAIm2mjnt8ZGvGUgcoDGbo-JfqJeZhWRfaeOIDhZkmPeXhqPZS-ORI9RrfaF_bHdsfS_IgkuOXp_ADVUPrgRb0RCZTpjVVQJaHNz9BXJLeyywqIh4eW_ijGFdim3w https://lh3.googleusercontent.com/umsh/AK26PW7NAbXSFQtzFtWctxdAo0ddgFLyrVpjkK2ecoHukGcQOOHRif2LqZ_I3WDXdZqAKGw35jCtrpgo99ynM90gwk3sG2m-RjlA0WTwZba9gzJU-8QOe2KjWvR-mTvK29I5ZixOOHE https://lh3.googleusercontent.com/umsh/AK26PW7YdkpXspr_7PfzozLdy2anWu2uRbFNCCVpWzp0vKJZS3yjx_bi4R3ToEXOuX2hmqA9sn_1fju9kM3hLFuioh23rm6fslZJoWCcc5rg1t1uuNMa9MzN2cqJ633hih9z</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.13109,51.514655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_68</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5wY80VIY9fTNtHXTjbyICkTXte5NIdztfy_O3M1nxUzLtaCQ6vOLIi6BF2n9j1pEYej9W0ExhcyHljC0mHFHjkcFDYE9BBfeOq0RC6qH0YZhJI7oTGBN9i5pjwF8mJFl2rOFk" height="200" width="auto" /><br><br>Farringdon Street (http://www.flickr.com/photos/oblong/3385017232/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5Dc3_lMGMuz-f9qPuVpyIml5BoaKze-EY5C3aToBQS6wxgK_Lr4SubuwHYID8KFMLoA2nWPeHMHaYA2gOYfts2MSOc9IyIfOOwmSDgkry6dALbGskdtXOd_PKrEq_kly3s0wkssTYr1_tcAhI" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5wY80VIY9fTNtHXTjbyICkTXte5NIdztfy_O3M1nxUzLtaCQ6vOLIi6BF2n9j1pEYej9W0ExhcyHljC0mHFHjkcFDYE9BBfeOq0RC6qH0YZhJI7oTGBN9i5pjwF8mJFl2rOFk https://lh3.googleusercontent.com/umsh/AK26PW5Dc3_lMGMuz-f9qPuVpyIml5BoaKze-EY5C3aToBQS6wxgK_Lr4SubuwHYID8KFMLoA2nWPeHMHaYA2gOYfts2MSOc9IyIfOOwmSDgkry6dALbGskdtXOd_PKrEq_kly3s0wkssTYr1_tcAhI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.105176,51.518466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_69</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7wFiKiiS-D9ECJ5nJEXR2qdyw5bEAjfWcmCNUCvHyireF5Ep7leuOWX2I_CZZwdzJLjlJGcg75fnOhQaPPsqAKkc0pFbXxQBTswD7dJ1Ue-mL_EqzSEs9JPDusVAlOrwAedrs" height="200" width="auto" /><br><br>St John Street (http://www.flickr.com/photos/oblong/3384204947/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6PgaNORNZLKv5mnQX6pTcIfke2ZM2L20LyV0RSmlCQbmE71vd_lIoPjUWHQjUE9ddiQUzy21aLwHmhhWQoK8iR7_uJtCdGcInvWU3UxPFDpcSACCkRWLKHuOP-93ytnl-D4QA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7wFiKiiS-D9ECJ5nJEXR2qdyw5bEAjfWcmCNUCvHyireF5Ep7leuOWX2I_CZZwdzJLjlJGcg75fnOhQaPPsqAKkc0pFbXxQBTswD7dJ1Ue-mL_EqzSEs9JPDusVAlOrwAedrs https://lh3.googleusercontent.com/umsh/AK26PW6PgaNORNZLKv5mnQX6pTcIfke2ZM2L20LyV0RSmlCQbmE71vd_lIoPjUWHQjUE9ddiQUzy21aLwHmhhWQoK8iR7_uJtCdGcInvWU3UxPFDpcSACCkRWLKHuOP-93ytnl-D4QA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.10205,51.519944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_70</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6d42ga5pGccUJy0Y9AKJXnY0uNNXMgQbbFWAKUVpA5tULORuCIPAoEGwWz0Ae2Q9HFQhVisy6Q85DU3H_N1RjSnPHoP4Fpa6uYQq2RnJJHg-UXokZC2rbh6CTuEbhmJlX4xms" height="200" width="auto" /><br><br>Carthusian Street (http://www.flickr.com/photos/oblong/3415051211/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7Pi-W3DOBzXOawIsU3b-aXQ_5zyxH7jgg14mPL9Ut-Dxq5noEb0tc24KZvuTQPGEtPVQe2hkugwRYxtuA_nWt5hGpbpBY1Jod8eKRP59rYIiwBT_YDwg2qO5Wi2TJRQl5qdw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6d42ga5pGccUJy0Y9AKJXnY0uNNXMgQbbFWAKUVpA5tULORuCIPAoEGwWz0Ae2Q9HFQhVisy6Q85DU3H_N1RjSnPHoP4Fpa6uYQq2RnJJHg-UXokZC2rbh6CTuEbhmJlX4xms https://lh3.googleusercontent.com/umsh/AK26PW7Pi-W3DOBzXOawIsU3b-aXQ_5zyxH7jgg14mPL9Ut-Dxq5noEb0tc24KZvuTQPGEtPVQe2hkugwRYxtuA_nWt5hGpbpBY1Jod8eKRP59rYIiwBT_YDwg2qO5Wi2TJRQl5qdw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.098571,51.520595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_71</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4EDsYqDS1Nw6Cti7VMrtNzRCtwQXyz_9HPF4Xei6K1Mv5FrqmtfijrDmr116FR6922PvB0CGRU_9KiDWLUa4QhghU-0nA4t8OCr2e_FIvU-QANys4z5npelOpZGmgtI4r1qn8" height="200" width="auto" /><br><br>Dean Street (http://www.flickr.com/photos/oblong/3415898290/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5EnxUL6N44-xelKgSh0dP1bPGSof5SrHUTKBg4O68aL-UMdsbbfbrrPW09gpq2YDVBNpVu_Ics1jsYmzmBksPAZjqxqcNOb524Qk8T-G2nI46Cjkj-weaytNjV9ylhGSRKig" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4EDsYqDS1Nw6Cti7VMrtNzRCtwQXyz_9HPF4Xei6K1Mv5FrqmtfijrDmr116FR6922PvB0CGRU_9KiDWLUa4QhghU-0nA4t8OCr2e_FIvU-QANys4z5npelOpZGmgtI4r1qn8 https://lh3.googleusercontent.com/umsh/AK26PW5EnxUL6N44-xelKgSh0dP1bPGSof5SrHUTKBg4O68aL-UMdsbbfbrrPW09gpq2YDVBNpVu_Ics1jsYmzmBksPAZjqxqcNOb524Qk8T-G2nI46Cjkj-weaytNjV9ylhGSRKig</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.133475,51.514839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_72</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6hWV5fW1QoxpZY0QDdeOXZfYGSJGlsxt5eOWs0OEZ6h6ryynhR9XEul73moKJIr-K5k3B0riYm_MzR_xzAq4LRwZkHDHlH1uJMluc5C3CTZRtCj-Q6bjlSxmi6tMQu0iHsXQ" height="200" width="auto" /><br><br>Charing Cross Road (http://www.flickr.com/photos/oblong/3690742364/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7hHrwytiq3vGUHNTkTbWL6sLesD0oO3PnF8XofYHL9MWjFCBS5o6Mhlw5kzF-xmwtw_ETTHHVEPONl1DKM3WgN8wxyR8-6hJO5SyxDL83S-26_lg3P8smsS7arOX-m_4Cl_A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6hWV5fW1QoxpZY0QDdeOXZfYGSJGlsxt5eOWs0OEZ6h6ryynhR9XEul73moKJIr-K5k3B0riYm_MzR_xzAq4LRwZkHDHlH1uJMluc5C3CTZRtCj-Q6bjlSxmi6tMQu0iHsXQ https://lh3.googleusercontent.com/umsh/AK26PW7hHrwytiq3vGUHNTkTbWL6sLesD0oO3PnF8XofYHL9MWjFCBS5o6Mhlw5kzF-xmwtw_ETTHHVEPONl1DKM3WgN8wxyR8-6hJO5SyxDL83S-26_lg3P8smsS7arOX-m_4Cl_A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.128118,51.510158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_73</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7VQuKC17_7TwQ_gt0vmiemB27F2PP1gTJqMPU2CGAAoHMC4MNieV0w9ZcQqAnai-9uQg8xJvBtclkSUMMDTzsw7LvF9ATs2kX5UXMx_RKgkkV3Ip4fcdm7h5ZUFdzja7Acxjk" height="200" width="auto" /><br><br>Hanway Street (http://www.flickr.com/photos/oblong/3567133744/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6ZGfO14WTNgUrfvv34UiljxFYOYVr5WZdKpGl1ujKEXSWAq-fr0WRq4nnrwYzqm5WNB36tj1bS0Vozlu0KsABpC3A4856hQ9WfCTRu5fDyiQCzigVBQJDKPHdytJwqt1yvEp4" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7VQuKC17_7TwQ_gt0vmiemB27F2PP1gTJqMPU2CGAAoHMC4MNieV0w9ZcQqAnai-9uQg8xJvBtclkSUMMDTzsw7LvF9ATs2kX5UXMx_RKgkkV3Ip4fcdm7h5ZUFdzja7Acxjk https://lh3.googleusercontent.com/umsh/AK26PW6ZGfO14WTNgUrfvv34UiljxFYOYVr5WZdKpGl1ujKEXSWAq-fr0WRq4nnrwYzqm5WNB36tj1bS0Vozlu0KsABpC3A4856hQ9WfCTRu5fDyiQCzigVBQJDKPHdytJwqt1yvEp4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.132531,51.516693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_74</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5WSPeH1P2nZ74C_iGWnfks1vsuzMNQrac6P8pIDjc1io3QCdxII-x3lQMQ7EMY8BJRTyvjOQ0iI-oaf2_pcSCdievljPkFTA5_wEZoFj4JkTUhq7L9xLPWkoKarrfS" height="200" width="auto" /><br><br>King John Court.<br> <br>This invader has now gone.<br> <br>(Image from tofz4u (http://www.flickr.com/photos/tofz4u/250610958/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5WSPeH1P2nZ74C_iGWnfks1vsuzMNQrac6P8pIDjc1io3QCdxII-x3lQMQ7EMY8BJRTyvjOQ0iI-oaf2_pcSCdievljPkFTA5_wEZoFj4JkTUhq7L9xLPWkoKarrfS</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.078856,51.524474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_75</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6KZWmarQNLpXjWMqnMWqUcQkNpmCyK_acYojQ0M5hRTIQn4P2Y5lutLHkIhYfriRgLTOcuRk4SUGLmxKaRm8RkAdF1IlJjIJpbzuURoKKd9ZBGemtXJmCZ--XSnvPK" height="200" width="auto" /><br><br>Leonard Street. <br><br>This invader has now gone.<br> <br>(Image from toz4u (http://www.flickr.com/photos/tofz4u/250844771/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6KZWmarQNLpXjWMqnMWqUcQkNpmCyK_acYojQ0M5hRTIQn4P2Y5lutLHkIhYfriRgLTOcuRk4SUGLmxKaRm8RkAdF1IlJjIJpbzuURoKKd9ZBGemtXJmCZ--XSnvPK</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.086837,51.524601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_76</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7oP3S3PK6gFGb95yn6yGRSGK3ZXz-kUZ_mDTTf_XANPjSpiWhxYLXnYsC_6rEm9Gp4LF3C-meta0lzu_b82-YPg-qwbH48F1kd73K06_RqsMRZQPXIjdcnlVYK5kI7-dgZJuw" height="200" width="auto" /><br><br>Curtain Road (http://www.flickr.com/photos/oblong/3262992351/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW796CpdlDaVNE-9sxXrN7RiLaa97Ah4T3qt4vMFwe-rll-cGZcD9Rg4P08EtViBEhfoQhf4Yuj1ihYIugsL6PBpiCqMdKLp_wLoQJQ4Hy0IoSnTd9GS2Hao5J4xp54nHJTEmAIlioYN2btOnNQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7oP3S3PK6gFGb95yn6yGRSGK3ZXz-kUZ_mDTTf_XANPjSpiWhxYLXnYsC_6rEm9Gp4LF3C-meta0lzu_b82-YPg-qwbH48F1kd73K06_RqsMRZQPXIjdcnlVYK5kI7-dgZJuw https://lh3.googleusercontent.com/umsh/AK26PW796CpdlDaVNE-9sxXrN7RiLaa97Ah4T3qt4vMFwe-rll-cGZcD9Rg4P08EtViBEhfoQhf4Yuj1ihYIugsL6PBpiCqMdKLp_wLoQJQ4Hy0IoSnTd9GS2Hao5J4xp54nHJTEmAIlioYN2btOnNQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.08026,51.526034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_77</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6TJP6wL4DGR4abcGJWUdOPzB-uEZTO-n0wTIRVDeNBf_xEdCcYXj-vX96CLAO_Xe0z1JVJHmIEPvPzPpkXXflWsv4VNe02fHEHVqwD5xwCE4NYx8tHJWBcp9gFMUkWTCQ" height="200" width="auto" /><br><br>Old Street.<br><br>This invader has now gone.<br><br>(Image from Cedric_MountainDwellerViews (http://www.flickr.com/photos/cchambaz/2065917751/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6TJP6wL4DGR4abcGJWUdOPzB-uEZTO-n0wTIRVDeNBf_xEdCcYXj-vX96CLAO_Xe0z1JVJHmIEPvPzPpkXXflWsv4VNe02fHEHVqwD5xwCE4NYx8tHJWBcp9gFMUkWTCQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.083614,51.526269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_78</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW64Y3-iLzFJMQtGmAnE_FcPamIKO4-vQk6tgM20H1NtWb45MapPgD9Ptci1WPKNA47eMx-u5Ec6717XsN77rlxM91u_DeaVlWhvJCoBwfR0WBEHTq7-D_CYvDth_RnSijA4QD8" height="200" width="auto" /><br><br>Curtain Road (http://www.flickr.com/photos/oblong/3262995499/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW68ph-ezjHjvMTcpRmRMmTsDTbkQFHNW59QlK-YoFY0ACeEODMq1_i9FkI8uYa8l3ig7hKjw_vjtHDVdaHDLEomG8GvhGhYCjnSrjXgpyy5VedHSl3awj42Ym6SZhUBvpWuZcQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW64Y3-iLzFJMQtGmAnE_FcPamIKO4-vQk6tgM20H1NtWb45MapPgD9Ptci1WPKNA47eMx-u5Ec6717XsN77rlxM91u_DeaVlWhvJCoBwfR0WBEHTq7-D_CYvDth_RnSijA4QD8 https://lh3.googleusercontent.com/umsh/AK26PW68ph-ezjHjvMTcpRmRMmTsDTbkQFHNW59QlK-YoFY0ACeEODMq1_i9FkI8uYa8l3ig7hKjw_vjtHDVdaHDLEomG8GvhGhYCjnSrjXgpyy5VedHSl3awj42Ym6SZhUBvpWuZcQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.080458,51.525794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_79</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4i-tecW812kcP1nV4OfIkEjXKpQzDO8_iCHgFZ5SwGKTAte38N-fdze_3Cao6UH-NBlXq5K2oq6JnpeKnVaIXeCyeJudo3Il-efsmUnKHnxp0HTH7AARjJNw4HZCW0s9M" height="200" width="auto" /><br><br>Farringdon Road.<br> <br>This invader has now gone.<br> <br>(Image Cedric_MountainDwellerViews (http://www.flickr.com/photos/cchambaz/1920729301/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4i-tecW812kcP1nV4OfIkEjXKpQzDO8_iCHgFZ5SwGKTAte38N-fdze_3Cao6UH-NBlXq5K2oq6JnpeKnVaIXeCyeJudo3Il-efsmUnKHnxp0HTH7AARjJNw4HZCW0s9M</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.106835,51.522112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_80</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7XxJySDEeaocewKkrkx6tv03lEKyAZWV_e0HiQErUdUmvZDz_QAG91Y-DKTzu3meT7WKw9jhgrbvphzLj9GrdMp-EcCrOt7A50HbyQ2YKJ-PpmePFN0k73O9c-RKo-WbXUJ1Q" height="200" width="auto" /><br><br>Farringdon Lane.<br> <br>This invader has now gone.<br> <br>(Image from paulo90210 (http://www.flickr.com/photos/paulo2070/3494928604/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7XxJySDEeaocewKkrkx6tv03lEKyAZWV_e0HiQErUdUmvZDz_QAG91Y-DKTzu3meT7WKw9jhgrbvphzLj9GrdMp-EcCrOt7A50HbyQ2YKJ-PpmePFN0k73O9c-RKo-WbXUJ1Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.10613,51.522383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_81</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7DcFJWFh_z32yy9c5rG3hIW49l3dF-PAE8ZQI1xoPr9VZSQRXi_-7GS6NQ_iXIPE07PzY-TkXGL2EfkySkOVK4a7aavfJdUV3hDgX1MMuLbHGdh32abOyyCs46Fm8zBMc" height="200" width="auto" /><br><br>Lindsey Street.<br> <br>This invader has now gone.<br> <br>(Image from tombomb20 (http://www.flickr.com/photos/tombomb20/2425877076/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7DcFJWFh_z32yy9c5rG3hIW49l3dF-PAE8ZQI1xoPr9VZSQRXi_-7GS6NQ_iXIPE07PzY-TkXGL2EfkySkOVK4a7aavfJdUV3hDgX1MMuLbHGdh32abOyyCs46Fm8zBMc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.100159,51.52005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_82</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW57MArjN5R4q6OO9COAMS4KWMRqsS1UcKK1RXGRzBuyHzSghIG8poPJCMoMnA5Il2ovikzefklVBB5aCk6nbojEBtc1dfuqo9Qnfhdt87vd-7JN32_9ZWCsagZGtldEKf4BNhM" height="200" width="auto" /><br><br>Bear Gardens (http://www.flickr.com/photos/oblong/3618150192/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5Y9_bytfduBs2rvJtUgp3LyxFmx-gMRw6LYQrvdsQEQFsjkhf9zzoGkRALjEf9aOY3TRbMONs1KtfDexCk-VJ4ObLMnYKOHwzjWIVDaa3-IvWZP4VinIBNxAHmc6nGzrm9K-4" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW57MArjN5R4q6OO9COAMS4KWMRqsS1UcKK1RXGRzBuyHzSghIG8poPJCMoMnA5Il2ovikzefklVBB5aCk6nbojEBtc1dfuqo9Qnfhdt87vd-7JN32_9ZWCsagZGtldEKf4BNhM https://lh3.googleusercontent.com/umsh/AK26PW5Y9_bytfduBs2rvJtUgp3LyxFmx-gMRw6LYQrvdsQEQFsjkhf9zzoGkRALjEf9aOY3TRbMONs1KtfDexCk-VJ4ObLMnYKOHwzjWIVDaa3-IvWZP4VinIBNxAHmc6nGzrm9K-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.096098,51.507237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_83</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5I6erg2t7cMV72QDnRB2nMnevnT6MqtUrkXlhMQmXog1qvsvLLmtqPiogFRw0-PQrNi8a-Tq1VcK6ltG83mFoL3kNbZKFmFljCSAv2lt3xby_1sYWJV5YzWP7WttTIXaTgamAzVttNqPF4uw" height="200" width="auto" /><br><br>Park Street (http://www.flickr.com/photos/oblong/3618157518/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4yta0dvCbNLLb95BS5uxsudY4w7kUHV78nr6k34IKOjkhcGaVr0Io15M2J4d4VXq89tY5ud9zFHO3gdEh0AbJeATtTaie14jnbBsTb07VXU7Z0xr0jRP36spGClCbN_ARovg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5I6erg2t7cMV72QDnRB2nMnevnT6MqtUrkXlhMQmXog1qvsvLLmtqPiogFRw0-PQrNi8a-Tq1VcK6ltG83mFoL3kNbZKFmFljCSAv2lt3xby_1sYWJV5YzWP7WttTIXaTgamAzVttNqPF4uw https://lh3.googleusercontent.com/umsh/AK26PW4yta0dvCbNLLb95BS5uxsudY4w7kUHV78nr6k34IKOjkhcGaVr0Io15M2J4d4VXq89tY5ud9zFHO3gdEh0AbJeATtTaie14jnbBsTb07VXU7Z0xr0jRP36spGClCbN_ARovg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.092043,51.505231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_84</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7-pIn0Eo_EN59pTDihYlGrRyjEMBo2Hkz845XSP4MeJhFYpNVW4ytqt9NJ2LxKrnfOkMl23t8OS_Ryp1RmQd6cl04G-LeqHMZSTZa_yATazB18w7UvOeAOjTii17TndA" height="200" width="auto" /><br><br>The Cut.<br> <br>This invader has now gone.<br> <br>(Image from Zolivier (http://www.flickr.com/photos/zolivier/442345612/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7-pIn0Eo_EN59pTDihYlGrRyjEMBo2Hkz845XSP4MeJhFYpNVW4ytqt9NJ2LxKrnfOkMl23t8OS_Ryp1RmQd6cl04G-LeqHMZSTZa_yATazB18w7UvOeAOjTii17TndA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.108552,51.502552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_85</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6sGJWDSdePMz3RPZxRut-75Zb-SyjUHrzoaBRnXHWzwHAfBYy6RezswohYwqhxH7beF9GCEeoe-BZVbNl0Cyzsaw_vJYksHtRlkR-T-YDKVfwMeY8Nkme-AZtjyNKdHjn1Uv4" height="200" width="auto" /><br><br>Southwark Street.<br><br>This is the same as LDN_87<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW79YxFkMsZqypM-FVo7E4zKAf_h1xeBrLwEMsN_U575B26EHOvANHzTTUUCZ4saWkdQuFaQNAjLLDz2Kpmmos1rbp1HYfIX7F_f0KqQ-7nwI3xgwxDAQvI6TN6GQSOIBTFiCaY" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6sGJWDSdePMz3RPZxRut-75Zb-SyjUHrzoaBRnXHWzwHAfBYy6RezswohYwqhxH7beF9GCEeoe-BZVbNl0Cyzsaw_vJYksHtRlkR-T-YDKVfwMeY8Nkme-AZtjyNKdHjn1Uv4 https://lh3.googleusercontent.com/umsh/AK26PW79YxFkMsZqypM-FVo7E4zKAf_h1xeBrLwEMsN_U575B26EHOvANHzTTUUCZ4saWkdQuFaQNAjLLDz2Kpmmos1rbp1HYfIX7F_f0KqQ-7nwI3xgwxDAQvI6TN6GQSOIBTFiCaY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.10385,51.506994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_86</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6lUZ5-mUZDKYZzCBn1628x8OAkAlXlin2W9lasgHRkrm2qu-C6ysEL5JukTVG5gTGW-C9ATqOeysdSZMXxq7YlFyChzJ8UG-ZKc5FD4RFq_LDahQCMDoHH5ChwEOQ364g" height="200" width="auto" /><br><br>Old Street.<br> <br>This invader has now gone.<br> <br>(Image from SuperAdaptoid (http://www.flickr.com/photos/superadaptoid/569425989/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6lUZ5-mUZDKYZzCBn1628x8OAkAlXlin2W9lasgHRkrm2qu-C6ysEL5JukTVG5gTGW-C9ATqOeysdSZMXxq7YlFyChzJ8UG-ZKc5FD4RFq_LDahQCMDoHH5ChwEOQ364g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.078886,51.52714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_87</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7e-rA7hpcGFAUuauBsg_jbNUIR21fj9Wv-r61fVSCzt19dncDFzXksPsitj4jhoFOIreAqRmIRjoT1nuq3hqso4fYHyD0cGPZp3YSilooA7GYuoFZRMh-31lmIEOS2sKbL" height="200" width="auto" /><br><br>Old Street.<br> <br>This invader has now gone (but looked exactly the same as LDN_85).<br> <br>(Image from tombomb20 (http://www.flickr.com/photos/tombomb20/2418995793/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7e-rA7hpcGFAUuauBsg_jbNUIR21fj9Wv-r61fVSCzt19dncDFzXksPsitj4jhoFOIreAqRmIRjoT1nuq3hqso4fYHyD0cGPZp3YSilooA7GYuoFZRMh-31lmIEOS2sKbL</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.086981,51.525997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_88</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5nehEdPvZpt3aXStm7sFlaNFU5tkJ1IU4Kn9pi2eqh4isDEGXG_H4ASkHuOP-iYuQPvoNA8G7q3aD5JLoTGNDXqet1lkIOT8d6avNeUyUESR_XI21P66bEXto8FhKqFKQ" height="200" width="auto" /><br><br>Gray's Inn Road.<br><br>This invader has now gone (though maybe not (http://www.flickr.com/photos/nicoleblommers/4335359560/in/pool-spaceinvaderslondon))<br><br>(Image from Cedric_MountainDwellerViews (http://www.flickr.com/photos/cchambaz/2047192962/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5nehEdPvZpt3aXStm7sFlaNFU5tkJ1IU4Kn9pi2eqh4isDEGXG_H4ASkHuOP-iYuQPvoNA8G7q3aD5JLoTGNDXqet1lkIOT8d6avNeUyUESR_XI21P66bEXto8FhKqFKQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.120643,51.530278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_89</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4VUT_nkQvMDeH-cGWFjaXhFKc85dbBZg_Wg-NWRO780PkRsn40cRMoGzLyLRFNYrWKWgvahwuTaHHoQyIKnoXN8D1AIus_vGaH7NOo0wYPx4VgslLhdfdvSzzNmI68iu-zI_Q" height="200" width="auto" /><br><br>Southampton Row.<br><br>This invader is no longer there.<br><br>(Image from Shane Stankard (http://www.flickr.com/photos/shane_stankard/3156763323))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4VUT_nkQvMDeH-cGWFjaXhFKc85dbBZg_Wg-NWRO780PkRsn40cRMoGzLyLRFNYrWKWgvahwuTaHHoQyIKnoXN8D1AIus_vGaH7NOo0wYPx4VgslLhdfdvSzzNmI68iu-zI_Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.120466,51.517967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_90</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7oTGQUpm7ZbHTKdpjVRbbNTHNM5f0PE-DwFwWQjQAZ0Hho34MdSO4b6c3vFj6LStOqqxbnupMUlJBjwDYxMdO62dGkW3tD9YJkjvPhnQFFAvZZSbKw3x_MErQgY5WEFIH13Q" height="200" width="auto" /><br><br>Oxford Street (http://www.flickr.com/photos/oblong/3415079701/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6fxPKzeAez3M3lxnS5vddwYoBVY9FwH5wJdKr_9vRmJz_z8R53JUcyFGM5C1pyzQN60qjQUVzK7YcyzIrrq42e2TmlPjcvxGlmswjXIkvCnKs3-VORmA5KmRhUbUwSAvjN8g" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7oTGQUpm7ZbHTKdpjVRbbNTHNM5f0PE-DwFwWQjQAZ0Hho34MdSO4b6c3vFj6LStOqqxbnupMUlJBjwDYxMdO62dGkW3tD9YJkjvPhnQFFAvZZSbKw3x_MErQgY5WEFIH13Q https://lh3.googleusercontent.com/umsh/AK26PW6fxPKzeAez3M3lxnS5vddwYoBVY9FwH5wJdKr_9vRmJz_z8R53JUcyFGM5C1pyzQN60qjQUVzK7YcyzIrrq42e2TmlPjcvxGlmswjXIkvCnKs3-VORmA5KmRhUbUwSAvjN8g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.130763,51.516338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_91</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW75-o2YAUyPUrP4-xjnz7wUOZLqw60Um8291bEys8db1sdClQQMGM10CapoWfM2-d_rUj3FwJ8tP867ZiYa0sTtF1tyHMzNhhtH4Kd1olqqFORt3bJfk6ghdnga_jIPEA" height="200" width="auto" /><br><br>Noel Street.<br> <br>This invader has now gone.<br> <br>(Image from Cedric_MountainDwellerViews (http://www.flickr.com/photos/cchambaz/515927750/))<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6YEmT6O0zo4rySZljrMnTZDH8DoppgfnG8780C0Yc9khVGGXE_uXdIEoxR7e8R_f-YnLiujCDIlEdr11ISc0SiZqpYDPjtRsCbow" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW75-o2YAUyPUrP4-xjnz7wUOZLqw60Um8291bEys8db1sdClQQMGM10CapoWfM2-d_rUj3FwJ8tP867ZiYa0sTtF1tyHMzNhhtH4Kd1olqqFORt3bJfk6ghdnga_jIPEA https://lh3.googleusercontent.com/umsh/AK26PW6YEmT6O0zo4rySZljrMnTZDH8DoppgfnG8780C0Yc9khVGGXE_uXdIEoxR7e8R_f-YnLiujCDIlEdr11ISc0SiZqpYDPjtRsCbow</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.137066,51.514784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_92</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6iV8qiR3BnP6i2HGcfRn-oZ9zUW96A-Ffs6AC_pIIf7VdmTHz-5I2Q_rq8D7Hu_NnnBv5qqE9a0ZK1G_pK-3fGsoMPb3OIffgq2J44jEenrOfkyoG6HF_qPJe1zP2w-oBAwg" height="200" width="auto" /><br><br>Noel Street.<br> <br>This invader has now gone.<br> <br>(Image from paulo90210 (http://www.flickr.com/photos/paulo2070/2972096022/))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6iV8qiR3BnP6i2HGcfRn-oZ9zUW96A-Ffs6AC_pIIf7VdmTHz-5I2Q_rq8D7Hu_NnnBv5qqE9a0ZK1G_pK-3fGsoMPb3OIffgq2J44jEenrOfkyoG6HF_qPJe1zP2w-oBAwg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.136449,51.514944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_93</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4iYJph-YxkuwNxKyIBdnxIVlsy931mOGAu6ba1hyt3i5jkxa_xhhmwte9vK_S7Q227iOdYGdz74djLowPLdXrLeNol5u8H560DpF6BjJu2GM2kb_PGVXPpJ6HvNxuSm10YI3I" height="200" width="auto" /><br><br>Bank End (http://www.flickr.com/photos/oblong/3617332515/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4_aYVUKFb0Go9ZDpbc_VZCCoucJuUuk-9R_BpUj1LVK6twL1xMV2XVwhCNQapa9s_eEAoqWpoOD73wBvgMTe3dH6KYlH2kF4u1JubXEBbALDtQ-r8NwtkS9foK2q-mbtQtoZs" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4iYJph-YxkuwNxKyIBdnxIVlsy931mOGAu6ba1hyt3i5jkxa_xhhmwte9vK_S7Q227iOdYGdz74djLowPLdXrLeNol5u8H560DpF6BjJu2GM2kb_PGVXPpJ6HvNxuSm10YI3I https://lh3.googleusercontent.com/umsh/AK26PW4_aYVUKFb0Go9ZDpbc_VZCCoucJuUuk-9R_BpUj1LVK6twL1xMV2XVwhCNQapa9s_eEAoqWpoOD73wBvgMTe3dH6KYlH2kF4u1JubXEBbALDtQ-r8NwtkS9foK2q-mbtQtoZs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.092719,51.507381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_94</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW65iZgeZP64wdbdSkIcf-HFKpJIRASWDrtmru-0iRRsY7PwINzZcmQC5utpDj4K0Hpw3YDvYhrHq7wSqhp0FqCX_vhLSq4RDeCg5s3u4s2-bq-zwSaDrvcVLEYX1HTkQ5OQxDw" height="200" width="auto" /><br><br>King William Street (http://www.flickr.com/photos/oblong/3618160190/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7DI5thJABJ7VcNwcKYmz7UF9apRMIQuOpBuRTypQN1tz8yo-HBAw_X8iWLRhB-bbFjONaRrZK83P9gYrCHWo2Gkx2soadkVrkIb9ogs13i8WKjsmMl2wz0EwesKa8fRJwG4jo" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW65iZgeZP64wdbdSkIcf-HFKpJIRASWDrtmru-0iRRsY7PwINzZcmQC5utpDj4K0Hpw3YDvYhrHq7wSqhp0FqCX_vhLSq4RDeCg5s3u4s2-bq-zwSaDrvcVLEYX1HTkQ5OQxDw https://lh3.googleusercontent.com/umsh/AK26PW7DI5thJABJ7VcNwcKYmz7UF9apRMIQuOpBuRTypQN1tz8yo-HBAw_X8iWLRhB-bbFjONaRrZK83P9gYrCHWo2Gkx2soadkVrkIb9ogs13i8WKjsmMl2wz0EwesKa8fRJwG4jo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.088955,51.505847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_95</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4Blbd0p7cvrbHYi5mZ614uCxLJzTwLWS8WpDYA_tnMSvjT2TenFiBXaVESFPNZ2A75uu26mPLQEZcBc34SLgs-eezXzKE25_CxR-QHfihkl9bUTSBlt3YiixcM7Cj8zN0mXt0" height="200" width="auto" /><br><br>Notting Hill Gate (http://www.flickr.com/photos/oblong/3689920073/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6SwXS6BzW4zyeaCRBo-zHq4Fcc8maKehES06qiFFyY-OAYzYegJyLZcFy3ClBKl1zV1KgLQkr8Y9tMAvd78sQgxb1YU8b8CiZVBCWqqVj3P6_Cm4iinm6zy7hCzwUFNYsAZY0" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4Blbd0p7cvrbHYi5mZ614uCxLJzTwLWS8WpDYA_tnMSvjT2TenFiBXaVESFPNZ2A75uu26mPLQEZcBc34SLgs-eezXzKE25_CxR-QHfihkl9bUTSBlt3YiixcM7Cj8zN0mXt0 https://lh3.googleusercontent.com/umsh/AK26PW6SwXS6BzW4zyeaCRBo-zHq4Fcc8maKehES06qiFFyY-OAYzYegJyLZcFy3ClBKl1zV1KgLQkr8Y9tMAvd78sQgxb1YU8b8CiZVBCWqqVj3P6_Cm4iinm6zy7hCzwUFNYsAZY0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.196745,51.509109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_96</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW55bRC-0ftvpoL5zBWrnxuzj-2SRElxKRmbyvitWV3q_rB__bjxvhyPocIUjAbuML0C1LmlKYUSTDzGnEGtIUdj6s0ChPcEqcHpBiodMb1NEuUKJElUqGOhDmmfU4oZUHD1WA" height="200" width="auto" /><br><br>Wardour Street (http://www.flickr.com/photos/oblong/3554914188/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5xWIb4tVdQFcjisf9kbatZ4q82nUfrFjhu-YAYFhiTTEbuxNu63IyTKVbdYHXXj2F24Ilfd_kg-CGUV_ZjaHwreCekY5d-ET4ssb_MNtshFTICIUFVK17ZOE4tUCpGHdLef2g" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW55bRC-0ftvpoL5zBWrnxuzj-2SRElxKRmbyvitWV3q_rB__bjxvhyPocIUjAbuML0C1LmlKYUSTDzGnEGtIUdj6s0ChPcEqcHpBiodMb1NEuUKJElUqGOhDmmfU4oZUHD1WA https://lh3.googleusercontent.com/umsh/AK26PW5xWIb4tVdQFcjisf9kbatZ4q82nUfrFjhu-YAYFhiTTEbuxNu63IyTKVbdYHXXj2F24Ilfd_kg-CGUV_ZjaHwreCekY5d-ET4ssb_MNtshFTICIUFVK17ZOE4tUCpGHdLef2g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.134823,51.514424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_97</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7jWq9YN49qB4iV9kKhlwWOeA1PoHanKy2I1ycXfpTGKLQpZJaqfhb4ULNZODRSjOvcgMjiDTEwbUdYUlKoB-_UhGzUBLK5IfeAO0qoELXJiGIU8Sf0XXBRyy0C5F9Y76hWy24" height="200" width="auto" /><br><br>Rivington Street (http://www.flickr.com/photos/oblong/3554246936/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7V_awj7bXnPru92U_e7fFHQpEjZVkrVlyGDDh-AmttbEqjlBfooAJvZPNtYjWP7CR2X_nLbU2ap0STI_HBrvwpZnSjXSrvy5ZaIRpvHedSG5NCXFwtIwwG8HE3mRuMNi0i8os" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7jWq9YN49qB4iV9kKhlwWOeA1PoHanKy2I1ycXfpTGKLQpZJaqfhb4ULNZODRSjOvcgMjiDTEwbUdYUlKoB-_UhGzUBLK5IfeAO0qoELXJiGIU8Sf0XXBRyy0C5F9Y76hWy24 https://lh3.googleusercontent.com/umsh/AK26PW7V_awj7bXnPru92U_e7fFHQpEjZVkrVlyGDDh-AmttbEqjlBfooAJvZPNtYjWP7CR2X_nLbU2ap0STI_HBrvwpZnSjXSrvy5ZaIRpvHedSG5NCXFwtIwwG8HE3mRuMNi0i8os</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.079061,51.526288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_98</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4Fm6PnlDx1oqX33CFgUmxa6b1ayB7UYItqLGluc9GsrM_q6aOE9r3xvr9iqYZzmf4tCsLonNWfiX2t8lGbmQiY_LrT4tH0sRaZQsJhYenhj3_sRhnTGMxTK6FlZ5cqKcl6zeo" height="200" width="auto" /><br><br>Bishopsgate (http://www.flickr.com/photos/oblong/3568271736/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4Eyybr3LGbQoaemON1MCmIjDEteP5eHhPDHMJWT-jv2hog06fjrhTYkEp2FOJJffb6exi4nztuGMT1PFDgmAdVB6HfDhLwBWJsKI1km56TGO0GpRLpWapGAQQ1BFVR4FocT3E" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4Fm6PnlDx1oqX33CFgUmxa6b1ayB7UYItqLGluc9GsrM_q6aOE9r3xvr9iqYZzmf4tCsLonNWfiX2t8lGbmQiY_LrT4tH0sRaZQsJhYenhj3_sRhnTGMxTK6FlZ5cqKcl6zeo https://lh3.googleusercontent.com/umsh/AK26PW4Eyybr3LGbQoaemON1MCmIjDEteP5eHhPDHMJWT-jv2hog06fjrhTYkEp2FOJJffb6exi4nztuGMT1PFDgmAdVB6HfDhLwBWJsKI1km56TGO0GpRLpWapGAQQ1BFVR4FocT3E</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.083803,51.514161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_99</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5ohw7f5jpWrlSoFWY5rtJPL_TgzSLWysTX0AgJOXi4d8fn1wFcqVrZMrJmCebHH7AzW4DNds3FgwXD7iJrq44xGvyIXws45DI9wPriZlb_x_s90tYIFbe5kfYRnEtRQFgdC6kGfHfJklqhTTU" height="200" width="auto" /><br><br>Bishopsgate (http://www.flickr.com/photos/oblong/3112521415/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4J7Sf6q6TqPkn5jDsiY8I61H2-FyD6qmZXEWqbKEwSJT_1Zbi7MRx4RJtZSJAWooNOUqBSzgQUZUJGRn-v1CinvF5qFDtst-QviBZmg-Aonz7NZTJq77YY8RsnHDlc80xVp9IwNdUm_EL1ZFU" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5ohw7f5jpWrlSoFWY5rtJPL_TgzSLWysTX0AgJOXi4d8fn1wFcqVrZMrJmCebHH7AzW4DNds3FgwXD7iJrq44xGvyIXws45DI9wPriZlb_x_s90tYIFbe5kfYRnEtRQFgdC6kGfHfJklqhTTU https://lh3.googleusercontent.com/umsh/AK26PW4J7Sf6q6TqPkn5jDsiY8I61H2-FyD6qmZXEWqbKEwSJT_1Zbi7MRx4RJtZSJAWooNOUqBSzgQUZUJGRn-v1CinvF5qFDtst-QviBZmg-Aonz7NZTJq77YY8RsnHDlc80xVp9IwNdUm_EL1ZFU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.079587,51.5181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_100</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4kPk0ZJHwldkrXqjEG9Lgtu4mffsAyrEyLRpnbmj2bUK5y7P5AeqyN4R6A3zN08doAbTZZoE26d5fq1JFe1MtrruFS89vrmzASv_XHOQGoBll1rMjwDR9BHEUO97e39GiVBBc" height="200" width="auto" /><br><br>Broadway Market (http://www.flickr.com/photos/oblong/3383593742/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5gTsnZMPWbl-cfQ8-NU4K5yJR-c11335AvrP1jI2H08k_bVnxLgVnWFa-RnCB6KV_kZfTkwIKc2mfX01mHUDXe75xxvPqLbBvZvRZfuRDPMxSeOtoIEKvGZROgRMTxO0ZodjA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4kPk0ZJHwldkrXqjEG9Lgtu4mffsAyrEyLRpnbmj2bUK5y7P5AeqyN4R6A3zN08doAbTZZoE26d5fq1JFe1MtrruFS89vrmzASv_XHOQGoBll1rMjwDR9BHEUO97e39GiVBBc https://lh3.googleusercontent.com/umsh/AK26PW5gTsnZMPWbl-cfQ8-NU4K5yJR-c11335AvrP1jI2H08k_bVnxLgVnWFa-RnCB6KV_kZfTkwIKc2mfX01mHUDXe75xxvPqLbBvZvRZfuRDPMxSeOtoIEKvGZROgRMTxO0ZodjA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.061134,51.537641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_101</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6eoAV7X9oCebwVCRVsxVUgs7UUNew49gR0yim-KffeHR4fk9o12-TUm8Jog7QpEDCSNPHzxo8zWhaPh6FlzezxMbDCigeJ6oFGiEuwypUAekDYJUvDqFsevnndl_7-lty1dBw" height="200" width="auto" /><br><br>Shoreditch High Street (http://www.flickr.com/photos/oblong/3263004831/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7QptIPixNAwZle6NMlVFerKYn0LUKaDRAq9q9DOCKrsrNCrGO38-1T3CXAfvZqfGlemCHaJvcscUL35HkZduCvEDVRq8aVWPnQZXzeIYwoSAc9cmE3Tu2Ea9RNH375AjcGlyFtUDMJVYfO5gY" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6eoAV7X9oCebwVCRVsxVUgs7UUNew49gR0yim-KffeHR4fk9o12-TUm8Jog7QpEDCSNPHzxo8zWhaPh6FlzezxMbDCigeJ6oFGiEuwypUAekDYJUvDqFsevnndl_7-lty1dBw https://lh3.googleusercontent.com/umsh/AK26PW7QptIPixNAwZle6NMlVFerKYn0LUKaDRAq9q9DOCKrsrNCrGO38-1T3CXAfvZqfGlemCHaJvcscUL35HkZduCvEDVRq8aVWPnQZXzeIYwoSAc9cmE3Tu2Ea9RNH375AjcGlyFtUDMJVYfO5gY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.078074,51.521772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_?</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4HXwFIu4l2Uqq8Zmf1sHjzEXGbv-8tpu5sI99BORFiz6hdxL4zbMaH2kE_6wADl0bvHVkfVOcOtQfnnTnMNpr9P0QFw6EqmBb99-N7LWGd1fWL-rFFWmHGxNwdE52HL-fL-JU" height="200" width="auto" /><br><br>Curtain Road (http://www.flickr.com/photos/oblong/3554083027/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW78JUUYzaET5RYImsBmz6eCll0PVbMT4LNU0QVOa5L6xpfsrT3gLE2NT9X9VnnAoKaYqnSCiZCs8cRS95dUfN8eVEDdkbRN8FGEPfUeGk_7ftCm71C99wBrMwVhZjTv-mRZ4BY" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4HXwFIu4l2Uqq8Zmf1sHjzEXGbv-8tpu5sI99BORFiz6hdxL4zbMaH2kE_6wADl0bvHVkfVOcOtQfnnTnMNpr9P0QFw6EqmBb99-N7LWGd1fWL-rFFWmHGxNwdE52HL-fL-JU https://lh3.googleusercontent.com/umsh/AK26PW78JUUYzaET5RYImsBmz6eCll0PVbMT4LNU0QVOa5L6xpfsrT3gLE2NT9X9VnnAoKaYqnSCiZCs8cRS95dUfN8eVEDdkbRN8FGEPfUeGk_7ftCm71C99wBrMwVhZjTv-mRZ4BY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.080456,51.526296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_?</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6kZDTjsRLkU1z3ppup8pc4oR_hYbHd9v5WhrRNQL_N0Bm25y-BophTX_RpK-TfZ6rOJ6i61uCyUonoeT7PsPJHTyqFzFYP7Av053rMLQd8Bo4esWx79Pm33xWD37jYWQ" height="200" width="auto" /><br><br>Rathbone Street<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6hkIoPmCcPPtpRbCKgJLrqcM-6Yzc5O3fag3F-gdqP8D5rn9p1Vt_lKx-L4E2lpI6AZGYDD6mI2XjwSBTHFhNf1X_2mkcIfTb306DkrRYn3qc4k_X3zj7cT8afuDf8Fw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6kZDTjsRLkU1z3ppup8pc4oR_hYbHd9v5WhrRNQL_N0Bm25y-BophTX_RpK-TfZ6rOJ6i61uCyUonoeT7PsPJHTyqFzFYP7Av053rMLQd8Bo4esWx79Pm33xWD37jYWQ https://lh3.googleusercontent.com/umsh/AK26PW6hkIoPmCcPPtpRbCKgJLrqcM-6Yzc5O3fag3F-gdqP8D5rn9p1Vt_lKx-L4E2lpI6AZGYDD6mI2XjwSBTHFhNf1X_2mkcIfTb306DkrRYn3qc4k_X3zj7cT8afuDf8Fw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.134653,51.517847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_?</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4Y8nABWMq34MMdjGRHRFwLk-JKMkJ2farthKAg8Px5WFROZ_Qjg40w1EeHuTZF2u5XKI8C7pBq0PDXnRFZcjObAKhrqrFy5KPFQzfbrllV-FzraoAT6tC3pqcdNa2Mqw" height="200" width="auto" /><br><br>West Central Street<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6vWgCWKfCyLbrNXvjv5Cgzr_8dWXedmnNqCHM_IIokPP9fBhpxpGWYgpvras_suDhfx64jvKbPPJeHarhLbXGKslgcWgXhA4_6xvG5YPTF41aiGYE0PPFvyDrjiz8tlg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4Y8nABWMq34MMdjGRHRFwLk-JKMkJ2farthKAg8Px5WFROZ_Qjg40w1EeHuTZF2u5XKI8C7pBq0PDXnRFZcjObAKhrqrFy5KPFQzfbrllV-FzraoAT6tC3pqcdNa2Mqw https://lh3.googleusercontent.com/umsh/AK26PW6vWgCWKfCyLbrNXvjv5Cgzr_8dWXedmnNqCHM_IIokPP9fBhpxpGWYgpvras_suDhfx64jvKbPPJeHarhLbXGKslgcWgXhA4_6xvG5YPTF41aiGYE0PPFvyDrjiz8tlg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.12549,51.51656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_?</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4TR1QVgArc4dfEp4mllFKCA4R26vBdkk9bBlmkOlkgY9URxet_ttWlmlS-z2mCFm9VC4rgUeCrtztEM5mpp2KpTkMMwnRoQ62i7kXlNOBMDSFUdnkV7WGTZW33FBpAkQ" height="200" width="auto" /><br><br>Great Eastern Street<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6EYKKjqLja9yn_0K76Curc6Q4FSMDvIQM-BAOELDPBCVpay7JGJjA1HYe4VNmbaLIQ96-ztP1CSZnTMJJVyngr613wgheuZ7f7iAFeUcySBzdIpSmYsUAJ3kCAC6wL" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4TR1QVgArc4dfEp4mllFKCA4R26vBdkk9bBlmkOlkgY9URxet_ttWlmlS-z2mCFm9VC4rgUeCrtztEM5mpp2KpTkMMwnRoQ62i7kXlNOBMDSFUdnkV7WGTZW33FBpAkQ https://lh3.googleusercontent.com/umsh/AK26PW6EYKKjqLja9yn_0K76Curc6Q4FSMDvIQM-BAOELDPBCVpay7JGJjA1HYe4VNmbaLIQ96-ztP1CSZnTMJJVyngr613wgheuZ7f7iAFeUcySBzdIpSmYsUAJ3kCAC6wL</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.083529,51.526115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_?</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7JdlXTNcSBibskyvktikoHP7XeFozBt-y9rMMRA2ePZauvrfZjeIQmZLKSNq5EpZ1iMZi3phzELFVPLghocsALGRMg9c4W2-JFAkNQKF768Iv4WxiRThmbSYjCT_qV" height="200" width="auto" /><br><br>Old Street<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7exqDVZwTaLLsVY4yhA-JEzCPnB7mmxwwp3fbCOqr_COfQp9_5ZIkXj1XDJko59BmthLVi6_JtwZmotUblsB-NjRwDFwRaWguf4wa8Y0p-z9-5BGg-iUbQjOWy49K8" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7JdlXTNcSBibskyvktikoHP7XeFozBt-y9rMMRA2ePZauvrfZjeIQmZLKSNq5EpZ1iMZi3phzELFVPLghocsALGRMg9c4W2-JFAkNQKF768Iv4WxiRThmbSYjCT_qV https://lh3.googleusercontent.com/umsh/AK26PW7exqDVZwTaLLsVY4yhA-JEzCPnB7mmxwwp3fbCOqr_COfQp9_5ZIkXj1XDJko59BmthLVi6_JtwZmotUblsB-NjRwDFwRaWguf4wa8Y0p-z9-5BGg-iUbQjOWy49K8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.082065,51.526756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_?</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW42hVwWiqb0A6mSLO5DK576Opg-S6O7SkCt-hZRbaNHexL4PKbxwqpLLRp9rscxqWgoieSQilSrPxQbDzOW31QRHtfB-Yx7W6kKJvkdgjubukljsCmJCV6BYHkRb3QOhg" height="200" width="auto" /><br><br>Boot Street<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW76VMsorCStjh-kmBzeYwQ2LSxzj3CtInef27pvwnZbslGppthNfZfiDgE3sEGRxEr_oiKVSDeENBqCq5hpcT7NhInh0Qc_S8x_QSfaQn3X3cZjH4QREcUL5KwYoNur0g" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW42hVwWiqb0A6mSLO5DK576Opg-S6O7SkCt-hZRbaNHexL4PKbxwqpLLRp9rscxqWgoieSQilSrPxQbDzOW31QRHtfB-Yx7W6kKJvkdgjubukljsCmJCV6BYHkRb3QOhg https://lh3.googleusercontent.com/umsh/AK26PW76VMsorCStjh-kmBzeYwQ2LSxzj3CtInef27pvwnZbslGppthNfZfiDgE3sEGRxEr_oiKVSDeENBqCq5hpcT7NhInh0Qc_S8x_QSfaQn3X3cZjH4QREcUL5KwYoNur0g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.083454,51.526821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_?</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6llKQRBYxP0mgeHQy83NKCY1tjfp7XA13VOK16EW7wDdIee1TKn-w50T3CDDRMsk_uMLSjf4Ok3CKKCBtRarBNh_Zn2oW-HSIpkOJKBn8BA9YU-Itu0jfM3fYnEjeFNA" height="200" width="auto" /><br><br>Union Walk<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW48wl1ASAV0oRLz_YC6qO5D3mp6y9VFq7xFDAHxiTMU0NAqTED0EW2vmEESGxTq5wCYBJggbgcFDvB2Mv7ygHUUGfwPI_5DMUX9DH4NG0ba7EapoHyNkJ7MgDk39O8UHA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6llKQRBYxP0mgeHQy83NKCY1tjfp7XA13VOK16EW7wDdIee1TKn-w50T3CDDRMsk_uMLSjf4Ok3CKKCBtRarBNh_Zn2oW-HSIpkOJKBn8BA9YU-Itu0jfM3fYnEjeFNA https://lh3.googleusercontent.com/umsh/AK26PW48wl1ASAV0oRLz_YC6qO5D3mp6y9VFq7xFDAHxiTMU0NAqTED0EW2vmEESGxTq5wCYBJggbgcFDvB2Mv7ygHUUGfwPI_5DMUX9DH4NG0ba7EapoHyNkJ7MgDk39O8UHA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.077387,51.528751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_?</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5zY2qa02WsSZ6b8VcRZL-JUdCo_jPwQ1xEt2DXVH7i44BVNxO4iEi0tZbG4Ql-GDqL1VyxeCTFXGD3PiwWquvBNFN-ZEueVsOdM9WJJI5aOLdZViu44bq5Eawgkp7DZg" height="200" width="auto" /><br><br>Drysdale Street<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6eV6Yt9l2ffkU7sh36uQZfG--Dm74KyvR3iuuGtNlaxlfq4B0_pJUTUJq44oG0rzcJVFSWwidfWIc2LZkdnq9KmwijetwYIDVZIKUtqDMHlDvWawwEEFgfOkgLI9_b" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5zY2qa02WsSZ6b8VcRZL-JUdCo_jPwQ1xEt2DXVH7i44BVNxO4iEi0tZbG4Ql-GDqL1VyxeCTFXGD3PiwWquvBNFN-ZEueVsOdM9WJJI5aOLdZViu44bq5Eawgkp7DZg https://lh3.googleusercontent.com/umsh/AK26PW6eV6Yt9l2ffkU7sh36uQZfG--Dm74KyvR3iuuGtNlaxlfq4B0_pJUTUJq44oG0rzcJVFSWwidfWIc2LZkdnq9KmwijetwYIDVZIKUtqDMHlDvWawwEEFgfOkgLI9_b</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.078101,51.528004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Bonus</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7pX9r2YG47CwXoH00cFzJ6yGI6btsK_U6gpnXxO2ptEFRqTi4YrXsOdaGiq66XkOlCi9mhp2UyxJL4AgjTVCeJLujAKH3RLtiRmOl1BM0hqZBfylQepo9ghGwtdOP4T89O1Q" height="200" width="auto" /><br><br>New North Place (http://www.flickr.com/photos/oblong/3300370528/in/set-72157615760682333/).<br><br>This seems to be one of 150 tiles sold by Invader (http://www.space-invaders.com/soldout.html).<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7M_6o_FNuZf2eQeYRFrDByBFw9QsDAUou4AFbaHGjwyCxiqwXZCUmYJn3UuSPdKQnAIfdTbAEOyWKSbxSD9B_tZ2iLKlNwvJM84Ti4AZztw05_YfR_CUQhakewByOGXwUVqTQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7pX9r2YG47CwXoH00cFzJ6yGI6btsK_U6gpnXxO2ptEFRqTi4YrXsOdaGiq66XkOlCi9mhp2UyxJL4AgjTVCeJLujAKH3RLtiRmOl1BM0hqZBfylQepo9ghGwtdOP4T89O1Q https://lh3.googleusercontent.com/umsh/AK26PW7M_6o_FNuZf2eQeYRFrDByBFw9QsDAUou4AFbaHGjwyCxiqwXZCUmYJn3UuSPdKQnAIfdTbAEOyWKSbxSD9B_tZ2iLKlNwvJM84Ti4AZztw05_YfR_CUQhakewByOGXwUVqTQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0821,51.523289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Bonus</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5mO-iuJvF3UDt3779XklTI49eIRDAd3RYl75_u5oaPH8HWZVZtyliWv9PDSggQEKhS9iL0FMt0Iow3OIgqV1YGoukuD6WryQ37uv_qwBZ3pFMP3eIfA_IKrEuPDAYdJLRalZt52HqjrUHExIg" height="200" width="auto" /><br><br>Dysart Street (http://www.flickr.com/photos/oblong/3115305901/in/set-72157615760682333/).<br><br>This seems to be one of 150 tiles sole by Invader (http://www.space-invaders.com/soldout.html).<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW717lQvC1-QPDpBR0TXtjr79uCWXlEaFeGQIsWHOFEfyRmaPt5XH0AtvygjHoiQqJv9xFZWcJo_qlho2y9mwdl4O_XIBmEdtXQmHYdAwLNorpg9w3bhnmVn5ZvFohW5rL4q0w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5mO-iuJvF3UDt3779XklTI49eIRDAd3RYl75_u5oaPH8HWZVZtyliWv9PDSggQEKhS9iL0FMt0Iow3OIgqV1YGoukuD6WryQ37uv_qwBZ3pFMP3eIfA_IKrEuPDAYdJLRalZt52HqjrUHExIg https://lh3.googleusercontent.com/umsh/AK26PW717lQvC1-QPDpBR0TXtjr79uCWXlEaFeGQIsWHOFEfyRmaPt5XH0AtvygjHoiQqJv9xFZWcJo_qlho2y9mwdl4O_XIBmEdtXQmHYdAwLNorpg9w3bhnmVn5ZvFohW5rL4q0w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.083572,51.521608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Bonus</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4pJ9_wl_GLf-niW6r9haDCcvQpdc-lMV1w3TEydIqR2SiuTlwHvOXmtUPZZL9-GFi3FB-HQqG7oeaRMXnuyVedET5DdRe-G_VYU5ln8VqQ7vd-6i7mBgB9cxEBwSvXbA" height="200" width="auto" /><br><br>Rathbone Place. Sticker.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4pJ9_wl_GLf-niW6r9haDCcvQpdc-lMV1w3TEydIqR2SiuTlwHvOXmtUPZZL9-GFi3FB-HQqG7oeaRMXnuyVedET5DdRe-G_VYU5ln8VqQ7vd-6i7mBgB9cxEBwSvXbA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.133344,51.516806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Bonus</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6D84WDDFuDbmWwL7Z5qCwuyZZuWq67xYs03Ghgn1But8m0af--Ojtd90U1geqWEK0OVRNt58QiOen91-5eQWXGXe93HLNUtiN1HrA9OxoUDVqePlisNjIpsilDkJ01" height="200" width="auto" /><br><br>Old Street.<br><br>Sticker.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6D84WDDFuDbmWwL7Z5qCwuyZZuWq67xYs03Ghgn1But8m0af--Ojtd90U1geqWEK0OVRNt58QiOen91-5eQWXGXe93HLNUtiN1HrA9OxoUDVqePlisNjIpsilDkJ01</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.083615,51.526308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Bonus</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6rh5nd2TU30p6F9fMeOgVriVsquvSKRVXvJZgKT4ITRoHZkXV0cJA1vIwn132a9llIiMksE_OQ5WnjJuL5THqfEfmugpfGTYsgL5H0Txkcm9wiwoluW6RVT7xnI7IUyg" height="200" width="auto" /><br><br>Dean Street.<br><br>Sticker.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6rh5nd2TU30p6F9fMeOgVriVsquvSKRVXvJZgKT4ITRoHZkXV0cJA1vIwn132a9llIiMksE_OQ5WnjJuL5THqfEfmugpfGTYsgL5H0Txkcm9wiwoluW6RVT7xnI7IUyg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.132063,51.513105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Fake</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4QBufnQ5NyHDyxmj6G2g6rdubMu2xqKg_mko3fEZ_gS3xNS16PI3TkUPdo4QQ0tDlYItidigwimZitO0o0vRAXyxCJN60nhEd-y8etnia738TEAFtXlHftnEMNdaS0O6eso0s" height="200" width="auto" /><br><br>Museum Street (http://www.flickr.com/photos/oblong/3554085463/in/set-72157615760682333/)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4PfZ38NZ6ldlaAwHEEpzC8M8YJVDrfh3A9fbw_sxgCy_A-GwGlp2PGgNypHQ-qtN3sgTtU7BDb4g9wSOE0o_xgsgqvl7iVC-x8vfIlcCPcvbKVShjiNOWxkLBgkJK_tSkwLPA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4QBufnQ5NyHDyxmj6G2g6rdubMu2xqKg_mko3fEZ_gS3xNS16PI3TkUPdo4QQ0tDlYItidigwimZitO0o0vRAXyxCJN60nhEd-y8etnia738TEAFtXlHftnEMNdaS0O6eso0s https://lh3.googleusercontent.com/umsh/AK26PW4PfZ38NZ6ldlaAwHEEpzC8M8YJVDrfh3A9fbw_sxgCy_A-GwGlp2PGgNypHQ-qtN3sgTtU7BDb4g9wSOE0o_xgsgqvl7iVC-x8vfIlcCPcvbKVShjiNOWxkLBgkJK_tSkwLPA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.124747,51.516314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Fake</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7xxs9bOoIUt3jEw5xnc2IhZCGEJQVi3f3gOJl7fmspwgC08n2VgQ9JHEVfrc194kW-P0oYJh6U0o-tkzW3T8rKFx4HFZzfYpvll_utiTbY1ydX_c_CTrOFMbI4-5Frk5ywD9s" height="200" width="auto" /><br><br>Campden Hill Road (http://www.flickr.com/photos/oblong/3689925405/in/set-72157615760682333/).<br><br>This is not by Invader, but by Mister X.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4QRWiHVXSc4WEk0HKi9cp42FPWQjoAUVDRIDW4A44b4f3yAPapa1TuP3kuANbZiSoL7b_E9eQr6VWcqRxJodBfXK3rNUXVI4hv9qxuYvnHWB_aka4Fz4YWW9gBN530g9q90vk" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7xxs9bOoIUt3jEw5xnc2IhZCGEJQVi3f3gOJl7fmspwgC08n2VgQ9JHEVfrc194kW-P0oYJh6U0o-tkzW3T8rKFx4HFZzfYpvll_utiTbY1ydX_c_CTrOFMbI4-5Frk5ywD9s https://lh3.googleusercontent.com/umsh/AK26PW4QRWiHVXSc4WEk0HKi9cp42FPWQjoAUVDRIDW4A44b4f3yAPapa1TuP3kuANbZiSoL7b_E9eQr6VWcqRxJodBfXK3rNUXVI4hv9qxuYvnHWB_aka4Fz4YWW9gBN530g9q90vk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.199838,51.508392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Fake</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5sJbzLD7sUHHlPJ581aVPPSg9WW8MeJA3Wz0ZdI6PHHV0xSbuNyiyQZPhbCegZel-f2EwaRnZUGqAiu6GfaKjz0MijpYrYyqUWZ8lgJoupFtYxqjgXqX3BUkzVTW70p7vhtA" height="200" width="auto" /><br><br>Linden Gardens.<br><br>This one is not by Invader, but by Mister X.<br><br>This one is now gone.<br><br>(Image from JudyGr (http://www.flickr.com/photos/40253124@N00/2761092070))]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5sJbzLD7sUHHlPJ581aVPPSg9WW8MeJA3Wz0ZdI6PHHV0xSbuNyiyQZPhbCegZel-f2EwaRnZUGqAiu6GfaKjz0MijpYrYyqUWZ8lgJoupFtYxqjgXqX3BUkzVTW70p7vhtA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.194109,51.509598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Fake</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7GemjZGFwXGmjaNA2wtzQt4V5LPqWzi6-fY8-UhOlkdBxwJAFW0q22rEBNLeIoN3UkD0VRlsTlFKTiFnsHQuBpImy5Z6kpfdhaEaE-GRj6V-W-V39akzR48PTpVb8_fiDQWw" height="200" width="auto" /><br><br>Baylis Road (http://www.flickr.com/photos/oblong/3554048603/in/set-72157615760682333/).<br><br><br>This is apparently not by invader.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4qCWQ9jy97INQ35I-YkT44DRqvtjVxd1fSb5X1WbA8XYO8raE9V8W9hMjN-ps3aawe_x-qrAx_r3Gp9KwTDf6MDEtGtc9NSLc8YzQWxjhbRDD5Q75K8rjDiGjstwe_C_qC3XU" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7GemjZGFwXGmjaNA2wtzQt4V5LPqWzi6-fY8-UhOlkdBxwJAFW0q22rEBNLeIoN3UkD0VRlsTlFKTiFnsHQuBpImy5Z6kpfdhaEaE-GRj6V-W-V39akzR48PTpVb8_fiDQWw https://lh3.googleusercontent.com/umsh/AK26PW4qCWQ9jy97INQ35I-YkT44DRqvtjVxd1fSb5X1WbA8XYO8raE9V8W9hMjN-ps3aawe_x-qrAx_r3Gp9KwTDf6MDEtGtc9NSLc8YzQWxjhbRDD5Q75K8rjDiGjstwe_C_qC3XU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.110271,51.502145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Fake</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5C6z8Bt8bdnApOm1I-0MLCa1hkXdW06rQe64XyNgJcH6_hJz1ofGpI9iPHzYZtqDDmpxaO5BYWOmjS7x7G_S04CTLbX8R6riFne191UqMA9YssayoH5xn8Zg5ChaktmsqUlGg" height="200" width="auto" /><br><br>Foubert's Place (http://www.flickr.com/photos/oblong/3554117415/in/set-72157615760682333/).<br><br><br>This one is not by Invader, but looks pretty cool.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW67BF13N9c5MPi9Y029ECG990B8lXwEnpq8xAP28U26jHJCoVzezrrX4Di74FR_K3BkTj3BPRzL4WfeQAzOCfwPJXYL8zNVzZQbD1CGy0eu5AC1UpUWTZxTyalWSVXbYlsIrMQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5C6z8Bt8bdnApOm1I-0MLCa1hkXdW06rQe64XyNgJcH6_hJz1ofGpI9iPHzYZtqDDmpxaO5BYWOmjS7x7G_S04CTLbX8R6riFne191UqMA9YssayoH5xn8Zg5ChaktmsqUlGg https://lh3.googleusercontent.com/umsh/AK26PW67BF13N9c5MPi9Y029ECG990B8lXwEnpq8xAP28U26jHJCoVzezrrX4Di74FR_K3BkTj3BPRzL4WfeQAzOCfwPJXYL8zNVzZQbD1CGy0eu5AC1UpUWTZxTyalWSVXbYlsIrMQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.138849,51.513812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Fake</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6c1tUMD4nU_DRhVr1uhMRIu97wkNI0Ox3pccGLgM2uhtLSRJEF7bXDgmqop7DRIwwj1DNsSi0QPxdNG-ue378iVo3U9Aa0jYUIDzybBUB09cTmk0rFXljCuhGD9Wo9phgswzs" height="200" width="auto" /><br><br>Talbot Road (http://www.flickr.com/photos/oblong/3690713670/in/set-72157615760682333/).<br><br>This one is not by Invader.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW571ABQ944ZSqGgi9QYP8taQDGyxqfzYiT-CGkO5keAR0hcExTIFLsC8LFwbhb_CCEG-ohR13BvyFtLGE2HUQSPYW3Lyio4_WXzEMuj12ungYE-X8_31teRN0qXjSIoTAbqrQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6c1tUMD4nU_DRhVr1uhMRIu97wkNI0Ox3pccGLgM2uhtLSRJEF7bXDgmqop7DRIwwj1DNsSi0QPxdNG-ue378iVo3U9Aa0jYUIDzybBUB09cTmk0rFXljCuhGD9Wo9phgswzs https://lh3.googleusercontent.com/umsh/AK26PW571ABQ944ZSqGgi9QYP8taQDGyxqfzYiT-CGkO5keAR0hcExTIFLsC8LFwbhb_CCEG-ohR13BvyFtLGE2HUQSPYW3Lyio4_WXzEMuj12ungYE-X8_31teRN0qXjSIoTAbqrQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.204366,51.515972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sticker</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5Kia8Gxei2DRM0alQwB9I-H5p_4or7WYSQtCbviz6lYnIaHMMwvyE2A8muIrgaiOZvG-iBgNqEDk1xJkF8Q1j7sLQnsUHAfft7dfMBLdV8Eh1XhoJDNET-JBBjIxa7Zlakgs0Td4oZ1nm56Io" height="200" width="auto" /><br><br>Blackall Street (http://www.flickr.com/photos/oblong/3404967044/in/set-72157613513396081/).<br>This is a sticker unrelated to the regular invaders, but it fits the theme.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5Kia8Gxei2DRM0alQwB9I-H5p_4or7WYSQtCbviz6lYnIaHMMwvyE2A8muIrgaiOZvG-iBgNqEDk1xJkF8Q1j7sLQnsUHAfft7dfMBLdV8Eh1XhoJDNET-JBBjIxa7Zlakgs0Td4oZ1nm56Io</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.082827,51.524933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Fake</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6dHH05Jw5qlQqmFtFi68WCp5IlTiG9N9Fs8hu89CQDIYy4LRR0eIwbc3ab4aPcBhk_-UMFXJfjWvH294oIgeGEelGgS0m71uEEKT1eM984l-guxtXNb1oggdAzP-4CrA" height="200" width="auto" /><br><br>Dean Street<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7vrU30P5PiSKBi7eB0cIJ_K0yEIeh1Hxf76QmJ7cNHes678H_OxJVgAheuBjuYdFk5ib0oyOsUIv_m57C3zeVCsoY7geryimt3dQKkh5dJGoEZ_v4gVkTDaOEY5n0orw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6dHH05Jw5qlQqmFtFi68WCp5IlTiG9N9Fs8hu89CQDIYy4LRR0eIwbc3ab4aPcBhk_-UMFXJfjWvH294oIgeGEelGgS0m71uEEKT1eM984l-guxtXNb1oggdAzP-4CrA https://lh3.googleusercontent.com/umsh/AK26PW7vrU30P5PiSKBi7eB0cIJ_K0yEIeh1Hxf76QmJ7cNHes678H_OxJVgAheuBjuYdFk5ib0oyOsUIv_m57C3zeVCsoY7geryimt3dQKkh5dJGoEZ_v4gVkTDaOEY5n0orw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.132034,51.512619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDN_Fake</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW640bXodUJO9I08gp--scFcIx9x4MMoM5McgufbQFjkin2f3vDB2uA9X8kJ6XZUX-PeOXCqXO52ZVBdcbzqx6raeuuVo2LARyw88rBYI2sXCgochfI1esqVUFVOGh2-CA" height="200" width="auto" /><br><br>Cheshire Street<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5dhLYyA0rBtPnyI_dpf73zFXp5XEFDx4Lh77UV_3r_ixVmwiP3gs4eVbM5xxalsKNyLEY34THkzwDCwAuW5IOgpunvtSdDpbAWUeXjTXtC475ORYFo3zH2CvRZrpxv1A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW640bXodUJO9I08gp--scFcIx9x4MMoM5McgufbQFjkin2f3vDB2uA9X8kJ6XZUX-PeOXCqXO52ZVBdcbzqx6raeuuVo2LARyw88rBYI2sXCgochfI1esqVUFVOGh2-CA https://lh3.googleusercontent.com/umsh/AK26PW5dhLYyA0rBtPnyI_dpf73zFXp5XEFDx4Lh77UV_3r_ixVmwiP3gs4eVbM5xxalsKNyLEY34THkzwDCwAuW5IOgpunvtSdDpbAWUeXjTXtC475ORYFo3zH2CvRZrpxv1A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.071153,51.523542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pending</name>
+        <description>Image here (http://www.flickr.com/photos/nicoleblommers/4334619707/in/pool-spaceinvaderslondon)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.128742,51.516008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pending</name>
+        <description>Next to City Road Turnpike sign on building corner (http://www.flickr.com/photos/russelldarling/4242151672/in/pool-spaceinvaderslondon)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.088557,51.524967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pending</name>
+        <description>Huge one by the bus</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.07359,51.520832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pending</name>
+        <description>Next to the bridge (http://www.flickr.com/photos/annar_50/4270548189/in/pool-spaceinvaderslondon)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.063891,51.523769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
