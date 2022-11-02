@@ -14,7 +14,7 @@ class Invaders:
         self.info_path = info_path
         self.client = client
         self.merged_df = self.gather_all_info()
-        self.generate_kml()
+        self.generate_kmz()
     
     def gather_all_info(self):
         address_df = pd.read_csv(self.address_path)
@@ -28,45 +28,59 @@ class Invaders:
         with open(client_invader_path) as f:
             client_invader_list = f.readlines()
         client_invader_list = list(map(lambda x: "PA_" + x.strip().zfill(4), client_invader_list))
-        merged_df.loc[merged_df["ID"].isin(client_invader_list), "Color"] = "blue"
+        merged_df.loc[merged_df["ID"].isin(client_invader_list), "Color"] = "pink"
         return merged_df
         
     def classify_invader(self, x):
         if x == "Détruit !":
-            return "red"    
+            return "black"    
         elif x == "Très dégradé" :
-            return "orange"
+            return "red"
         elif x == "Dégradé" :
-            return "yellow"
+            return "orange"
         elif x == "Un peu dégradé":
-            return "white"
+            return "yellow"
         elif x == "Non visible":
             return "grey"
         else:
-            return "green"
+            return "blue"
         
-    def generate_kml(self):
-        df = self.merged_df
-        kml = Kml()
-        
-        color_map = {"red":'ff0000ff', 
-                     "orange":'ff00a5ff', 
-                     "yellow":'ffe0ffff', 
-                     "white":'fff0ffff', 
-                     "grey":'ffd3d3d3',
-                     "blue":'ffe6d8ad',
-                     "green":'ff90ee90'}
-        
-        for _, line in df.iterrows():
-            pnt = kml.newpoint()
-            pnt.name = line["ID"]
-            pnt.description = line["Address"]
-            color = line["Color"]
-            path = kml.addfile(f"data/icons/{color}.png")
-            pnt.description = '<img src="' + path +'" alt="picture" width="400" height="300" align="left" />'
-            # pnt.style.iconstyle.color = simplekml.Color.hex(color_map[line["Color"]])
-            pnt.coords = [(line["Longitude"], line["Latitude"])]
-        kml.save("data/invader.kml")
+    def generate_kmz(self):
+        # create a ZipFile object
+        fld = KML.Folder()
+        for _, line in self.merged_df.iterrows():
+            name = line['ID']
+            href = f"data/icons/{line['Color']}.png"
+            coordinates = str(line["Longitude"]) + \
+                ',' + str(line["Latitude"])
+
+            kml = KML.Placemark(
+                KML.name(name),
+                KML.Style(
+                    KML.IconStyle(
+                        KML.scale(1.0),
+                        KML.Icon(
+                            KML.href(href)
+                        )
+                    )
+                ),
+                KML.Point(
+                    KML.coordinates(coordinates)
+                )
+            )
+
+            fld.append(kml)
+            
+        with ZipFile(f'result/{self.client}.kmz', 'w') as zipObj:
+            # serialize KML to a string
+            kml_str = etree.tostring(fld, pretty_print=True,
+                                xml_declaration=True, encoding='UTF-8')
+
+            zipObj.writestr('invader.kml', kml_str)   # Add doc.kml entry
+         
+            for color in ["black", "green", "blue", "grey", "orange", "pink", "red", "yellow"]:
+                image = f"data/icons/{color}.png"
+                zipObj.write(image)        # Add icon to the zip
         
     def display(self):
         # Initialize the map at a given point
@@ -82,7 +96,7 @@ class Invaders:
                 gmap.marker(line["Latitude"], line["Longitude"], info_window=line["ID"] + " - - " + line["Address"], color=line["Color"])
         
         # Draw map into HTML file
-        gmap.draw(f"{self.client}.html")
+        gmap.draw(f"result/{self.client}.html")
 
 
 if __name__ == "__main__":
