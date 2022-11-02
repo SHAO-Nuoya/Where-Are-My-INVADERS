@@ -16,7 +16,7 @@ class Invaders:
     def gather_all_info(self):
         address_df = pd.read_csv(self.address_path)
         info_df = pd.read_csv(self.info_path)
-        merged_df = pd.merge(address_df, info_df)
+        merged_df = pd.merge(address_df, info_df, how="outer")
         merged_df["Color"] = merged_df["State"].apply(self.classify_invader)
         # merged_df["Address"] = merged_df["Address"].astype("str")
 
