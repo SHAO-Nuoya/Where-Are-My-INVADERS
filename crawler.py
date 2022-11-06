@@ -44,43 +44,30 @@ def extract_info(info, city):
     
         return [ID, point, state, date]
 
-options = Options()
+def crawler():
+    options = Options()
 
-# 设置无窗口
-# options.add_argument('--headless')
+    # 设置无窗口
+    # options.add_argument('--headless')
 
-# 声明浏览器对象
-# 如果chromedriver在系统环境变量中, 那么其实executable_path可以不用显示指定
-driver = webdriver.Chrome(chrome_options=options)
+    # 声明浏览器对象
+    # 如果chromedriver在系统环境变量中, 那么其实executable_path可以不用显示指定
+    chrome_driver = webdriver.Chrome(chrome_options=options)
 
-wait = WebDriverWait(driver, 10)
-# 访问页面
-driver.get('http://invader.spotter.free.fr/choixville.php')
+    wait = WebDriverWait(chrome_driver, 10)
+    # 访问页面
+    chrome_driver.get('http://invader.spotter.free.fr/choixville.php')
 
-time.sleep(1)
-wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[2]/div/table/tbody/tr/td[3]/a[7]'))).click()
-# max_page = int(wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div/p[5]/a[last()]'))).text)
-max_page = 1
+    time.sleep(1)
+    wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[2]/div/table/tbody/tr/td[3]/a[7]'))).click()
+    # max_page = int(wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div/p[5]/a[last()]'))).text)
+    max_page = 1
 
-infos = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'haut')))
-
-city = "VRS"
-dick = {"ID":[], "Point":[], "State":[], "Source_date":[]}
-
-for info in infos:
-    print(info.text)
-    ID, Point, State, Date = extract_info(info, city)
-    dick["ID"].append(ID)
-    dick["Point"].append(Point)
-    dick["State"].append(State)
-    dick["Source_date"].append(Date)
-
-
-for i in range(1, max_page):        
-    xpath = f"/html/body/div[2]/div/p[5]/a[{i}]"
-    wait.until(EC.element_to_be_clickable((By.XPATH, xpath))).click()
-    
     infos = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'haut')))
+
+    city = "VRS"
+    dick = {"ID":[], "Point":[], "State":[], "Source_date":[]}
+
     for info in infos:
         print(info.text)
         ID, Point, State, Date = extract_info(info, city)
@@ -89,12 +76,26 @@ for i in range(1, max_page):
         dick["State"].append(State)
         dick["Source_date"].append(Date)
 
-driver.close()
 
-for v in dick.values():
-    print(len(v))
-df = pd.DataFrame.from_dict(dick)
-df['ID'] = df['ID'].apply(lambda x: 'VRS_' + x.split('_')[1].zfill(4))
-df.to_csv("versailles.csv", index=False)
+    for i in range(1, max_page):        
+        xpath = f"/html/body/div[2]/div/p[5]/a[{i}]"
+        wait.until(EC.element_to_be_clickable((By.XPATH, xpath))).click()
+        
+        infos = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'haut')))
+        for info in infos:
+            print(info.text)
+            ID, Point, State, Date = extract_info(info, city)
+            dick["ID"].append(ID)
+            dick["Point"].append(Point)
+            dick["State"].append(State)
+            dick["Source_date"].append(Date)
+
+    chrome_driver.close()
+
+    for v in dick.values():
+        print(len(v))
+    df = pd.DataFrame.from_dict(dick)
+    df['ID'] = df['ID'].apply(lambda x: 'VRS_' + x.split('_')[1].zfill(4))
+    df.to_csv("versailles.csv", index=False)
 
     
