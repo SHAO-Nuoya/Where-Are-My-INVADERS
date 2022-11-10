@@ -56,7 +56,7 @@ class Invaders:
     def generate_kmz(self):
         # create a ZipFile object
         fld = KML.Folder()
-        draw_df = self.merged_df.dropna(subset="Latitude")
+        draw_df = self.merged_df.dropna(subset=["Latitude"])
         for _, line in draw_df.iterrows():
             name = line['ID']
             href = f"data/icons/{line['Color']}.png"
@@ -111,7 +111,7 @@ class Invaders:
         # g = geocoder.ip('me')
         # gmap.marker(g.latlng[0], g.latlng[1], color="pink")
 
-        draw_df = self.merged_df.dropna(subset="Latitude")
+        draw_df = self.merged_df.dropna(subset=["Latitude"])
         for _, line in draw_df.iterrows():
             info = line['ID'] + " -- " + str(line["Address"])
             # line["Address"] = " " if not line["Address"] else line["Address"]
@@ -121,7 +121,7 @@ class Invaders:
         # Draw map into HTML file
         gmap.draw(f"result/{self.client}.html")
 
-
+    
 if __name__ == "__main__":
-    Inva = Invaders("nuoya")
+    Inva = Invaders("xueying")
     Inva.display()
