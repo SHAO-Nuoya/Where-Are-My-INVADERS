@@ -1,0 +1,5 @@
+gmplot==1.4.1
+lxml==4.8.0
+pandas==1.4.1
+pykml==0.2.0
+selenium==3.141.0

@@ -108,7 +108,7 @@ PA_0064;devant le Musée d'Art Moderne;2.297397;48.864766
 PA_0065;30 rue de Lappe;2.373914;48.853092
 PA_0066;PA_0067 & PA_0068, 63 rue des Trois Frères;2.33807;48.885639
 PA_0067;Unknown;2.3380617;48.8856449
-PA_0068;Unknown;2.3380617;48.8856449
+PA_0068;Unknown;2.33807;48.88565
 PA_0069;40 rue du Banquier;2.354171;48.834656
 PA_0070;1 rue de la Verrerie;2.355465;48.856829
 PA_0071;5 rue de Fourcy;2.35902;48.854802
@@ -139,7 +139,7 @@ PA_0095;65 rue Richelieu;2.337616;48.867242
 PA_0096;69 Rue de Richelieu, 75002 Paris;2.3377511749265296;48.8675701822122
 PA_0097;205 rue de Charenton;2.389005;48.83944
 PA_0098;sur la fontaine Saint-Michel;2.343702;48.853192
-PA_0099;sur la fontaine Saint-Michel;2.343702;48.853192
+PA_0099;sur la fontaine Saint-Michel;2.34371;48.853192
 PA_0100;Souvent noyé dans les graffitis sur le mur du coin de la rue Jean Poulmarch et du quai de Valmy;2.3640441;48.8723717
 PA_0101;18 Rue de l'Orillon, 75020 Paris;2.378425477443735;48.8718499298461
 PA_0102;42 boulevard de l'Hôpital;2.361975;48.839907
@@ -208,7 +208,7 @@ PA_0164;26 Av. Jean Aicard, 75011 Paris;2.3806137147122186;48.86633496736229
 PA_0165;5 rue Cortot;2.340567;48.887647
 PA_0166;face au 21 rue Georges Auric;2.38531;48.885298
 PA_0167;37 rue Richelieu;2.336674;48.865523
-PA_0168;37 rue Richelieu;2.336674;48.865523
+PA_0168;37 rue Richelieu;2.33668;48.865523
 PA_0169;2 rue du Mont Cenis;2.341469;48.886355
 PA_0170;Unknown;2.341297;48.8861645
 PA_0171;Unknown;2.3431683;48.8856395
@@ -522,7 +522,7 @@ PA_0478;pont du Rouelle;2.281438;48.852616
 PA_0479;2 Pl. Sainte-Opportune, 75001 Paris;2.347141857134267;48.859394858698735
 PA_0480;14 rue du Roi de Sicile;2.359774;48.85587
 PA_0481;sous la plaque de rue du coin du parc;2.332482;48.844974
-PA_0482;24 rue Pavée;2.361749;48.857217
+PA_0482;24 rue Pavée;2.36176;48.85722
 PA_0483;7 rue du Bourg l'Abbé;2.352013;48.863924
 PA_0484;24 rue de Vienne;2.323006;48.878388
 PA_0485;15 rue Paul Valérie;2.289909;48.870264
@@ -572,7 +572,7 @@ PA_0528;13 rue des Anglais;2.34756;48.850632
 PA_0529;15 rue de Pontoise;2.351715;48.849394
 PA_0530;83 rue de la Mare;2.388421;48.873512
 PA_0531;129 rue de Ménilmontant;2.395348;48.87015
-PA_0532;113 rue Oberkampf;2.37815;48.865889
+PA_0532;113 rue Oberkampf;2.37816;48.8657
 PA_0533;sous le périph' porte de Cligancourt;2.343811;48.900816
 PA_0534;entrée du Palais de Tokyo;2.2967;48.8646
 PA_0535;37 rue de Terre Neuve;2.39992;48.855303
@@ -604,7 +604,7 @@ PA_0560;65 boulevard Flandrin;2.27404;48.86858
 PA_0561;77bis Rue Marcadet, 75018 Paris;2.346839732661881;48.890297618013726
 PA_0562;27 rue du Ruisseau;2.339938;48.892412
 PA_0563;2 place du Palais Royal;2.337129;48.862193
-PA_0564;42 boulevard de l'Hôpital;2.361975;48.839907
+PA_0564;42 boulevard de l'Hôpital;2.36198;48.83991
 PA_0565;3 rue Philippe de Girard;2.361865;48.881076
 PA_0566;181 rue de la Roquette;2.388514;48.859867
 PA_0567;117 rue Haxo;2.402223;48.876023
@@ -825,7 +825,7 @@ PA_0781;2 rue des Boulangers;2.35432;48.846086
 PA_0782;alignés sur le périph à côté de Porte d'Ivry, flashable en face depuis la Rue André Voguet;2.3740177176704096;48.8201586072411
 PA_0783;alignés sur le périph à côté de Porte d'Ivry, flashable en face depuis la Rue André Voguet;2.374158518665921;48.820205869535776
 PA_0784;alignés sur le périph à côté de Porte d'Ivry, flashable en face depuis la Rue André Voguet;2.374470489503253;48.82033311395101
-PA_0785;face au 130 rue de Bagnolet;2.404965;48.860974
+PA_0785;face au 130 rue de Bagnolet;2.40497;48.86098
 PA_0786;alignés sur le périph à côté de Porte d'Ivry, flashable en face depuis la Rue André Voguet;2.3746002472834307;48.82033129617587
 PA_0787;alignés sur le périph à côté de Porte d'Ivry, flashable en face depuis la Rue André Voguet;2.374492575933921;48.82028585177631
 PA_0788;alignés sur le périph à côté de Porte d'Ivry, flashable en face depuis la Rue André Voguet;2.3750198894661305;48.8204585402755
@@ -864,7 +864,7 @@ PA_0820;10 rue de Bretagne;2.363723;48.862364
 PA_0821;édicule EDF face au 81 boulevard de Charonne;2.395969;48.854407
 PA_0822;2 rue de Lesseps;2.400672;48.858452
 PA_0823;145 avenue Jean Jaurès;2.38499;48.8867
-PA_0824;102 rue de Bagnolet;2.402789;48.859426
+PA_0824;102 rue de Bagnolet;2.40277;48.85943
 PA_0825;186 rue de Paris;2.423043;48.855796
 PA_0826;22 rue Denoyez;2.378194;48.872319
 PA_0827;1 bis rue des Rondonneaux;2.399423;48.863391
@@ -958,7 +958,7 @@ PA_0914;103,5 rue Baudin;2.292583;48.900339
 PA_0915;69 rue Anatole France;2.285538;48.891474
 PA_0916;14 rue Bayen;2.294866;48.87954
 PA_0917;2 rue de Fourcroy;2.295;48.87987
-PA_0918;20 rue de Courcelles;2.31016;48.87421
+PA_0918;20 rue de Courcelles;2.31017;48.87422
 PA_0919;12 rue Française;2.347732;48.864308
 PA_0920;41 boulevard Edouard Branly;2.440717;48.875313
 PA_0921;pont de Bercy/quai de Bercy;2.375702;48.838591
@@ -980,7 +980,7 @@ PA_0936;boulevard de l'Hôpital sous le métro;2.363471;48.841776
 PA_0937;face au 80 boulevard Auguste Blanqui;2.346681;48.830319
 PA_0938;face au 91 boulevard Auguste Blanqui;2.346628;48.830237
 PA_0939;métro Denfert-Rochereau;2.33202;48.834147
-PA_0940;rue des Artistes;2.334741;48.827372
+PA_0940;rue des Artistes;2.33475;48.82738
 PA_0941;103 rue Cambronne;2.303352;48.841811
 PA_0942;2 passage Foubert;2.352675;48.825857
 PA_0943;entrée des Frigos;2.37904;48.831301
@@ -1013,9 +1013,9 @@ PA_0969;Statue de la Liberté;2.27966;48.849996
 PA_0970;allée des Cygnes;2.28058;48.850592
 PA_0971;1 rue du Saint-Gothard;2.334976;48.830178
 PA_0972;22 rue Bernard Lecache;2.415351;48.846276
-PA_0973;entrée du square Emile Chautemps;2.353292;48.8672
-PA_0974;entrée du square Emile Chautemps;2.353292;48.8672
-PA_0975;entrée du square Emile Chautemps;2.353292;48.8672
+PA_0973;entrée du square Emile Chautemps;2.353292;48.86721
+PA_0974;entrée du square Emile Chautemps;2.353292;48.86722
+PA_0975;entrée du square Emile Chautemps;2.353292;48.86723
 PA_0976;130 rue Montmartre;2.343669;48.868233
 PA_0977;passage Basfour;2.351805;48.86606
 PA_0978;28 rue Montorgueil;2.346475;48.863739
@@ -1041,7 +1041,7 @@ PA_0997;61 rue Quincampoix;2.350808;48.861738
 PA_0998;impasse des Peintres;2.350135;48.863976
 PA_0999;136 rue de la Roquette;2.380989;48.857783
 PA_1000;dans le hall de la Générale;2.379518;48.859588
-PA_1001;dans le hall de la Générale;2.379518;48.859588
+PA_1001;dans le hall de la Générale;2.37953;48.85957
 PA_1002;bretelle d'autoroute A86/N406, face au Castorama de Créteil;2.4408;48.77895
 PA_1003;Unknown;2.3009126;48.878852
 PA_1004;66 rue de Courcelles;2.306245;48.877676
@@ -1063,7 +1063,7 @@ PA_1019;23 rue des Vinaigriers;2.363303;48.8731
 PA_1020;86 rue Championnet;2.343033;48.895858
 PA_1021;1 impasse Robert;2.338842;48.895526
 PA_1022;27 rue Francoeoeur;2.340473;48.890852
-PA_1023;26 rue Vieille du Temple;2.357275;48.857153
+PA_1023;26 rue Vieille du Temple;2.35728;48.85716
 PA_1024;198 rue du Faubourg Saint-Antoine;2.384156;48.85006
 PA_1025;5 place Saint-Augustin;2.319318;48.875058
 PA_1026;52 Grande Rue Charles-de-Gaulle;2.521098;48.837786
@@ -1080,7 +1080,7 @@ PA_1036;144 boulevard Masséna;2.361984;48.819469
 PA_1037;84 avenue d'Italie;2.357178;48.825982
 PA_1038;5 rue Pajou;2.272968;48.856784
 PA_1039;1 impasse Delaunay;2.386129;48.854947
-PA_1040;32 rue Saint-Roch;2.333121;48.866503
+PA_1040;32 rue Saint-Roch;2.33313;48.86651
 PA_1041;rond-point d'Espagne;2.375199;48.754462
 PA_1042;A86 côté cimetière nouveau de Vitry;2.403205;48.773999
 PA_1043;A86 côté cimetière communal de Choisy;2.403313;48.773718
@@ -1096,7 +1096,7 @@ PA_1052;rue du Chevalier de la Barre;2.347243;48.887431
 PA_1053;8 place des Abbesses;2.33884;48.884115
 PA_1054;26 rue Chanzy;2.385094;48.85264
 PA_1055;bretelle de sortie de l'autoroute de l'Est;2.466303;48.82677
-PA_1056;0 rue Montgallet;2.386157;48.842592
+PA_1056;0 rue Montgallet;2.38616;48.84258
 PA_1057;64 Rue Tiquetonne, côté droite de la porte;2.3456886615885697;48.86484941379765
 PA_1058;24 rue des Petits Champs;2.336551;48.86687
 PA_1059;54 rue de Seine;2.336917;48.853931
@@ -1123,7 +1123,7 @@ PA_1079;Le centvingtsept by Pixelis, 127 Av. Ledru Rollin, 75011 Paris;2.3776092
 PA_1080;Espace Pierre Cardin;2.319147;48.867372
 PA_1081;Unknown;2.35252;48.85979
 PA_1082;place d'Aligre;2.378264;48.848875
-PA_1083;Impasse Cordon-Boussard;2.397594;48.865787
+PA_1083;Impasse Cordon-Boussard;2.39758;48.86579
 PA_1084;36 rue du Faubourg Saint-Martin;2.356426;48.870268
 PA_1085;ancien Couvent des Récollets;2.360599;48.875807
 PA_1086;2 rue des Anglais;2.347996;48.851037
@@ -1266,7 +1266,7 @@ PA_1222;90 avenue de la République;2.380904;48.863935
 PA_1223;1 place de Passy;2.27793;48.85785
 PA_1224;57 avenue du docteur Netter;2.405649;48.844904
 PA_1225;100 cours de Vincennes;2.40845;48.84691
-PA_1226;100 cours de Vincennes;2.40845;48.84691
+PA_1226;100 cours de Vincennes;2.40846;48.84692
 PA_1227;129 coulée verte René-Dumont;2.381721;48.844418
 PA_1228;22 rue Watteau;2.357361;48.834496
 PA_1229;62 rue Lamartine;2.339576;48.876716
@@ -1276,8 +1276,8 @@ PA_1232;102 rue du Mont Cenis;2.34591;48.8953
 PA_1233;2 rue des Poissonniers;2.34984;48.88558
 PA_1234;Obélisque de Villeneuve-le-Comte;2.86916;48.79161
 PA_1235;72 rue Claude Bernard;2.346044;48.840436
-PA_1236;72 rue Claude Bernard;2.346044;48.840436
-PA_1237;200 avenue Jean Jaurès;2.392077;48.888359
+PA_1236;72 rue Claude Bernard;2.34605;48.84044
+PA_1237;200 avenue Jean Jaurès;2.39208;48.88834
 PA_1238;Cimetière de la Courneuve;2.40488;48.936142
 PA_1239;54 avenue Paul Vaillant Couturier;2.411101;48.920939
 PA_1240;114 boulevard Vincent Auriol;2.36299;48.83349
@@ -1330,7 +1330,7 @@ PA_1286;face au 72 rue de Rosny;2.44873;48.86314
 PA_1287;18 rue du Ravin;2.423283;48.861909
 PA_1288;5 quai de Loire;2.371245;48.883774
 PA_1289;place de l'Alma;2.30079;48.864463
-PA_1290;place de l'Alma;2.30079;48.864463
+PA_1290;place de l'Alma;2.30080;48.86447
 PA_1291;48 rue du Capitaine Dreyfus;2.439633;48.859116
 PA_1292;13 rue Darwin;2.339008;48.890172
 PA_1293;2 rue Titien;2.358502;48.835936
@@ -1345,7 +1345,7 @@ PA_1301;11 rue François de Neufchâteau;2.38256;48.85615
 PA_1302;1 rue Cail;2.36154;48.88261
 PA_1303;3 rue Saint-Claude;2.36654;48.86007
 PA_1304;17 rue Monge;2.35083;48.84787
-PA_1305;17 rue Monge;2.35083;48.84787
+PA_1305;17 rue Monge;2.35084;48.84788
 PA_1306;46 avenue Pierre Brossolette;2.310661;48.819987
 PA_1307;parc de Bercy;2.37973;48.83654
 PA_1308;103 avenue Edouard Vaillant;2.24405;48.83359
@@ -1375,7 +1375,7 @@ PA_1331;11 rue Henri Michaux;2.354507;48.826936
 PA_1332;46 rue des Fossés Saint-Bernard;2.353049;48.847532
 PA_1333;10 rue de la Paix;2.331137;48.868992
 PA_1334;25 place Vendôme;2.33012;48.868334
-PA_1335;passerelle de la Porte de Saint-Cloud;2.255328;48.83748
+PA_1335;passerelle de la Porte de Saint-Cloud;2.25533;48.83749
 PA_1336;24 rue de Montreuil;2.38552;48.8504
 PA_1337;93 rue de Seine;2.337119;48.852094
 PA_1338;62 rue Mouffetard;2.34947;48.84316
@@ -1467,7 +1467,7 @@ PA_1423;33 rue Poissonnière;2.347786;48.870216
 PA_1424;1 rue Pelée;2.369238;48.859587
 PA_1425;9 rue Sedaine;2.371851;48.855821
 PA_1426;pavillon ouest de la porte de Neuilly;2.258447;48.880106
-PA_1427;pavillon ouest de la porte de Neuilly;2.258447;48.880106
+PA_1427;pavillon ouest de la porte de Neuilly;2.25845;48.88011
 PA_1428;Gare de l'Avenue Foch;2.275511;48.870968
 PA_1429;1 rue de la Porte d'Issy;2.280645;48.832224
 PA_1430;130 boulevard Berthier;2.299683;48.888272

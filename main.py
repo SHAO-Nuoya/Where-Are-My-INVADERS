@@ -1,4 +1,3 @@
-from cmath import isnan
 from gmplot import gmplot
 import pandas as pd
 from zipfile import ZipFile
@@ -113,7 +112,7 @@ class Invaders:
 
         draw_df = self.merged_df.dropna(subset=["Latitude"])
         for _, line in draw_df.iterrows():
-            info = line['ID'] + " -- " + str(line["Address"])
+            info = line['ID']
             # line["Address"] = " " if not line["Address"] else line["Address"]
             gmap.marker(line['Latitude'], line['Longitude'], info_window=str(
                 info), color=line["Color"], encoding="utf-8")
@@ -123,5 +122,5 @@ class Invaders:
 
     
 if __name__ == "__main__":
-    Inva = Invaders("xueying")
+    Inva = Invaders("nuoya")
     Inva.display()
