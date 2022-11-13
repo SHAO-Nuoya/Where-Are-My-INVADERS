@@ -46,7 +46,7 @@ class Invaders:
         elif x == "Dégradé":
             return "orange"
         elif x == "Un peu dégradé":
-            return "yellow"
+            return "green"
         elif x == "Non visible":
             return "grey"
         else:
