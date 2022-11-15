@@ -71,7 +71,7 @@ PA_0027;fontaine des Haudriettes;2.357949;48.861207;10;Détruit !;avril 2019 (re
 PA_0028;face au 5 rue Keller;2.376619;48.853923;10;OK;juin 2018 (report);pink
 PA_0029;21 rue Pastourelle;2.359894;48.862597;20;OK;juin 2018 (spott);pink
 PA_0030;44 rue Quincampoix;2.350511;48.860959;10;Dégradé;mai 2022;pink
-PA_0031;30 rue de Venise;2.35068;48.86125;10;OK;mai 2020;pink
+PA_0031;30 rue de Venise;2.35068;48.86125;10;Détruit !;novembre 2022;pink
 PA_0032;108 rue Vieille du Temple;2.36275;48.86096;10;Un peu dégradé;avril 2015 (spott);pink
 PA_0033;46 Rue des Francs Bourgeois, 75004 Paris;2.358804638966889;48.85878018904838;10;Détruit !;juillet 2015 (spott);black
 PA_0034;61 rue Vieille du Temple;2.358503;48.858645;10;OK;octobre 2021 (report);pink
@@ -129,7 +129,7 @@ PA_0085;58 rue de Charonne;2.378192;48.853194;20;OK;novembre 2019 (report);pink
 PA_0086;pont de Sully;2.360204;48.850563;10;Détruit !;août 2022;black
 PA_0087;escalier du port de la Gare;2.374162;48.837394;10;Un peu dégradé;septembre 2022;pink
 PA_0088;sortie nord du Carrousel;2.335168;48.862666;30;Détruit !;juillet 2022;black
-PA_0089;1 rue Baltard;2.346483;48.862751;10;Dégradé;juillet 2022;orange
+PA_0089;1 rue Baltard;2.346483;48.862751;10;Très dégradé;novembre 2022;red
 PA_0090;métro Etienne Marcel;2.34899;48.86372;10;Détruit !;juillet 2022;black
 PA_0091;Unknown;2.37644;48.85321;10;OK;février 2020 (spott);pink
 PA_0092;8 rue de la Ferronnerie;2.347383;48.86031;10;Dégradé;août 2022;pink
@@ -282,7 +282,7 @@ PA_0238;8 rue François 1er;2.307521;48.866054;10;OK;juin 2018 (spott);blue
 PA_0239;11 Rue Ramey, 75018 Paris;2.347210248996665;48.887478126551;10;Détruit !;juillet 2015 (spott);black
 PA_0240;face au 23 boulevard Diderot;2.373868;48.845741;20;OK;octobre 2019 (report);pink
 PA_0241;métro Bel-Air face sud;2.400885;48.841006;20;OK;août 2021 (report);pink
-PA_0242;94-100 avenue Saint-Mandé;2.406932;48.844487;20;Détruit !;mars 2021 (report);black
+PA_0242;94-100 avenue Saint-Mandé;2.406932;48.844487;20;Détruit !;novembre 2022 (report);black
 PA_0243;8bis rue Abel;2.375117;48.846819;20;OK;mars 2021 (Instagram);pink
 PA_0244;12M Pl. Léon Blum, 75011 Paris;2.3798276363628816;48.85825609083264;20;Détruit !;juillet 2015 (spott);black
 PA_0245;47 rue Oberkampf;2.371976;48.864602;10;OK;avril 2015 (spott);pink
@@ -338,7 +338,7 @@ PA_0294;14 rue de Moussy;2.35607;48.85821;20;OK;juin 2019 (spott);pink
 PA_0295;4 rue du Jour;2.344822;48.863788;50;Un peu dégradé;mars 2021 (report);pink
 PA_0296;Sur le trottoir, derrière le passage piéton;2.34488;48.86492;10;Très dégradé;juillet 2022;red
 PA_0297;Sur le trottoir;2.34263;48.86548;10;OK;juin 2020;pink
-PA_0298;Dans le coin des rues, sur le trottoir, juste à côté du mur de la boucherie;2.33638;48.86798;10;Un peu dégradé;avril 2022 (Live FlashInvaders);green
+PA_0298;Dans le coin des rues, sur le trottoir, juste à côté du mur de la boucherie;2.33638;48.86798;10;Détruit !;novembre 2022 (report);black
 PA_0299;Intersection rue Chevaleret / Bd Vincent Auriol, devant une entrée de la station Chevaleret, sur le trottoir;2.3674490656104448;48.83464327228075;10;Très dégradé;avril 2022 (report);pink
 PA_0300;56 avenue des Gobelins, devant la brasserie le Naja, sur le sol à côté d'un arbre;2.3537469123101737;48.83372411517118;10;Très dégradé;octobre 2022 (report);red
 PA_0301;44 rue de Charenton;2.373484;48.850261;10;OK;janvier 2021 (report);pink
@@ -400,7 +400,7 @@ PA_0356;Goldorak;2.36357;48.86206;30;OK;août 2020;pink
 PA_0357;21 boulevard Lefebvre;2.290355;48.832037;10;Dégradé;juillet 2022;orange
 PA_0358;14 rue de Savies;2.391285;48.871463;10;Détruit !;janvier 2021 (report);black
 PA_0359;45 rue Saint-Roch;2.332864;48.866424;20;OK;janvier 2019 (spott);pink
-PA_0360;0 rue Saint-Roch;2.331188;48.863935;10;OK;mai 2019 (report);pink
+PA_0360;0 rue Saint-Roch;2.331188;48.863935;10;Détruit !;novembre 2022 (report);pink
 PA_0361;Unknown;2.3527353;48.8308994;20;OK;septembre 2020;blue
 PA_0362;en face de Chez Prune;2.364704;48.871724;30;OK;septembre 2022;pink
 PA_0363;116 avenue de Choisy;2.360009;48.826298;30;OK;juillet 2019 (report);pink
@@ -424,7 +424,7 @@ PA_0380;port du Gros-caillou;2.309289;48.862947;50;OK;juillet 2019 (report);pink
 PA_0381;place Joffre, allée Thomy Thierry;2.301291;48.852271;10;Dégradé;août 2022;pink
 PA_0382;Sous le pont aérien du métro;2.2883971;48.8548356;10;OK;janvier 2021 (report);pink
 PA_0383;54 Bd du Temple, 75011 Paris;2.364744910753229;48.8665419419933;20;Détruit !;avril 2015 (spott);black
-PA_0384;26 rue du Moulin Joly;2.378334;48.869815;30;OK;août 2020 (report);pink
+PA_0384;26 rue du Moulin Joly;2.378334;48.869815;30;Détruit !;novembre 2022 (report);pink
 PA_0385;41 rue Dunois;2.36856;48.83149;10;OK;octobre 2018 (spott);blue
 PA_0386;croisement rue de Rome/bvd des Batignolles;2.32087;48.881849;20;OK;juillet 2019 (spott);pink
 PA_0387;Sur le sol entre les deux boîtes aux lettres;2.3153854;48.8813595;10;Un peu dégradé;septembre 2022 (FlashInvaders);green
@@ -815,7 +815,7 @@ PA_0771;132 rue des Pyrénées;2.402883;48.858658;10;OK;juin 2018 (spott);pink
 PA_0772;Sur le muret devant le CIDJ;2.2901853;48.8555987;10;OK;juin 2022;pink
 PA_0773;Av. Franklin Delano Roosevelt, 75008 Paris;2.312789484481882;48.86688408402882;20;Détruit !;juillet 2019 (report);black
 PA_0774;119 avenue Parmentier;2.371913;48.868623;10;OK;décembre 2018 (spott);pink
-PA_0775;4 place des Victoires;2.340667;48.865825;20;Détruit !;août 2021;black
+PA_0775;4 place des Victoires;2.340667;48.865825;20;Détruit !;novembre 2022 (report);black
 PA_0776;14 rue Castellane;2.324096;48.87263;20;OK;mars 2015 (spott);blue
 PA_0777;4 Rue Tiquetonne, 75002 Paris;2.3498393692457165;48.86440816168863;30;Détruit !;avril 2015 (spott);black
 PA_0778;alignés sur le périph à côté de Porte d'Ivry, flashable en face depuis la Rue André Voguet;2.3740080169398587;48.82023680352402;20;OK;octobre 2020;blue
@@ -1192,7 +1192,7 @@ PA_1148;Le Point (pas si) Ephémère;2.368809;48.881777;50;OK;septembre 2018 (sp
 PA_1149;42 boulevard de Charonne;2.398819;48.851057;30;OK;juillet 2015 (spott);pink
 PA_1150;quai Saint-Bernard;2.364385;48.844928;30;Très dégradé;août 2022;red
 PA_1151;métro Tuileries;2.33027;48.86423;20;OK;octobre 2019 (report);pink
-PA_1152;village Saint-Paul;2.36127;48.853332;50;Détruit !;octobre 2020 (report);pink
+PA_1152;village Saint-Paul;2.36127;48.853332;50;OK;novembre 2021 (report);pink
 PA_1153;87 rue Saint-Antoine;2.3626;48.854585;20;OK;avril 2019 (report);pink
 PA_1154;0 rue Léon Jouhaux;2.363243;48.868562;30;OK;septembre 2018 (spott);pink
 PA_1155;pont piéton de la rue Lucien Lambeau;2.414452;48.857685;50;Dégradé;septembre 2019 (Instagram);orange
@@ -1335,7 +1335,7 @@ PA_1291;48 rue du Capitaine Dreyfus;2.439633;48.859116;50;OK;septembre 2017 (spo
 PA_1292;13 rue Darwin;2.339008;48.890172;40;OK;septembre 2017 (spott);blue
 PA_1293;2 rue Titien;2.358502;48.835936;30;Détruit !;mai 2020 (report);black
 PA_1294;34 rue de Penthièvre;2.31379;48.87243;30;OK;septembre 2017 (spott);blue
-PA_1295;4 place Edmond Michelet;2.35008;48.86002;50;OK;mai 2022;pink
+PA_1295;4 place Edmond Michelet;2.35008;48.86002;50;Non visible;novembre 2022 (report);pink
 PA_1296;1 rue Albert Sorel;2.32248;48.82371;50;OK;mai 2019 (report);blue
 PA_1297;89 rue de Reuilly;2.39012;48.84447;40;OK;septembre 2017 (spott);blue
 PA_1298;1 avenue André Morizet;2.243025;48.833676;30;OK;septembre 2017 (spott);pink
@@ -1690,7 +1690,7 @@ BGK_0002;;;;20;Détruit !;septembre 2020 (StreetView);black
 BGK_0003;;;;10;Détruit !;septembre 2020 (StreetView);black
 BGK_0004;;;;20;Détruit !;août 2022 (report);black
 BGK_0005;;;;??;Détruit !;janvier 2019 (report);black
-BGK_0007;;;;10;Détruit !;janvier 2022 (report);black
+BGK_0007;;;;10;OK;novembre 2022 (FlashInvaders);blue
 BGK_0009;;;;20;Détruit !;janvier 2019 (report);black
 BGK_0010;;;;10;OK;avril 2022 (report);blue
 BGK_0011;;;;??;Détruit !;janvier 2019 (report);black
@@ -1701,26 +1701,26 @@ BGK_0017;;;;??;Détruit !;janvier 2019 (report);black
 BGK_0018;;;;20;Détruit !;janvier 2019 (report);black
 BGK_0019;;;;10;Détruit !;septembre 2020 (StreetView);black
 BGK_0020;;;;10;OK;août 2020 (StreetView);blue
-BGK_0021;;;;10;Très dégradé;avril 2019 (report);red
+BGK_0021;;;;10;OK;novembre 2022 (FlashInvaders);blue
 BGK_0024;;;;30;Détruit !;septembre 2020 (StreetView);black
-BGK_0025;;;;10;Détruit !;janvier 2019 (report);black
+BGK_0025;;;;10;OK;novembre 2022 (FlashInvaders);blue
 BGK_0026;;;;10;Détruit !;septembre 2020 (StreetView);black
 BGK_0027;;;;30;Détruit !;septembre 2020 (StreetView);black
 BGK_0028;;;;10;Détruit !;janvier 2019 (report);black
-BGK_0029;;;;10;Détruit !;octobre 2019 (report);black
+BGK_0029;;;;10;OK;novembre 2022 (FlashInvaders);blue
 BGK_0030;;;;10;Détruit !;février 2021 (StreetView);black
 BGK_0031;;;;10;OK;janvier 2022 (report);blue
-BGK_0032;;;;10;Détruit !;octobre 2019 (report);black
+BGK_0032;;;;10;OK;novembre 2022 (FlashInvaders);blue
 BGK_0033;;;;10;Détruit !;avril 2022 (report);black
 BGK_0034;;;;10;Détruit !;août 2020 (report);black
 BGK_0035;;;;30;Détruit !;septembre 2020 (StreetView);black
-BGK_0036;;;;20;Détruit !;août 2020 (StreetView);black
+BGK_0036;;;;20;Dégradé;novembre 2022 (FlashInvaders);orange
 BGK_0037;;;;10;Détruit !;septembre 2020 (StreetView);black
 BGK_0038;;;;30;Détruit !;avril 2019 (report);black
 BGK_0039;;;;10;Dégradé;mars 2020 (Live FlashInvaders);orange
 BGK_0040;;;;10;Détruit !;janvier 2019 (report);black
 BGK_0041;;;;30;OK;janvier 2022 (report);blue
-BGK_0042;;;;10;Détruit !;août 2020 (StreetView);black
+BGK_0042;;;;10;OK;novembre 2022 (FlashInvaders);blue
 BGK_0043;;;;??;Détruit !;septembre 2020 (StreetView);black
 BGK_0044;;;;20;Détruit !;janvier 2022 (report);black
 BGK_0045;;;;10;Détruit !;août 2020 (StreetView);black
@@ -1731,15 +1731,15 @@ BGK_0050;;;;10;Détruit !;octobre 2019 (report);black
 BGK_0051;;;;50;Détruit !;août 2020 (StreetView);black
 BGK_00??;;;;??;Détruit !;mars 2006;black
 BGK_00??;;;;??;Inconnu;;blue
-BRC_0001;;;;20;Dégradé;novembre 2020 (Live FlashInvaders);orange
-BRC_0002;;;;20;Dégradé;novembre 2020 (Live FlashInvaders);orange
+BRC_0001;;;;20;Détruit !;novembre 2022 (report);black
+BRC_0002;;;;20;Détruit !;novembre 2022 (report);black
 BRC_0003;;;;20;Détruit !;octobre 2022 (report);black
 BRC_0004;;;;20;Détruit !;octobre 2022 (report);black
 BRC_0005;;;;10;Détruit !;octobre 2022 (report);black
 BRC_0006;;;;20;Détruit !;octobre 2022 (report);black
 BRC_0007;;;;10;Détruit !;octobre 2022 (report);black
 BRC_0008;;;;10;Détruit !;septembre 2022 (report);black
-BRC_0009;;;;10;OK;novembre 2021 (Instagram);blue
+BRC_0009;;;;10;Détruit !;novembre 2022 (report);black
 BRC_0010;;;;10;Dégradé;octobre 2022 (report);orange
 BRC_0011;;;;20;Détruit !;octobre 2022 (report);black
 BRC_0012;;;;30;Détruit !;octobre 2022 (report);black
@@ -1996,11 +1996,12 @@ CLR_0039;;;;40;OK;juillet 2020 (report);blue
 CLR_0040;;;;50;OK;juillet 2020 (report);blue
 CON_0001;;;;50;Très dégradé;avril 2022 (report);red
 CON_0002;;;;50;OK;février 2017 (spott);blue
+DHK_0001;;;;20;Inconnu;;blue
 DHK_0002;;;;50;OK;mars 2013 (street view);blue
 DHK_0003;;;;50;Détruit !;juin 2019 (StretView);black
-DHK_0005;;;;??;OK;juin 2013 (street view);blue
+DHK_0004;;;;10;Inconnu;;blue
+DHK_0005;;;;20;OK;juin 2013 (street view);blue
 DHK_0006;;;;50;Inconnu;;blue
-DHK_00??;;;;??;Inconnu;;blue
 DIJ_0001;;;;40;OK;juillet 2019 (spott);blue
 DIJ_0002;;;;40;OK;juillet 2019 (spott);blue
 DIJ_0003;;;;50;OK;juillet 2019 (spott);blue
@@ -2066,15 +2067,15 @@ DJBA_0056;;;;30;OK;décembre 2019 (report);blue
 DJBA_0057;;;;100;OK;décembre 2019 (report);blue
 DJBA_0058;;;;40;OK;décembre 2019 (report);blue
 DJN_0001;;;;20;Détruit !;avril 2018 (report);black
-DJN_0002;;;;??;Détruit !;avril 2018 (report);black
+DJN_0002;;;;??;Détruit !;octobre 2022 (report);black
 DJN_0003;;;;??;Détruit !;avril 2018 (report);black
 DJN_0004;;;;20;Détruit !;avril 2018 (report);black
 DJN_0005;;;;30;OK;novembre 2020 (Live FlashInvaders);blue
 DJN_0006;;;;??;Détruit !;avril 2018 (report);black
 DJN_0007;;;;20;OK;avril 2018 (report);blue
 DJN_0008;;;;??;Détruit !;avril 2018 (report);black
-DJN_0009;;;;20;OK;avril 2018 (report);blue
-DJN_0010;;;;10;OK;avril 2018 (report);blue
+DJN_0009;;;;20;OK;octobre 2022 (report);blue
+DJN_0010;;;;10;OK;octobre 2022 (report);blue
 DJN_0011;;;;50;Détruit !;avril 2018 (report);black
 DJN_0013;;;;10;Détruit !;octobre 2022 (report);black
 DJN_0014;;;;??;Détruit !;avril 2018 (report);black
@@ -2083,8 +2084,8 @@ DJN_0016;;;;??;Détruit !;juin 2018 (StreetView);black
 DJN_0017;;;;??;Détruit !;avril 2018 (report);black
 DJN_0018;;;;10;Un peu dégradé;janvier 2019 (Instagram);green
 DJN_0019;;;;??;Détruit !;;black
-DJN_0020;;;;20;OK;avril 2018 (report);blue
-DJN_0021;;;;20;Dégradé;avril 2018 (report);orange
+DJN_0020;;;;20;OK;octobre 2022 (report);blue
+DJN_0021;;;;20;Dégradé;octobre 2022 (report);orange
 DJN_0022;;;;20;OK;avril 2018 (report);blue
 ELT_0001;;;;10;OK;avril 2019 (report);blue
 ELT_0002;;;;10;Un peu dégradé;septembre 2022 (FlashInvaders);green
@@ -2096,15 +2097,15 @@ FKF_0001;;;;20;Non visible;mai 2021 (report);grey
 FKF_0002;;;;30;OK;mai 2021 (report);blue
 FKF_0003;;;;50;OK;février 2016 (flash);blue
 FKF_0004;;;;30;OK;février 2016 (flash);blue
-FKF_0005;;;;30;OK;juin 2017 (spott);blue
-FKF_0006;;;;30;OK;juin 2017 (spott);blue
-FKF_0007;;;;30;OK;juin 2017 (spott);blue
-FKF_0008;;;;30;OK;juin 2017 (spott);blue
-FKF_0009;;;;30;OK;juin 2017 (spott);blue
-FKF_0010;;;;30;OK;juin 2017 (spott);blue
-FKF_0011;;;;30;OK;juin 2017 (spott);blue
-FKF_0012;;;;30;OK;juin 2017 (spott);blue
-FKF_0013;;;;30;OK;juin 2017 (spott);blue
+FKF_0005;;;;30;Non visible;novembre 2022 (report);grey
+FKF_0006;;;;30;Non visible;novembre 2022 (report);grey
+FKF_0007;;;;30;Non visible;novembre 2022 (report);grey
+FKF_0008;;;;30;Non visible;novembre 2022 (report);grey
+FKF_0009;;;;30;Non visible;novembre 2022 (report);grey
+FKF_0010;;;;30;Non visible;novembre 2022 (report);grey
+FKF_0011;;;;30;Non visible;novembre 2022 (report);grey
+FKF_0012;;;;30;Non visible;novembre 2022 (report);grey
+FKF_0013;;;;30;Non visible;novembre 2022 (report);grey
 FKF_0014;;;;30;OK;juin 2017 (spott);blue
 FRQ_0001;;;;30;OK;octobre 2019 (report);blue
 FRQ_0002;;;;20;OK;octobre 2019 (report);blue
@@ -2366,7 +2367,7 @@ KAT_0002;;;;10;OK;octobre 2022 (FlashInvaders);blue
 KAT_0003;;;;10;Détruit !;;black
 KAT_0004;;;;20;Détruit !;mars 2022 (report);black
 KAT_0005;;;;10;OK;octobre 2022 (FlashInvaders);blue
-KAT_0006;;;;10;Détruit !;;black
+KAT_0006;;;;10;OK;novembre 2021 (FlashInvaders);blue
 KAT_0007;;;;30;Détruit !;;black
 KAT_0008;;;;20;OK;octobre 2022 (FlashInvaders);blue
 KAT_0009;;;;20;OK;septembre 2022 (FlashInvaders);blue
@@ -2665,7 +2666,7 @@ LDN_0015;;;;20;Détruit !;janvier 2020 (report);black
 LDN_0016;;;;20;Détruit !;mai 2017 (spott);black
 LDN_0017;;;;20;Détruit !;mai 2017 (spott);black
 LDN_0018;;;;10;Détruit !;mai 2017 (spott);black
-LDN_0019;;;;10;OK;janvier 2019 (report);blue
+LDN_0019;;;;10;OK;novembre 2022 (report);blue
 LDN_0020;;;;10;Détruit !;janvier 2020 (report);black
 LDN_0021;;;;20;Détruit !;mai 2019 (Instagram);black
 LDN_0022;;;;30;OK;novembre 2021 (report);blue
@@ -3013,13 +3014,13 @@ MARS_0095;;;;30;Détruit !;avril 2021 (report);black
 MARS_0096;;;;50;OK;août 2020 (Instagram);blue
 MARS_0097;;;;40;OK;août 2021 (report);blue
 MBSA_0001;;;;20;OK;août 2019 (flash);blue
-MBSA_0003;;;;??;Détruit !;avril 2018 (Street View);black
-MBSA_0004;;;;??;Détruit !;avril 2018 (Street View);black
-MBSA_0005;;;;??;Détruit !;avril 2018 (Street View);black
-MBSA_0006;;;;??;Détruit !;mars 2018 (Street View);black
+MBSA_0003;;;;10;Détruit !;mars 2018 (Street View);black
+MBSA_0004;;;;30;Détruit !;avril 2018 (Street View);black
+MBSA_0005;;;;20;Détruit !;avril 2018 (Street View);black
+MBSA_0006;;;;10;Détruit !;avril 2018 (Street View);black
 MBSA_0007;;;;30;Détruit !;février 2022 (report);black
+MBSA_0008;;;;20;Détruit !;mars 2018 (Street View);black
 MBSA_0010;;;;30;Détruit !;avril 2018 (Street View);black
-MBSA_00??;;;;??;Détruit !;mars 2018 (Street View);black
 MBSA_00??;;;;??;Détruit !;mars 2018 (Street View);black
 MEN_0001;;;;20;OK;avril 2021 (Live FlashInvaders);blue
 MEN_0002;;;;50;OK;mai 2021 (Live FlashInvaders);blue
@@ -3038,7 +3039,7 @@ MIA_0009;;;;20;OK;avril 2019 (report);blue
 MIA_0010;;;;30;Détruit !;mars 2016 (spott);black
 MIA_0011;;;;30;Détruit !;mai 2021 (report);black
 MIA_0012;;;;30;Détruit !;mars 2016 (spott);black
-MIA_0013;;;;30;OK;novembre 2021 (Live FlashInvaders);blue
+MIA_0013;;;;30;Détruit !;novembre 2022 (report);black
 MIA_0014;;;;10;Détruit !;février 2020 (report);black
 MIA_0015;;;;100;Détruit !;mars 2016 (spott);black
 MIA_0016;;;;50;Détruit !;mars 2016 (spott);black
@@ -3058,7 +3059,7 @@ MIA_0029;;;;30;Détruit !;decembre 2019 (report);black
 MIA_0030;;;;20;Détruit !;février 2020 (report);black
 MIA_0031;;;;30;Détruit !;mai 2021 (report);black
 MIA_0032;;;;20;Très dégradé;septembre 2022 (report);red
-MIA_0033;;;;10;Dégradé;mars 2021 (Live FlashInvaders);orange
+MIA_0033;;;;10;Très dégradé;novembre 2022 (report);red
 MIA_0034;;;;30;Détruit !;mars 2016 (spott);black
 MIA_0035;;;;50;Détruit !;septembre 2017 (report);black
 MIA_0036;;;;20;Détruit !;décembre 2019 (report);black
@@ -3503,7 +3504,7 @@ POTI_0013;;;;50;OK;janvier 2022 (Instagram);blue
 POTI_0014;;;;50;OK;février 2022 (report);blue
 POTI_0015;;;;20;OK;mars 2022 (report);blue
 POTI_0016;;;;30;OK;février 2022 (report);blue
-POTI_0017;;;;50;Détruit !;avril 2022 (report);black
+POTI_0017;;;;50;OK;novembre 2022 (report);blue
 POTI_0018;;;;30;OK;janvier 2022 (Instagram);blue
 POTI_0019;;;;30;OK;février 2022 (report);blue
 POTI_0020;;;;40;OK;janvier 2022 (Live FlashInvaders);blue
@@ -3513,7 +3514,7 @@ POTI_0023;;;;20;OK;février 2022 (report);blue
 POTI_0024;;;;40;OK;janvier 2022 (FlashInvaders);blue
 POTI_0025;;;;30;OK;janvier 2022 (Live FlashInvaders);blue
 POTI_0026;;;;50;OK;février 2022 (report);blue
-POTI_0027;;;;50;Détruit !;avril 2022 (report);black
+POTI_0027;;;;50;OK;novembre 2022 (report);blue
 POTI_0028;;;;30;OK;février 2022 (Live FlashInvaders);blue
 POTI_0029;;;;20;OK;mars 2022 (report);blue
 POTI_0030;;;;40;OK;février 2022 (report);blue
@@ -3539,7 +3540,7 @@ POTI_0049;;;;50;OK;janvier 2022 (Instagram);blue
 POTI_0050;;;;50;Détruit !;avril 2022 (report);black
 POTI_0051;;;;50;OK;janvier 2022 (Live FlashInvaders);blue
 POTI_0052;;;;30;OK;février 2022 (report);blue
-POTI_0053;;;;20;OK;mars 2022 (report);blue
+POTI_0053;;;;20;Détruit !;novembre 2022 (report);black
 PRP_0001;;;;50;OK;janvier 2019 (report);blue
 PRP_0002;;;;30;OK;décembre 2015 (spott);blue
 PRP_0003;;;;20;OK;décembre 2015 (spott);blue
@@ -3615,11 +3616,11 @@ RA_0038;;;;100;Détruit !;septembre 2016 (spott);black
 RA_0039;;;;50;Un peu dégradé;avril 2022 (Live FlashInvaders);green
 RA_0040;;;;30;OK;janvier 2018 (report);blue
 RBA_0001;;;;30;Très dégradé;septembre 2022 (report);red
-RBA_0002;;;;50;Détruit !;octobre 2020 (report);black
+RBA_0002;;;;50;Détruit !;septembre 2022 (report);black
 RBA_0003;;;;20;Détruit !;décembre 2018 (spott);black
 RBA_0004;;;;40;OK;décembre 2018 (spott);blue
 RBA_0005;;;;50;OK;décembre 2018 (spott);blue
-RBA_0006;;;;20;Détruit !;octobre 2020 (report);black
+RBA_0006;;;;20;Détruit !;septembre 2022 (report);black
 RBA_0007;;;;40;Détruit !;octobre 2020 (report);black
 RBA_0008;;;;20;Détruit !;octobre 2020 (report);black
 RBA_0009;;;;40;OK;décembre 2018 (spott);blue
@@ -3774,7 +3775,7 @@ SP_0007;;;;30;Détruit !;;black
 SP_0008;;;;50;OK;février 2020 (report);blue
 SP_0009;;;;50;OK;février 2020 (report);blue
 SP_0010;;;;30;OK;février 2020 (report);blue
-SP_0011;;;;10;OK;octobre 2022 (report);blue
+SP_0011;;;;10;Détruit !;novembre 2022 (report);black
 SP_0012;;;;10;Détruit !;janvier 2022 (report);black
 SP_0013;;;;50;Détruit !;août 2016 (street view);black
 SP_0014;;;;50;OK;février 2020 (report);blue
@@ -3969,17 +3970,18 @@ TLS_0011;;;;30;OK;mai 2018 (spott);blue
 VLMO_0001;;;;30;OK;septembre 2017 (spott);blue
 VLMO_0002;;;;30;OK;septembre 2017 (spott);blue
 VLMO_0003;;;;20;OK;septembre 2017 (spott);blue
+VRN_0001;;;;20;OK;novembre 2022 (Instagram);blue
 VRN_0002;;;;20;OK;mars 2022 (Live FlashInvaders);blue
 VRN_0003;;;;30;OK;mars 2022 (Live FlashInvaders);blue
 VRN_0004;;;;20;OK;mars 2022 (Live FlashInvaders);blue
 VRN_0005;;;;20;OK;mars 2022 (Live FlashInvaders);blue
-VRN_0006;;;;30;Détruit !;juillet 2019 (Flickr);black
-VRN_0007;;;;20;Détruit !;août 2018 (report);black
-VRN_0008;;;;10;Détruit !;juillet 2019 (Flickr);black
+VRN_0006;;;;30;OK;octobre 2022 (Instagram);blue
+VRN_0007;;;;20;OK;novembre 2022 (FlashInvaders);blue
+VRN_0008;;;;10;OK;novembre 2022 (Instagram);blue
 VRN_0009;;;;10;Détruit !;novembre 2017 (Instagram);black
-VRN_0010;;;;30;Détruit !;juillet 2019 (Flickr);black
+VRN_0010;;;;30;OK;novembre 2022 (Instagram);blue
 VRN_0011;;;;20;Un peu dégradé;mars 2022 (Live FlashInvaders);green
-VRN_0012;;;;30;Très dégradé;janvier 2020 (report);red
+VRN_0012;;;;30;OK;novembre 2022 (Instagram);blue
 VRN_0013;;;;30;Dégradé;mars 2022 (Live FlashInvaders);orange
 VRN_0014;;;;10;Dégradé;mai 2022 (Live FlashInvaders);orange
 VSB_0001;;;;10;OK;juin 2019 (flash);blue
