@@ -26,8 +26,27 @@ class Invaders:
         client_invader_df = client_invader_df.astype("int")
 
         # todo
-        abbre_dic = {"Paris": "PA", "Versailles": "VRS", "Avignon": "AVI",
-                     "Rennes": "RN", "Rome": "ROM", "Toulouse": "TLS", "Berlin": "BRL"}
+        abbre_dic = {"Paris": "PA", 
+                     "Versailles": "VRS", 
+                     "Avignon": "AVI",
+                     "Rennes": "RN", 
+                     "Rome": "ROM", 
+                     "Toulouse": "TLS", 
+                     "Berlin": "BRL",
+                     "Aix-en-Provence": "AIX",
+                     "Clermont-Ferrand": "CLR",
+                     "Nimes":"NIM",
+                     "Perpignan":"PRP",
+                     "Grenoble":"GRN",
+                     "Dijon":"DIJ",
+                     "Rennes":"RN",
+                     "Lyon":"LY",
+                     "Côte d'Azur":"CAZ",
+                     "Luberon":"LBR",
+                     "Forcalquier":"FRQ",
+                     "MTB":"MTB",
+                     "Pau":"PAU"
+                     }
         client_invader_list = []
         for col in client_invader_df.columns:
             client_invader_list.extend(list(map(lambda x: abbre_dic[col] + "_" + str(
@@ -122,5 +141,5 @@ class Invaders:
 
     
 if __name__ == "__main__":
-    Inva = Invaders("xueying")
+    Inva = Invaders("nuoya")
     Inva.display()
