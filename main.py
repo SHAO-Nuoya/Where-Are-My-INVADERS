@@ -27,7 +27,7 @@ class Invaders:
 
         # todo
         abbre_dic = {"Paris": "PA", "Versailles": "VRS", "Avignon": "AVI",
-                     "Rennes": "RN", "Rome": "ROM", "Toulouse": "TLS"}
+                     "Rennes": "RN", "Rome": "ROM", "Toulouse": "TLS", "Berlin": "BRL"}
         client_invader_list = []
         for col in client_invader_df.columns:
             client_invader_list.extend(list(map(lambda x: abbre_dic[col] + "_" + str(
@@ -122,5 +122,5 @@ class Invaders:
 
     
 if __name__ == "__main__":
-    Inva = Invaders("nuoya")
+    Inva = Invaders("xueying")
     Inva.display()
