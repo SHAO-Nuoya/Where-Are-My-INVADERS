@@ -3,7 +3,7 @@ import pandas as pd
 from zipfile import ZipFile
 from pykml.factory import KML_ElementMaker as KML
 from lxml import etree
-
+from crawler import Crawler
 
 class Invaders:
     def __init__(self, client: str, address_path: str = "data/address.csv", info_path: str = "data/info.csv") -> None:
@@ -141,5 +141,6 @@ class Invaders:
 
     
 if __name__ == "__main__":
+    Crawler().generate_info()
     Inva = Invaders("nuoya")
     Inva.display()
