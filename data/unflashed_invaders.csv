@@ -1,0 +1,506 @@
+﻿ID;Address;Longitude;Latitude;Point;State;Source_date;Color
+PA_0001;4 Ter Pass. de la Main d'Or, 75001 Paris;2.3779945176641344;48.85177713280888;10;D√©truit !;septembre 2018 (spott);black
+PA_0006;40 rue de Seine;2.336769;48.855063;10;Tr√®s d√©grad√©;juillet 2022;red
+PA_0009;2 bis Pass. Saint-Antoine, 75011 Paris;2.3763826709366387;48.85321957517339;10;D√©truit !;avril 2015 (spott);black
+PA_0011;24 Rue Keller, 75011 Paris;2.3757898019571058;48.85498748719733;10;D√©truit !;juillet 2015 (spott);black
+PA_0012;24 Rue Keller, 75011 Paris;2.3758327506338603;48.854936315804586;10;D√©truit !;juillet 2015 (spott);black
+PA_0017;face √†¬† la rue Voltaire;2.361939;48.815751;10;D√©grad√©;f√©vrier 2021 (report);orange
+PA_0018;16 rue Saint-Vincent;2.341277;48.888538;10;OK;d√©cembre 2018 (spott);blue
+PA_0019;pont pi√©ton de la Grange aux Belles;2.364043;48.873203;10;D√©truit !;octobre 2022;black
+PA_0020;20 rue Saint-Fiacre;2.345908;48.870718;10;D√©truit !;ao√ªt 2018 (report);black
+PA_0026;101, 75001 Paris;2.346433680118661;48.86130190236651;10;D√©truit !;septembre 2022;black
+PA_0027;fontaine des Haudriettes;2.357949;48.861207;10;D√©truit !;avril 2019 (report);black
+PA_0033;46 Rue des Francs Bourgeois, 75004 Paris;2.358804638966889;48.85878018904838;10;D√©truit !;juillet 2015 (spott);black
+PA_0036;face au 7 boulevard Vincent Auriol;2.373305;48.837191;10;Un peu d√©grad√©;septembre 2017 (report);green
+PA_0038;1 passage Th√©ri√©;2.374937;48.853203;10;D√©truit !;septembre 2022;black
+PA_0039;2 rue d'√âcosse;2.346597;48.848325;10;D√©truit !;mai 2020;black
+PA_0045;1 Rue Saint-Sulpice, 75006 Paris;2.338021109176428;48.85152096964395;10;D√©truit !;juillet 2022;black
+PA_0049;117 rue Oberkampf;2.378379;48.865957;10;D√©grad√©;mai 2019 (report);orange
+PA_0052;16 Rue du Perche, 75003 Paris;2.3607664697473147;48.86114945615114;50;D√©truit !;avril 2015 (spott);black
+PA_0053;face au 16 boulevard Vincent Auriol;2.372367;48.836908;10;D√©grad√©;d√©cembre 2020 (report);orange
+PA_0054;Espl. L√©o Hamon;2.3515616799049086;48.83678076224968;10;D√©truit !;avril 2015 (spott);black
+PA_0056;10 rue Simonet;2.351604;48.828724;10;OK;juin 2022 (report);blue
+PA_0057;34 rue Louise Weiss;2.369748;48.834487;10;D√©truit !;septembre 2022;black
+PA_0058;14 rue Louise Weiss;2.370642;48.833443;10;OK;septembre 2022;blue
+PA_0060;√©glise Saint-Eustache;2.344486;48.86361;10;D√©truit !;f√©vrier 2022;black
+PA_0069;40 rue du Banquier;2.354171;48.834656;10;Un peu d√©grad√©;septembre 2022;green
+PA_0075;sur le pi√©destal du lion;2.332466;48.834295;10;D√©truit !;septembre 2022;black
+PA_0076;statue de Jeanne au secours d'Arc;2.357013;48.83833;10;OK;f√©vrier 2019 (report);blue
+PA_0078;21 passage du Moulin des Pr√©s;2.352885;48.828953;10;D√©grad√©;juin 2017 (flash);orange
+PA_0084;15 rue du Pas de la Mule;2.366677;48.856007;10;D√©truit !;octobre 2020 (report);black
+PA_0086;pont de Sully;2.360204;48.850563;10;D√©truit !;ao√ªt 2022;black
+PA_0088;sortie nord du Carrousel;2.335168;48.862666;30;D√©truit !;juillet 2022;black
+PA_0089;1 rue Baltard;2.346483;48.862751;10;Tr√®s d√©grad√©;novembre 2022;red
+PA_0090;m√©tro Etienne Marcel;2.34899;48.86372;10;D√©truit !;juillet 2022;black
+PA_0093;pont du Carroussel;2.333481;48.859832;10;D√©truit !;septembre 2022;black
+PA_0094;porte Fleurus du jardin du Luxembourg;2.33263;48.84704;10;D√©truit !;mai 2020 (report);black
+PA_0096;69 Rue de Richelieu, 75002 Paris;2.3377511749265296;48.8675701822122;10;D√©truit !;avril 2015 (spott);black
+PA_0101;18 Rue de l'Orillon, 75020 Paris;2.378425477443735;48.8718499298461;10;D√©truit !;avril 2015 (spott);black
+PA_0102;42 boulevard de l'H√¥pital;2.361975;48.839907;30;OK;novembre 2021 (Instagram);blue
+PA_0104;sud de la place de la Porte de Montreuil;2.414337;48.853403;30;OK;septembre 2019 (report);blue
+PA_0107;pont d'I√©na, rive gauche nord;2.292935;48.859382;20;D√©truit !;juillet 2020 (report);black
+PA_0111;20 rue Hermel;2.344664;48.891598;10;OK;septembre 2021 (report);blue
+PA_0112;19 rue Gassendi;2.326943;48.835;10;OK;juin 2019 (report);blue
+PA_0115;impasse des Arbal√©triers;2.359639;48.858572;30;OK;juillet 2018 (report);blue
+PA_0118;1 rue Raymond Ayron;2.375347;48.835576;10;D√©truit !;mars 2021 (report);black
+PA_0125;sud de la Fontaine aux Lions;2.39581;48.83954;20;D√©truit !;octobre 2020 (report);black
+PA_0129;Sur la pile du viaduc;2.3824066;48.8236456;10;OK;f√©vrier 2020 (report);blue
+PA_0130;Sur la pile du viaduc;2.3807648;48.8226732;10;OK;f√©vrier 2020 (report);blue
+PA_0134;Ecole du Louvre, Porte Jaujard, Pl. du Carrousel, 75001 Paris;2.3397377898291407;48.86035934052872;10;D√©truit !;mars 2018 (report);black
+PA_0136;93 Rue de Rivoli, 75001 Paris;2.336547578615725;48.862049661054;30;D√©truit !;septembre 2021 (report);black
+PA_0137;93 Rue de Rivoli, 75001 Paris;2.336709605382161;48.86205965416872;30;D√©truit !;septembre 2021 (report);black
+PA_0138;93 Rue de Rivoli, 75001 Paris;2.3369830255505226;48.861889770946966;30;D√©truit !;septembre 2021 (report);black
+PA_0139;93 Rue de Rivoli, 75001 Paris;2.3370640389337405;48.86175652880092;30;D√©truit !;septembre 2021 (report);black
+PA_0140;93 Rue de Rivoli, 75001 Paris;2.336441248550252;48.86184313623621;30;D√©truit !;septembre 2021 (report);black
+PA_0141;93 Rue de Rivoli, 75001 Paris;2.3364665652325067;48.86161329309829;30;D√©truit !;septembre 2021 (report);black
+PA_0142;93 Rue de Rivoli, 75001 Paris;2.336851378802793;48.86158331348075;30;D√©truit !;septembre 2021 (report);black
+PA_0146;2 rue V√©ron√®se;2.355438;48.834234;30;OK;ao√ªt 2018 (report);blue
+PA_0147;gare d'Austerlitz;2.365852;48.842848;10;D√©truit !;octobre 2022;black
+PA_0152;place de la Concorde;2.323337;48.86619;10;D√©truit !;septembre 2022;black
+PA_0153;9 Rue du Temple, 75004 Paris;2.3529038996629725;48.85795438577728;10;D√©truit !;avril 2015 (spott);black
+PA_0154;m√©tro de Bel-Air;2.400953;48.841734;50;D√©truit !;septembre 2019 (report);black
+PA_0161;17 rue Yvonne Le Tac;2.339665;48.884163;20;OK;juillet 2018 (report);blue
+PA_0163;133 rue Saint-Jacques;2.34355;48.84691;20;D√©truit !;ao√ªt 2022;black
+PA_0164;26 Av. Jean Aicard, 75011 Paris;2.3806137147122186;48.86633496736229;30;D√©truit !;avril 2015 (spott);black
+PA_0168;37 rue Richelieu;2.33668;48.865523;20;D√©truit !;septembre 2022 (report);black
+PA_0173;Sur le trottoir, devant le passage pi√©ton;2.37591;48.85034;10;Tr√®s d√©grad√©;d√©cembre 2021 (report);red
+PA_0179;entr√©e du tunnel de Champigny;2.50721;48.82725;10;D√©truit !;avril 2021 (report);black
+PA_0191;21 chemin du Parc de Charonne;2.402905;48.86068;10;Tr√®s d√©grad√©;juillet 2022;red
+PA_0195;avenue de la porte Clignancourt;2.344819;48.900821;20;OK;ao√ªt 2021 (report);blue
+PA_0199;214 Rue Saint-Maur, 75010 Paris;2.370661562446182;48.87341996498565;10;D√©truit !;juin 2018 (spott);black
+PA_0200;face au 194 rue de Bercy;2.37238;48.844506;10;Tr√®s d√©grad√©;ao√ªt 2020;red
+PA_0201;19 rue Georges Lardennois;2.37682;48.87801;30;D√©truit !;ao√ªt 2022 (report);black
+PA_0203;4 Pass. Stinville, 75012 Paris;2.3887289109794545;48.84407155031785;50;D√©truit !;octobre 2022;black
+PA_0204;place de la porte de Pantin;2.395975;48.889956;10;D√©truit !;ao√ªt 2021 (Instagram);black
+PA_0205;parvis de Saint-Vincent-de-Paul;2.35168;48.878073;20;D√©truit !;d√©cembre 2020 (report);black
+PA_0208;m√©tro Raspail;2.331491;48.837428;10;D√©truit !;ao√ªt 2022;black
+PA_0213;84 rue Mouffetard;2.349683;48.842099;50;D√©truit !;ao√ªt 2022;black
+PA_0214;9 Av. de la Prte des Lilas, 75019 Paris;2.4088290793936644;48.878077812415;10;D√©truit !;avril 2015 (spott);black
+PA_0215;0 rue Montgallet;2.386157;48.842592;10;D√©truit !;octobre 2019 (report);black
+PA_0216;67 rue de l'Amiral Mouchez;2.342467;48.821572;30;OK;avril 2015 (spott);blue
+PA_0219;face au 8 rue Andr√© Voguet;2.37367;48.81957;10;D√©truit !;mai 2020;black
+PA_0224;sur les panneaux d'information du p√©riph';2.373607;48.819874;10;D√©truit !;mai 2020;black
+PA_0225;sur le pont du periph' porte d'Ivry;2.373015;48.819453;10;D√©grad√©;mai 2020;orange
+PA_0234;Champ de Mars, 5 Av. Anatole France, 75007 Paris;2.294756660991674;48.85769984157637;10;D√©truit !;septembre 2022;black
+PA_0237;156 avenue des Champs √âlys√©es;2.297074;48.873433;20;D√©truit !;mars 2021 (report);black
+PA_0239;11 Rue Ramey, 75018 Paris;2.347210248996665;48.887478126551;10;D√©truit !;juillet 2015 (spott);black
+PA_0242;94-100 avenue Saint-Mand√©;2.406932;48.844487;20;D√©truit !;novembre 2022 (report);black
+PA_0244;12M Pl. L√©on Blum, 75011 Paris;2.3798276363628816;48.85825609083264;20;D√©truit !;juillet 2015 (spott);black
+PA_0246;10f Pl. de la R√©publique, 75011 Paris;2.364516122153576;48.867228421502446;10;D√©truit !;juillet 2022;black
+PA_0247;1 rue Firmin Gillot;2.289533;48.833349;20;OK;mars 2017 (spott);blue
+PA_0251;√†¬† l'ouest de la fontaine des Innocents;2.348006;48.860668;10;D√©truit !;septembre 2022;black
+PA_0254;101 avenue des Champs-√âlys√©es;2.300541;48.871809;20;Tr√®s d√©grad√©;septembre 2021 (report);red
+PA_0256;place de Varsovie;2.291805;48.860866;10;D√©truit !;octobre 2022;black
+PA_0257;m√©tro Passy;2.285713;48.857696;10;D√©truit !;juin 2022;black
+PA_0262;place de la Nation (c√¥t√© avenue du Tr√¥ne);2.397285;48.848006;10;D√©truit !;juillet 2019 (spott);black
+PA_0263;sur les marches du m√©tro Victor Hugo;2.285663;48.86995;10;D√©truit !;mai 2021 (report);black
+PA_0264;115 rue de la Tour;2.275514;48.862998;10;OK;avril 2019 (report);blue
+PA_0265;face au 27 boulevard Jules Sandeau;2.272269;48.862923;10;D√©truit !;octobre 2022;black
+PA_0266;11 rue de la Manutention;2.29564;48.864649;10;D√©truit !;juin 2022;black
+PA_0267;10 rue de Magdebourg;2.290235;48.864144;10;D√©truit !;octobre 2022;black
+PA_0269;sur le Chasseur √†¬† pied de la Redoute de Gravelle;2.45549;48.818166;30;OK;juillet 2015 (spott);blue
+PA_0272;96 rue de Tolbiac;2.364164;48.8268;20;OK;septembre 2018 (spott);blue
+PA_0274;Dans le tunnel du m√©tro ligne 1, tron√ßon Bastille - Saint Paul;2.368856907332963;48.851918876643;20;OK;juillet 2022 (Instagram);blue
+PA_0276;Rue de Lyon, 75012 Paris;2.3738223163257266;48.84476193089512;30;D√©truit !;;black
+PA_0279;116 rue du Faubourg du Temple;2.37615;48.87163;10;D√©truit !;janvier 2022 (report);black
+PA_0281;61 Rue de la Verrerie, 75004 Paris;2.352759261146996;48.85800430440576;10;D√©truit !;avril 2015 (spott);black
+PA_0284;15 Rue Neuve Popincourt, 75011 Paris;2.374725870725403;48.86382512840347;20;Non visible;;grey
+PA_0287;Unknown;2.3569;48.85667;10;D√©truit !;juillet 2022;black
+PA_0289;Rue des Goncourt, 75010 Paris;2.3710509041443;48.86997338701893;10;D√©truit !;;black
+PA_0290;113 rue Oberkampf;2.37815;48.865889;10;D√©truit !;juillet 2021 (report);black
+PA_0296;Sur le trottoir, derri√®re le passage pi√©ton;2.34488;48.86492;10;Tr√®s d√©grad√©;juillet 2022;red
+PA_0298;Dans le coin des rues, sur le trottoir, juste √† c√¥t√© du mur de la boucherie;2.33638;48.86798;10;D√©truit !;novembre 2022 (report);black
+PA_0300;56 avenue des Gobelins, devant la brasserie le Naja, sur le sol √† c√¥t√© d'un arbre;2.3537469123101737;48.83372411517118;10;Tr√®s d√©grad√©;octobre 2022 (report);red
+PA_0303;24 passage Boiton;2.35075;48.82682;10;OK;juin 2018 (spott);blue
+PA_0304;75 Av. des Gobelins, 75013 Paris;2.3544589373577782;48.833300634425306;20;D√©truit !;septembre 2022;black
+PA_0306;11-9 Rue des Iris, 94240 L'Ha√ø-les-Roses;2.346406627977844;48.77549200731991;50;D√©truit !;janvier 2021 (report);black
+PA_0309;1 boulevard de l'Amiral Bruix;2.282737;48.876904;20;OK;d√©cembre 2018 (report);blue
+PA_0310;passerelle de la Porte de Saint-Cloud;2.255328;48.83748;20;OK;avril 2019 (report);blue
+PA_0311;face au 5 rue Br√©a;2.330293;48.843579;20;D√©truit !;d√©cembre 2018 (report);black
+PA_0312;parvis de Saint-Pierre de Montrouge;2.327061;48.828366;10;OK;mai 2022 (report);blue
+PA_0313;Au sol, dans le passage pi√©ton √† travers la rue des Prouvaires;2.34403;48.86122;10;Tr√®s d√©grad√©;ao√ªt 2022;red
+PA_0314;2 Pl. Pinel, 75013 Paris;2.3618088405590765;48.83315442946874;10;D√©truit !;mars 2015 (spott);black
+PA_0315;face au 32 boulevard Auguste Blanqui;2.351154;48.830074;10;OK;juin 2022 (report);blue
+PA_0316;rue des Artistes;2.334741;48.827372;10;OK;octobre 2019 (report);blue
+PA_0317;devant la Fondation Cartier;2.33168;48.83667;20;D√©truit !;ao√ªt 2022;black
+PA_0320;34 rue du Faubourg Saint-Jacques;2.338129;48.836622;50;OK;octobre 2018 (spott);blue
+PA_0324;Au sol juste devant le trottoir;2.33083;48.86541;10;Tr√®s d√©grad√©;juillet 2021 (report);red
+PA_0336;centre d'Hygi√®ne Sociale;2.353239;48.890439;10;OK;juillet 2018 (report);blue
+PA_0337;A l'entr√©e de l'A3, au niveau du sol;2.41271;48.86449;20;D√©truit !;avril 2021 (report);black
+PA_0338;Pl. du Mar√©chal Juin, 75017 Paris;2.296905926234022;48.88518215716169;10;D√©truit !;ao√ªt 2022;black
+PA_0350;√©cole primaire de l'avenue d'Ivry;2.365082;48.822933;10;D√©grad√©;septembre 2017 (report);orange
+PA_0352;21 rue d'Alsace;2.358214;48.877675;10;D√©truit !;septembre 2022;black
+PA_0357;21 boulevard Lefebvre;2.290355;48.832037;10;D√©grad√©;juillet 2022;orange
+PA_0358;14 rue de Savies;2.391285;48.871463;10;D√©truit !;janvier 2021 (report);black
+PA_0361;Unknown;2.3527353;48.8308994;20;OK;septembre 2020;blue
+PA_0366;127 rue Castagnary;2.30356;48.8299;10;OK;septembre 2016 (spott);blue
+PA_0367;108 rue Brancion;2.3017;48.82981;20;D√©truit !;ao√ªt 2022;black
+PA_0368;80 Ave Parmentier, 75011 Paris;2.3753470098370344;48.86438422092486;10;D√©truit !;avril 2015 (spott);black
+PA_0371;Ouest de la fontaine de Montreuil;2.38316;48.85037;10;D√©truit !;juillet 2022;black
+PA_0383;54 Bd du Temple, 75011 Paris;2.364744910753229;48.8665419419933;20;D√©truit !;avril 2015 (spott);black
+PA_0385;41 rue Dunois;2.36856;48.83149;10;OK;octobre 2018 (spott);blue
+PA_0393;85 Quai d'Austerlitz, 75013 Paris;2.3663336147007543;48.842872775150205;30;D√©truit !;octobre 2022;black
+PA_0396;49 rue de Beaubourg;2.35441;48.862668;20;D√©truit !;mars 2019 (report);black
+PA_0397;A gauche de la route, derri√®re les plantes. Difficilement accessible √† pied.;2.41412;48.86685;30;OK;janvier 2020 (spott);blue
+PA_0403;porte N-E du parc George Brassens;2.30289;48.83208;10;D√©grad√©;juillet 2022;orange
+PA_0405;face au 110 rue Castagnary;2.305931;48.830168;50;Un peu d√©grad√©;septembre 2022;green
+PA_0407;93 rue Vieille du Temple;2.360883;48.860102;30;D√©truit !;septembre 2017 (report);black
+PA_0408;Av. de la Chapelle, 75020 Paris;2.391192301860704;48.8629891024419;10;D√©truit !;juin 2019 (report);black
+PA_0409;43 Av. de la R√©publique, 75011 Paris;2.375340962763976;48.86526476356448;10;Non visible;f√©vrier 2019 (report);grey
+PA_0410;0 rue de la Mare;2.38822;48.868393;10;Tr√®s d√©grad√©;juillet 2022;red
+PA_0412;15 rue Robineau;2.393552;48.864799;10;D√©truit !;f√©vrier 2020 (report);black
+PA_0414;2 rue du 11 Novembre 1918;2.410014;48.891977;10;OK;juin 2019 (report);blue
+PA_0418;139 avenue Michelet;2.344331;48.901461;10;OK;septembre 2021 (report);blue
+PA_0419;A c√¥t√© de la plaque du num√©ro 68;2.41514;48.85845;10;OK;octobre 2021 (report);blue
+PA_0420;45 rue Anselme;2.336024;48.909131;10;OK;mai 2019 (report);blue
+PA_0425;Sur le c√¥t√© du pont de D6B, flashable sous le pont ferroviaire;2.41503;48.81813;50;OK;mai 2020;blue
+PA_0426;face au pavillon d'Italie;2.357022;48.816064;30;D√©grad√©;mars 2019 (spott);orange
+PA_0427;10 rue de Tolbiac;2.375363;48.829912;30;OK;juin 2021 (Instagram);blue
+PA_0428;7 avenue de la Grande Arm√©e;2.292356;48.874504;20;D√©truit !;juillet 2021 (report);black
+PA_0431;rond-point de la porte de Vincennes;2.414288;48.847269;10;OK;f√©vrier 2021 (report);blue
+PA_0434;19 rue Lamblardie;2.39799;48.840725;30;D√©truit !;septembre 2020;black
+PA_0440;81U Av. Pierre Mend√®s-France, 75013 Paris;2.367572048321965;48.8419017019716;10;D√©truit !;octobre 2022;black
+PA_0441;7 rue Gabriel P√©ri;2.356289;48.815533;50;OK;ao√ªt 2022 (report);blue
+PA_0457;1 Pl. de la R√©publique, 75003 Paris;2.3641169758735003;48.86736453099165;10;D√©truit !;mars 2022 (report);black
+PA_0459;m√©tro Chevaleret;2.36825;48.834914;30;OK;octobre 2018 (spott);blue
+PA_0460;39P rue Louise Weiss;2.369952;48.834395;10;OK;octobre 2018 (spott);blue
+PA_0463;182 Rue Saint-Honor√©, 75001 Paris;2.33853461207176;48.86247313387405;50;D√©truit !;mars 2015 (spott);black
+PA_0465;114 rue de la Roquette;2.378546;48.856977;20;OK;ao√ªt 2018 (report);blue
+PA_0467;parc de Belleville;2.384969;48.871567;30;Un peu d√©grad√©;f√©vrier 2021 (report);green
+PA_0469;3 Pl. Saint-Germain des Pr√©s, 75006 Paris;2.3335624486225623;48.85392912375991;20;D√©truit !;mars 2015 (spott);black
+PA_0473;3 rue Saint-Sulpice;2.338006;48.851471;30;OK;octobre 2022 (report);blue
+PA_0477;267b rue de Paris;2.415553;48.854338;30;OK;juin 2018 (report);blue
+PA_0479;2 Pl. Sainte-Opportune, 75001 Paris;2.347141857134267;48.859394858698735;10;D√©truit !;septembre 2022;black
+PA_0485;15 rue Paul Val√©rie;2.289909;48.870264;10;OK;mars 2019 (report);blue
+PA_0490;10 rue du Chemin de Fer;2.391981;48.899579;50;OK;janvier 2016 (spott);blue
+PA_0491;4 Rue Michel le Comte, 75003 Paris;2.356904421025277;48.86196674252736;50;D√©truit !;juillet 2015 (spott);black
+PA_0497;sortie routi√®re de Roissy-Charles-de-Gaulle;2.528152;49.006762;50;OK;d√©cembre 2020 (report);blue
+PA_0500;5 R. de Turbigo, 75001 Paris;2.347744151197123;48.86356608798098;50;D√©truit !;ao√ªt 2022;black
+PA_0508;9 rue des Prouvaires;2.344175;48.861702;10;OK;f√©vrier 2019 (report);blue
+PA_0509;33 Rue Berger, 75001 Paris;2.3441507238128887;48.86196016509459;30;D√©truit !;septembre 2022;black
+PA_0511;95 Rue de Bagnolet, 75020 Paris;2.4017749440857066;48.85882184264938;10;D√©truit !;avril 2015 (spott);black
+PA_0512;267 Bd de la Villette, 75010 Paris;2.368366119969888;48.88389482379749;20;D√©truit !;avril 2015 (spott);black
+PA_0513;160 Rue Vieille-du-Temple, 75003 Paris;2.364362694947108;48.86179873536228;10;D√©truit !;avril 2015 (spott);black
+PA_0518;119 Quai de Bercy, 75012 Paris;2.378639167691947;48.832878768949314;50;D√©truit !;avril 2015 (spott);black
+PA_0519;83 Rue Vieille-du-Temple, 75003 Paris;2.3595827640680795;48.85926738925531;10;D√©truit !;novembre 2018 (report);black
+PA_0520;viaduc rue Jacques Kabl√©;2.494696;48.835546;20;OK;juillet 2019 (spott);blue
+PA_0521;cimeti√®re de Belleville;2.399825;48.875538;20;OK;juin 2018 (spott);blue
+PA_0522;Square Jules Ferry;2.369036;48.866379;10;D√©truit !;ao√ªt 2020 (report);black
+PA_0524;244 avenue du G√©n√©ral de Gaulle;2.508885;48.826905;50;Un peu d√©grad√©;mars 2021 (report);green
+PA_0526;au croisement de l'A86 et de la ligne de RER E;2.487126;48.860432;30;OK;septembre 2017 (spott);blue
+PA_0533;sous le p√©riph' porte de Cligancourt;2.343811;48.900816;30;OK;mars 2019 (spott);blue
+PA_0537;160 rue Oberkampf, piscine de l'Espace Form;2.38281;48.86626;20;D√©truit !;septembre 2022 (report);black
+PA_0538;4 Cit√© V√©ron, 75018 Paris;2.3323860473747264;48.88440933889448;20;Non visible;;grey
+PA_0542;5 rue de Rambouillet;2.379208;48.843367;50;Tr√®s d√©grad√©;avril 2022;red
+PA_0546;320bis rue de Charenton;2.39717;48.831983;30;D√©truit !;septembre 2018 (spott);black
+PA_0551;1 avenue Ibsen;2.411501;48.865235;10;D√©truit !;mai 2022;black
+PA_0554;101 rue de Reuilly;2.391561;48.843257;20;D√©truit !;octobre 2022;black
+PA_0555;11 boulevard Beaumarchais;2.368784;48.854589;50;D√©truit !;juin 2021 (report);black
+PA_0557;282 rue Saint-Jacques;2.341198;48.841544;20;Tr√®s d√©grad√©;juin 2019 (report);red
+PA_0558;45 rue de la Br√®che aux Loups;2.39589;48.838579;10;Tr√®s d√©grad√©;avril 2022;red
+PA_0559;1 rue Raoul;2.396419;48.83874;20;OK;d√©cembre 2020 (report);blue
+PA_0560;65 boulevard Flandrin;2.27404;48.86858;10;OK;juillet 2018 (report);blue
+PA_0561;77bis Rue Marcadet, 75018 Paris;2.346839732661881;48.890297618013726;10;D√©truit !;juillet 2015 (spott);black
+PA_0567;117 rue Haxo;2.402223;48.876023;30;D√©grad√©;octobre 2019 (report);orange
+PA_0569;passerelle de Charentonneau;2.442683;48.816851;20;D√©grad√©;septembre 2022 (report);orange
+PA_0574;avenue Pierre Brossolette;2.493827;48.829989;30;OK;juillet 2019 (spott);blue
+PA_0578;3 place Henri Queuille;2.311836;48.845263;20;Tr√®s d√©grad√©;ao√ªt 2022 (report);red
+PA_0582;14 rue Villedo;2.3357;48.866571;20;D√©truit !;ao√ªt 2022;black
+PA_0584;17 rue d'Amsterdam;2.326795;48.877251;20;D√©truit !;f√©vrier 2021;black
+PA_0596;85 rue de la Croix Nivert;2.295586;48.843339;10;Tr√®s d√©grad√©;avril 2022;red
+PA_0597;m√©tro La Motte-Picquet-Grenelle;2.297638;48.849209;10;D√©truit !;ao√ªt 2022;black
+PA_0600;entr√©e du tunnel de la porte Chaumont;2.396877;48.886487;30;OK;septembre 2018 (spott);blue
+PA_0601;A86 √†¬† l'angle du stade Pierre de Coubertin;2.485377;48.859886;20;OK;d√©cembre 2018 (spott);blue
+PA_0603;19 Rue de Pontoise, 75005 Paris;2.3516145610844426;48.84927477862324;20;Non visible;mars 2022 (report);grey
+PA_0607;48 rue d'Orsel;2.341899;48.883487;50;D√©truit !;juillet 2022;black
+PA_0608;1 avenue du G√©n√©ral de Gaulle;2.484218;48.820142;10;Un peu d√©grad√©;f√©vrier 2021 (report);green
+PA_0611;boulevard Georges Braque;2.473746;48.961187;30;OK;juillet 2015 (spott);blue
+PA_0613;derri√®re un poteau √†¬† l'entr√©e d'un tunnel;2.361211;48.816267;20;OK;mars 2017 (spott);blue
+PA_0614;bretelle de p√©riph√©rique Porte Brancion;2.298492;48.826254;20;Un peu d√©grad√©;mai 2020 (report);green
+PA_0620;escalier menant vers le passage Piat;2.38677;48.87046;10;D√©grad√©;f√©vrier 2022 (report);orange
+PA_0621;porte de Pantin;2.396147;48.888993;30;OK;juillet 2019 (spott);blue
+PA_0622;au pied du 18 boulevard de la Guyane;2.412255;48.835582;30;D√©truit !;mai 2020 (report);black
+PA_0623;porte de la Gare c√¥t√© Ivry;2.385989;48.827254;20;D√©truit !;janvier 2022 (report);black
+PA_0625;(d√©truit);2.3295234;48.8528467;30;D√©truit !;juillet 2021 (report);black
+PA_0628;Unknown;2.3145237;48.8272687;10;OK;mai 2020;blue
+PA_0640;Unknown;2.337166;48.8872532;30;OK;avril 2021 (Instagram);blue
+PA_0643;21 rue des Abbesses;2.337857;48.884576;50;OK;d√©cembre 2018 (spott);blue
+PA_0645;rue Charles Monselet;2.400606;48.879724;50;OK;avril 2015 (spott);blue
+PA_0646;porte de Vanves;2.304927;48.827974;30;OK;octobre 2019 (report);blue
+PA_0647;66 rue Caulaincourt;2.336834;48.889471;30;D√©truit !;avril 2021 (report);black
+PA_0648;m√©tro Pelleport;2.401491;48.868227;30;OK;juin 2018 (spott);blue
+PA_0651;52 rue Saint-Didier;2.283506;48.867162;20;OK;juillet 2019 (spott);blue
+PA_0652;25 rue des Sablons;2.282824;48.865032;30;OK;avril 2019 (report);blue
+PA_0653;33 rue du Colis√©e;2.309827;48.871372;20;D√©truit !;d√©cembre 2019 (report);black
+PA_0655;34 rue Debelleyme;2.363702;48.862195;30;Tr√®s d√©grad√©;mai 2020 (report);red
+PA_0656;112bis rue Championnet;2.3395;48.89589;30;OK;septembre 2018 (spott);blue
+PA_0658;m√©tro Saint-Fargeau;2.404115;48.871633;30;OK;mai 2019 (report);blue
+PA_0665;127 rue de Lauriston;2.285567;48.86556;30;OK;janvier 2019 (spott);blue
+PA_0667;64 avenue de Choisy;2.36211;48.823602;10;OK;mai 2018 (spott);blue
+PA_0669;pont ferroviaire de la porte des Poissonniers;2.35365;48.898293;30;OK;d√©cembre 2018 (spott);blue
+PA_0675;1bis rue Friant;2.325317;48.827125;20;OK;juin 2016 (spott);blue
+PA_0676;40 Rue Saint-Andr√© des Arts, 75006 Paris;2.341235117793609;48.85341945015799;50;D√©truit !;mars 2015 (spott);black
+PA_0678;6 rue de Seine;2.336413;48.857238;30;D√©truit !;juillet 2022;black
+PA_0684;23bis rue Poliveau;2.359213;48.840199;30;OK;ao√ªt 2018 (report);blue
+PA_0685;sortie 18 de l'A86;2.48817;48.85823;30;OK;septembre 2018 (spott);blue
+PA_0686;1 rue Marius Delcher;2.399139;48.828627;30;D√©truit !;ao√ªt 2022 (report);black
+PA_0687;2U Pont National, 75013 Paris;2.387309024881899;48.82797465853787;30;D√©truit !;septembre 2014 (street view);black
+PA_0688;33 Rue du Faubourg Saint-Antoine, 75011 Paris;2.371827148906429;48.852595968361065;10;D√©truit !;;black
+PA_0690;12 rue Jean-Henri Fabre;2.342903;48.901307;20;D√©grad√©;novembre 2020 (Live FlashInvaders);orange
+PA_0704;17 rue de la Cerisaie;2.365003;48.852243;30;D√©truit !;mars 2020 (report);black
+PA_0705;32 rue de Patay;2.374785;48.825532;20;Un peu d√©grad√©;f√©vrier 2021 (report);green
+PA_0709;295 Rue de Belleville, 75019 Paris;2.4023383747010274;48.8761608873476;20;D√©truit !;avril 2015 (spott);black
+PA_0716;11 Rue des Lilas, 93100 Montreuil;2.4304152020115395;48.86961885837974;50;D√©truit !;juillet 2015 (spott);black
+PA_0721;47 Rue de l'Ourcq, 75019 Paris;2.38226489196174;48.89051070766817;30;D√©truit !;juillet 2015 (spott);black
+PA_0725;7 rue de Dunkarque;2.357742;48.879386;30;D√©truit !;juin 2020 (report);black
+PA_0729;cour du Havre;2.326082;48.87584;20;Non visible;ao√ªt 2021 (report);grey
+PA_0739;120 rue de M√©nilmontant;2.394924;48.869942;20;D√©truit !;septembre 2021 (report);black
+PA_0743;45 rue du Faubourg du Temple;2.36897;48.869494;50;D√©truit !;avril 2015 (spott);black
+PA_0745;47 Rue de l'Ermitage, 75020 Paris;2.3917836410734217;48.87125160344574;20;D√©truit !;avril 2015 (spott);black
+PA_0746;79 rue Charlot;2.364217;48.86436;50;D√©truit !;f√©vrier 2020 (report);black
+PA_0747;librairie Mazarine;2.338092;48.853989;20;OK;juillet 2020 (report);blue
+PA_0749;face au conservatoire de Montreuil;2.436125;48.85901;10;OK;juillet 2015 (spott);blue
+PA_0750;4 rue du Sergent Bobillot;2.434642;48.857381;30;OK;mars 2019 (report);blue
+PA_0751;11 rue Girardot;2.439718;48.860505;30;D√©truit !;mai 2019 (report);black
+PA_0752;14 boulevard Edouard Branly;2.440929;48.876096;20;OK;juillet 2016 (spott);blue
+PA_0757;place Marcel Sembat;2.24399;48.83374;20;OK;mai 2015 (spott);blue
+PA_0758;44 quai du Point du Jour;2.257281;48.830897;50;OK;juillet 2016 (spott);blue
+PA_0759;Sur un poteau √† c√¥t√© de l'entr√©e Canal, au coin de l'immeuble, vers la direction √éle Saint-Germain;2.25653;48.83038;10;OK;f√©vrier 2021 (report);blue
+PA_0760;A gauche du tunnel sous le p√©riph;2.2622787;48.8349401;20;OK;juillet 2020 (Instagram);blue
+PA_0763;A3/Boulevard Edouard Branly;2.441232;48.875949;50;D√©truit !;novembre 2021 (report);black
+PA_0767;0 rue du Fer √†¬† Moulin;2.356229;48.839616;50;D√©truit !;janvier 2022 (report);black
+PA_0768;42 boulevard Diderot;2.378005;48.846213;10;D√©truit !;octobre 2022;black
+PA_0773;Av. Franklin Delano Roosevelt, 75008 Paris;2.312789484481882;48.86688408402882;20;D√©truit !;juillet 2019 (report);black
+PA_0775;4 place des Victoires;2.340667;48.865825;20;OK;novembre 2022 (report);blue
+PA_0777;4 Rue Tiquetonne, 75002 Paris;2.3498393692457165;48.86440816168863;30;D√©truit !;avril 2015 (spott);black
+PA_0778;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.3740080169398587;48.82023680352402;20;OK;octobre 2020;blue
+PA_0779;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374128149823752;48.820276762894245;20;OK;octobre 2020;blue
+PA_0782;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.3740177176704096;48.8201586072411;20;OK;octobre 2020;blue
+PA_0783;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374158518665921;48.820205869535776;20;D√©truit !;novembre 2021;black
+PA_0784;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374470489503253;48.82033311395101;20;OK;octobre 2020;blue
+PA_0786;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.3746002472834307;48.82033129617587;20;OK;octobre 2020;blue
+PA_0787;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374492575933921;48.82028585177631;20;D√©truit !;mars 2021 (report);black
+PA_0788;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.3750198894661305;48.8204585402755;20;OK;septembre 2018 (spott);blue
+PA_0789;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374589204068096;48.82037310498713;20;OK;octobre 2020;blue
+PA_0790;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374903935705121;48.820425820395016;20;D√©truit !;avril 2021 (report);black
+PA_0791;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374981238212461;48.8205494287203;20;OK;octobre 2020;blue
+PA_0792;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374851480432284;48.8205148911307;20;OK;octobre 2020;blue
+PA_0793;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.375285974504149;48.820626087450286;20;OK;octobre 2020;blue
+PA_0794;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.375416791186413;48.82067212356799;20;OK;octobre 2020;blue
+PA_0799;Men Ready-To-Wear, 40 Boulevard Haussmann Galeries Lafayette, 75009 Paris;2.330225202777162;48.87366890112291;10;D√©truit !;juillet 2015 (spott);black
+PA_0801;maison de Serge Gainsbourg;2.33175;48.85719;20;D√©truit !;octobre 2019 (report);black
+PA_0804;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.375337850085047;48.82055926075255;20;OK;octobre 2020;blue
+PA_0805;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.375466411307272;48.82059341663141;20;OK;octobre 2020;blue
+PA_0806;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.374741048278941;48.82041491376346;20;D√©truit !;avril 2015 (spott);black
+PA_0807;align√©s sur le p√©riph √† c√¥t√© de Porte d'Ivry, flashable en face depuis la Rue Andr√© Voguet;2.37518277689231;48.82053125104454;20;D√©truit !;avril 2015 (spott);black
+PA_0808;Pl. de l'Alma, 75008 Paris;2.30231903957159;48.86472162911864;20;D√©truit !;octobre 2022;black
+PA_0811;Est de la fontaine de Montreuil;2.383073;48.850359;10;D√©truit !;juillet 2022;black
+PA_0819;2 rue Bailleul;2.34241;48.860951;30;D√©truit !;janvier 2021 (report);black
+PA_0825;186 rue de Paris;2.423043;48.855796;20;OK;mai 2021 (Instagram);blue
+PA_0826;22 rue Denoyez;2.378194;48.872319;30;D√©truit !;mai 2020 (report);black
+PA_0828;38 rue de Terre Neuve;2.399058;48.854764;50;D√©truit !;ao√ªt 2017 (report);black
+PA_0833;dans l'Abribus;2.399298;48.857411;20;OK;avril 2015 (spott);blue
+PA_0851;14 Bis rue de la Grande Chaumi√®re;2.330338;48.842183;10;OK;septembre 2018 (report);blue
+PA_0863;statue derri√®re le stade Charlety;2.347442;48.816734;20;OK;septembre 2018 (spott);blue
+PA_0875;2 rue des Peupliers;2.353816;48.825452;30;OK;septembre 2017 (report);blue
+PA_0877;146 rue de Paris;2.424849;48.856137;50;D√©truit !;juin 2020 (report);black
+PA_0884;205 rue La Fayette;2.365937;48.88157;20;D√©truit !;septembre 2018 (spott);black
+PA_0889;34 rue Mathis;2.373707;48.89116;20;OK;ao√ªt 2018 (report);blue
+PA_0891;59 rue Legendre;2.317294;48.886024;30;D√©truit !;ao√ªt 2022;black
+PA_0892;7 avenue Myron Herrick;2.309874;48.873719;50;D√©truit !;juillet 2017 (Instagram);black
+PA_0895;place Auguste Baron;2.387233;48.900435;50;OK;juillet 2015 (spott);blue
+PA_0896;23 avenue du Docteur Lannelongue;2.3294;48.81901;30;D√©truit !;mai 2020;black
+PA_0897;1 boulevard Gabriel P√©ri;2.295427;48.819408;10;OK;avril 2021 (report);blue
+PA_0898;19 Rue du Gouverneur G√©n√©ral √âbou√©, 92130 Issy-les-Moulineaux;2.2717325072271057;48.826835714137495;10;D√©truit !;septembre 2022;black
+PA_0899;(d√©truit);2.2779566;48.8518117;30;D√©truit !;mai 2015 (spott);black
+PA_0902;17 rue de Cambronne;2.301983;48.846342;20;D√©truit !;juillet 2022;black
+PA_0904;23 rue d'Aligre;2.37878;48.849948;30;D√©truit !;octobre 2019 (report);black
+PA_0905;Pl Skanderbeg, sur un coin du pont a√©rien au-dessus du p√©riph;2.371802;48.90051;30;OK;mai 2020;blue
+PA_0906;9 rue de la Goutte d'Or;2.354615;48.885039;30;D√©truit !;janvier 2022 (report);black
+PA_0907;Unknown;2.3585438;48.8996693;30;D√©truit !;ao√ªt 2021 (report);black
+PA_0908;10 cit√© Beauharnais;2.38963;48.853621;30;Un peu d√©grad√©;f√©vrier 2020 (report);green
+PA_0909;Sous le p√©riph, derri√®re un poteau;2.39678;48.88866;30;OK;janvier 2020 (spott);blue
+PA_0910;72 avenue Jean Jaur√®s;2.391909;48.903461;20;D√©grad√©;mars 2019 (report);orange
+PA_0911;7Z place Auguste Baron;2.38639;48.90018;30;D√©truit !;avril 2021 (report);black
+PA_0912;pont de Soissons;2.357463;48.915428;30;OK;juillet 2015 (spott);blue
+PA_0913;42 avenue Michelet;2.34409;48.910287;20;OK;mai 2019 (report);blue
+PA_0914;103,5 rue Baudin;2.292583;48.900339;30;Un peu d√©grad√©;juin 2019 (report);green
+PA_0915;69 rue Anatole France;2.285538;48.891474;10;OK;juin 2019 (report);blue
+PA_0916;2 rue de Fourcroy;2.295;48.87987;20;D√©truit !;ao√ªt 2022;black
+PA_0920;41 boulevard Edouard Branly;2.440717;48.875313;30;D√©grad√©;mars 2021 (report);orange
+PA_0925;17 boulevard Morland;2.362963;48.850165;10;D√©truit !;septembre 2022;black
+PA_0927;2-8 Pass. Saint-S√©bastien, 75011 Paris;2.367787073387742;48.86129795754647;20;D√©truit !;avril 2015 (spott);black
+PA_0928;Unknown;2.4347141;48.8482505;30;OK;mai 2021 (Live FlashInvaders);blue
+PA_0929;1 rue du G√©n√©ral Leclerc;2.360387;48.815316;30;OK;mars 2019 (spott);blue
+PA_0933;11ter rue d'Al√©sia;2.336602;48.827162;30;OK;mars 2019 (report);blue
+PA_0934;76 rue de Vouill√©;2.310077;48.833181;50;Un peu d√©grad√©;octobre 2020 (report);green
+PA_0936;boulevard de l'H√¥pital sous le m√©tro;2.363471;48.841776;50;D√©truit !;octobre 2022;black
+PA_0937;face au 80 boulevard Auguste Blanqui;2.346681;48.830319;30;OK;mai 2019 (report);blue
+PA_0938;face au 91 boulevard Auguste Blanqui;2.346628;48.830237;30;OK;mai 2019 (report);blue
+PA_0939;m√©tro Denfert-Rochereau;2.33202;48.834147;30;D√©truit !;septembre 2022;black
+PA_0940;rue des Artistes;2.33475;48.82738;10;OK;mars 2019 (report);blue
+PA_0942;2 passage Foubert;2.352675;48.825857;20;OK;septembre 2017 (spott);blue
+PA_0943;entr√©e des Frigos;2.37904;48.831301;20;OK;juillet 2019 (report);blue
+PA_0954;6 Rue Charles-Fran√ßois Dupuis, 75003 Paris;2.363080115228454;48.8651489618271;30;D√©truit !;avril 2015 (spott);black
+PA_0962;m√©tro Porte des Lilas;2.406605;48.876826;20;OK;juin 2018 (spott);blue
+PA_0964;3 Rue des Haudriettes, 75003 Paris;2.357947687770865;48.86125220423581;30;D√©truit !;septembre 2020;black
+PA_0965;statue de Paris du pont du Carrousel;2.332779;48.858728;30;D√©truit !;ao√ªt 2022;black
+PA_0969;Statue de la Libert√©;2.27966;48.849996;30;D√©truit !;mai 2021 (report);black
+PA_0971;1 rue du Saint-Gothard;2.334976;48.830178;20;Tr√®s d√©grad√©;octobre 2020 (report);red
+PA_0972;22 rue Bernard Lecache;2.415351;48.846276;50;OK;septembre 2019 (report);blue
+PA_0982;91 Rue de Reuilly, 75012 Paris;2.3901088966935213;48.84458088638742;30;D√©truit !;avril 2015 (spott);black
+PA_0983;rue Mondoville;2.406642;48.865966;20;OK;juin 2016 (spott);blue
+PA_0984;1 place Rhin et Danube;2.392771;48.882183;20;D√©truit !;d√©cembre 2021 (report);black
+PA_0985;52 boulevard S√©rurier;2.399501;48.879782;30;D√©grad√©;f√©vrier 2019 (report);orange
+PA_0989;2 rue de l'√âvangile;2.361296;48.89142;30;OK;avril 2019 (spott);blue
+PA_0992;11 Rue B√©ranger, 75003 Paris;2.363130816670369;48.865641360835006;30;D√©truit !;f√©vrier 2018 (Instagram);black
+PA_0993;entr√©e du p√©riph√©rique porte des Lilas;2.408995;48.876705;30;OK;juillet 2020 (report);blue
+PA_0994;0 boulevard Duaumont;2.310692;48.896963;30;Un peu d√©grad√©;mars 2021 (report);green
+PA_1000;dans le hall de la G√©n√©rale;2.379518;48.859588;100;D√©truit !;juillet 2020 (report);black
+PA_1002;bretelle d'autoroute A86/N406, face au Castorama de Cr√©teil;2.4408;48.77895;20;OK;ao√ªt 2019 (report);blue
+PA_1003;Unknown;2.3009126;48.878852;50;D√©truit !;septembre 2021 (report);black
+PA_1017;86 rue de la Villette;2.388289;48.878821;50;D√©truit !;mai 2021 (report);black
+PA_1018;place Paul Eluard;2.360135;48.889951;30;OK;mai 2019 (report);blue
+PA_1020;86 rue Championnet;2.343033;48.895858;50;OK;octobre 2021 (report);blue
+PA_1021;1 impasse Robert;2.338842;48.895526;30;OK;septembre 2018 (spott);blue
+PA_1026;52 Grande Rue Charles-de-Gaulle;2.521098;48.837786;20;OK;ao√ªt 2019 (spott);blue
+PA_1029;105 Rue du Faubourg du Temple, 75010 Paris;2.3738695839338573;48.87097452104727;50;D√©truit !;avril 2015 (spott);black
+PA_1031;face √†¬† un entrep√¥t abandonn√©;2.38924;48.90066;50;OK;juillet 2015 (spott);blue
+PA_1035;14 rue Jean-Baptiste Berlier;2.383472;48.825751;20;D√©truit !;mars 2019 (report);black
+PA_1036;144 boulevard Mass√©na;2.361984;48.819469;20;D√©truit !;mai 2021 (report);black
+PA_1037;84 avenue d'Italie;2.357178;48.825982;10;Tr√®s d√©grad√©;mars 2021;red
+PA_1041;rond-point d'Espagne;2.375199;48.754462;20;OK;octobre 2019 (report);blue
+PA_1042;A86 c√¥t√© cimeti√®re nouveau de Vitry;2.403205;48.773999;50;OK;ao√ªt 2019 (spott);blue
+PA_1043;A86 c√¥t√© cimeti√®re communal de Choisy;2.403313;48.773718;50;OK;novembre 2019 (report);blue
+PA_1044;√©changeur porte d'Italie;2.35889;48.816089;30;OK;novembre 2019 (report);blue
+PA_1048;Autoroute du Soleil;2.34389;48.765394;30;OK;ao√ªt 2019 (spott);blue
+PA_1052;rue du Chevalier de la Barre;2.347243;48.887431;20;OK;d√©cembre 2018 (spott);blue
+PA_1055;bretelle de sortie de l'autoroute de l'Est;2.466303;48.82677;100;OK;ao√ªt 2019 (spott);blue
+PA_1061;29 rue ramey;2.34657;48.888662;50;OK;d√©cembre 2018 (spott);blue
+PA_1063;28 rue des Archives;2.355071;48.858213;30;Non visible;janvier 2021 (report);grey
+PA_1066;McDo de la porte de Bagnolet;2.408417;48.864658;30;OK;mars 2017 (spott);blue
+PA_1078;99 rue de R√©aumur;2.345456;48.867695;30;D√©truit !;septembre 2020;black
+PA_1079;Le centvingtsept by Pixelis, 127 Av. Ledru Rollin, 75011 Paris;2.37760923650984;48.85439309945443;20;D√©truit !;f√©vrier 2019 (report);black
+PA_1089;79 rue de la Bo√©tie;2.308972;48.872053;100;D√©truit !;d√©cembre 2019 (report);black
+PA_1093;Cit√© de la Mode et du Design;2.369772;48.840818;30;OK;octobre 2018 (spott);blue
+PA_1095;18ter rue Jaucourt;2.395058;48.847363;30;D√©truit !;f√©vrier 2022 (report);black
+PA_1096;18 rue des Lilas ou presque;2.43046;48.869639;50;Un peu d√©grad√©;novembre 2021 (report);green
+PA_1097;20 rue du Louvre;2.34125;48.861527;100;D√©truit !;ao√ªt 2017 (Instagram);black
+PA_1106;1 rue Ferdinand Flocon;2.345418;48.890901;20;OK;mai 2019 (report);blue
+PA_1110;direction de la Voirie et des D√©placements;2.413853;48.845788;50;OK;juillet 2019 (report);blue
+PA_1113;6 place de Stalingrad;2.239863;48.882934;30;D√©truit !;juin 2019 (report);black
+PA_1117;Terminal 2D Porte 6;2.567216;49.00441;30;D√©truit !;octobre 2022 (report);black
+PA_1118;boulevard Gabriel P√©ri sous le p√©riph';2.477093;48.877504;30;OK;juillet 2015 (spott);blue
+PA_1119;29 avenue de la R√©publique;2.415945;48.862546;30;OK;juin 2019 (Instagram);blue
+PA_1122;avenue Corentin Cariou;2.384498;48.89626;100;OK;juillet 2016 (spott);blue
+PA_1123;1 rue Santos-Dumont;2.305686;48.834196;50;OK;avril 2015 (spott);blue
+PA_1131;est de la Fontaine au Lions;2.395918;48.839617;20;D√©truit !;octobre 2020 (report);black
+PA_1137;pont Delizy;2.40982;48.895025;30;OK;septembre 2019 (report);blue
+PA_1138;112 avenue du G√©n√©ral Leclerc;2.406627;48.898349;20;OK;juillet 2015 (spott);blue
+PA_1141;Agence Spatiale Europ√©enne;2.304209;48.848419;50;D√©truit !;juillet 2022;black
+PA_1150;quai Saint-Bernard;2.364385;48.844928;30;Tr√®s d√©grad√©;ao√ªt 2022;red
+PA_1155;pont pi√©ton de la rue Lucien Lambeau;2.414452;48.857685;50;D√©grad√©;septembre 2019 (Instagram);orange
+PA_1162;14 rue des Pr√©cheurs;2.34868;48.862045;100;D√©truit !;juin 2020 (report);black
+PA_1169;6 avenue de la Porte de la Chapelle;2.359518;48.89895;30;D√©truit !;juillet 2021 (report);black
+PA_1173;terrasse du Wanderlust;2.371144;48.840096;30;OK;juillet 2019 (report);blue
+PA_1177;Agence France Presse;2.340272;48.868795;30;D√©truit !;d√©cembre 2021 (report);black
+PA_1184;croisement E50/A6B;2.340419;48.762395;50;Un peu d√©grad√©;ao√ªt 2019 (spott);green
+PA_1187;89 rue Andr√© Joineau;2.402702;48.882103;50;OK;juillet 2016 (spott);blue
+PA_1188;81 rue d'Assas;2.334858;48.842502;30;D√©truit !;juillet 2017 (report);black
+PA_1191;1192, 1193, 1194 & 1195, le long de la D126B;2.355387;48.814755;50;OK;mars 2019 (spott);blue
+PA_1192;Unknown;2.3553152;48.814682;50;OK;mars 2019 (spott);blue
+PA_1193;Unknown;2.3553246;48.8146926;50;OK;mars 2019 (spott);blue
+PA_1194;Unknown;2.3553326;48.8147024;50;OK;mars 2019 (spott);blue
+PA_1195;Unknown;2.3553407;48.8147086;50;OK;mars 2019 (spott);blue
+PA_1198;145 boulevard Raspail;2.329685;48.842276;30;OK;f√©vrier 2021 (report);blue
+PA_1199;Poterne des Peupliers;2.352432;48.821567;50;OK;novembre 2019 (report);blue
+PA_1208;35 rue Castagnary;2.30942;48.833951;30;OK;f√©vrier 2021 (report);blue
+PA_1215;3 rue Danielle Casanova;2.33329;48.86757;30;D√©truit !;avril 2019 (report);black
+PA_1217;pont de la Concorde;2.320227;48.863861;20;D√©truit !;octobre 2022;black
+PA_1219;261 rue de Belleville;2.39896;48.87559;50;OK;septembre 2016 (spott);blue
+PA_1228;22 rue Watteau;2.357361;48.834496;50;OK;ao√ªt 2019 (report);blue
+PA_1230;7 rue Lafayette;2.334758;48.873571;30;Tr√®s d√©grad√©;ao√ªt 2022 (report);red
+PA_1232;102 rue du Mont Cenis;2.34591;48.8953;40;D√©truit !;mai 2020 (report);black
+PA_1234;Ob√©lisque de Villeneuve-le-Comte;2.86916;48.79161;30;OK;ao√ªt 2019 (spott);blue
+PA_1238;Cimeti√®re de la Courneuve;2.40488;48.936142;50;OK;f√©vrier 2019 (report);blue
+PA_1239;54 avenue Paul Vaillant Couturier;2.411101;48.920939;20;Un peu d√©grad√©;d√©cembre 2020 (report);green
+PA_1240;114 boulevard Vincent Auriol;2.36299;48.83349;100;OK;ao√ªt 2019 (report);blue
+PA_1245;pont de la Tournelle;2.35524;48.85012;30;D√©truit !;janvier 2022 (report);black
+PA_1247;H√¥pital Robert Debr√©;2.402437;48.881194;30;OK;mars 2017 (spott);blue
+PA_1248;101 boulevard Richard Lenoir;2.37048;48.86411;40;D√©truit !;f√©vrier 2021 (report);black
+PA_1252;110 rue Lauriston;2.286101;48.866053;30;OK;avril 2019 (report);blue
+PA_1259;39 boulevard Albert 1er;2.493139;48.832738;50;OK;septembre 2018 (spott);blue
+PA_1267;2 avenue de Bouvines;2.395922;48.849561;40;D√©truit !;mars 2017 (spott);black
+PA_1271;Square de la Fontaine;2.483849;48.836064;30;OK;juin 2017 (spott);blue
+PA_1272;1 rue Vouill√©;2.302815;48.835508;20;OK;octobre 2019 (report);blue
+PA_1274;10 square Desnouettes;2.284039;48.834859;20;Tr√®s d√©grad√©;mars 2022 (report);red
+PA_1276;21 place du Tertre;2.34062;48.8867;30;D√©truit !;janvier 2019 (report);black
+PA_1279;86 Boulevard Lefebvre;2.29954;48.82879;50;OK;juillet 2019 (report);blue
+PA_1282;106 avenue Auber;2.42366;48.84608;40;OK;septembre 2019 (report);blue
+PA_1284;pont ferroviaire;2.304917;48.894141;30;OK;septembre 2017 (spott);blue
+PA_1285;porte de Bagnolet;2.413119;48.863176;50;OK;septembre 2017 (spott);blue
+PA_1286;face au 72 rue de Rosny;2.44873;48.86314;50;OK;septembre 2017 (spott);blue
+PA_1287;18 rue du Ravin;2.423283;48.861909;30;OK;septembre 2017 (spott);blue
+PA_1291;48 rue du Capitaine Dreyfus;2.439633;48.859116;50;OK;septembre 2017 (spott);blue
+PA_1293;2 rue Titien;2.358502;48.835936;30;D√©truit !;mai 2020 (report);black
+PA_1296;1 rue Albert Sorel;2.32248;48.82371;50;OK;mai 2019 (report);blue
+PA_1300;Maison Internationale de s√©jour pour jeunes actifs;2.375991;48.820773;20;D√©grad√©;octobre 2020;orange
+PA_1306;46 avenue Pierre Brossolette;2.310661;48.819987;50;OK;avril 2019 (report);blue
+PA_1315;142 avenue du G√©n√©ral Leclerc;2.325342;48.823465;50;OK;novembre 2017 (spott);blue
+PA_1324;4 rue Paradis;2.35493;48.87452;50;D√©truit !;septembre 2020 (report);black
+PA_1330;20 rue Pirandello;2.354942;48.836249;30;OK;ao√ªt 2018 (report);blue
+PA_1331;11 rue Henri Michaux;2.354507;48.826936;40;OK;d√©cembre 2017 (spott);blue
+PA_1333;10 rue de la Paix;2.331137;48.868992;40;D√©truit !;septembre 2018 (report);black
+PA_1334;25 place Vend√¥me;2.33012;48.868334;30;D√©truit !;juin 2021 (report);black
+PA_1335;passerelle de la Porte de Saint-Cloud;2.25533;48.83749;40;OK;avril 2019 (report);blue
+PA_1339;1 rue des Vignerons;2.431637;48.84513;50;OK;janvier 2021 (report);blue
+PA_1341;40 avenue Aubert;2.431089;48.847605;50;OK;septembre 2019 (report);blue
+PA_1345;16 rue Jean-Baptiste Marty;2.416826;48.82107;30;OK;juin 2018 (spott);blue
+PA_1348;39 rue du Mar√©chal Leclerc;2.424209;48.818205;30;OK;juin 2018 (spott);blue
+PA_1349;51 rue de la Tombe Issoire;2.33425;48.83023;20;OK;mars 2019 (report);blue
+PA_1352;117 avenue de Choisy;2.360137;48.825731;40;OK;novembre 2021 (report);blue
+PA_1364;2 rue Paul Bert;2.419351;48.855164;30;Non visible;octobre 2019 (report);grey
+PA_1365;14 quai de B√©thune;2.358674;48.850272;50;D√©truit !;ao√ªt 2022;black
+PA_1368;place Fran√ßois Mitterrand;2.443442;48.865088;40;OK;ao√ªt 2020 (report);blue
+PA_1369;52 avenue du Pr√©sident Wilson;2.359106;48.904005;100;D√©grad√©;janvier 2022 (Live FlashInvaders);orange
+PA_1371;107 rue de la Glaci√®re;2.342522;48.827832;100;OK;ao√ªt 2019 (report);blue
+PA_1372;64 rue Championnet;2.346609;48.895855;50;OK;janvier 2019 (spott);blue
+PA_1376;1 rue du capitaine Roland Deplanque;2.42844;48.80272;30;OK;avril 2019 (spott);blue
+PA_1378;rue des Caves du Roi;2.207041;48.825606;20;OK;mars 2019 (spott);blue
+PA_1379;5 avenue de l'Europe;2.211876;48.82426;30;OK;mars 2019 (spott);blue
+PA_1381;passerelle rue de l'√âpine;2.425093;48.863603;30;OK;mars 2019 (spott);blue
+PA_1382;160 rue des Rosiers;2.34393;48.90133;30;OK;mars 2019 (spott);blue
+PA_1385;4 rue Boissi√®re;2.293006;48.865518;40;OK;mars 2019 (spott);blue
+PA_1386;3 rue Henri Mayer;2.275555;48.827843;50;D√©truit !;juin 2022;black
+PA_1387;52 avenue Pierre Brossolette;2.310909;48.820094;50;OK;avril 2019 (report);blue
+PA_1389;√†¬† l'est du viaduc rue de Paris;2.246601;48.813576;30;OK;avril 2019 (spott);blue
+PA_1390;5 rue Rouget de Lisle;2.262607;48.829516;50;D√©truit !;septembre 2019 (report);black
+PA_1400;sur l'atelier de maintenance de la ligne 7;2.364213;48.816723;50;OK;novembre 2019 (report);blue
+PA_1401;face √†¬† l'immeuble Belledonne;2.48951;48.852234;50;OK;octobre 2019 (report);blue
+PA_1402;52 rue des Bruy√®res;2.414624;48.876339;40;OK;mai 2019 (spott);blue
+PA_1403;50 avenue Pierre Grenier;2.25343;48.832218;40;D√©truit !;juillet 2020 (report);black
+PA_1405;autoroute de l'Est/N486;2.492884;48.830569;100;D√©truit !;juillet 2022 (report);black
+PA_1408;derri√®re le square Charles-Hermite;2.367302;48.900471;50;OK;juillet 2019 (report);blue
+PA_1409;63 rue Gabriel P√©ri;2.3502;48.81045;100;OK;ao√ªt 2019 (spott);blue
+PA_1413;13 rue de L√ºbeck;2.293588;48.866212;20;OK;juillet 2019 (spott);blue
+PA_1415;83 rue Victor Hugo;2.383889;48.81849;20;OK;ao√ªt 2019 (spott);blue
+PA_1416;place de la R√©sistance;2.250127;48.821266;30;OK;juillet 2019 (spott);blue
+PA_1417;escalier derri√®re la galerie d'anatomie;2.362192;48.842906;30;Un peu d√©grad√©;septembre 2020;green
+PA_1422;Pondorly;2.348017;48.757865;50;OK;septembre 2019 (report);blue
+PA_1426;pavillon ouest de la porte de Neuilly;2.258447;48.880106;20;OK;octobre 2019 (spott);blue
+PA_1427;pavillon ouest de la porte de Neuilly;2.25845;48.88011;20;OK;octobre 2019 (spott);blue
+PA_1428;Gare de l'Avenue Foch;2.275511;48.870968;30;D√©truit !;juin 2022;black
+PA_1429;1 rue de la Porte d'Issy;2.280645;48.832224;50;OK;novembre 2019 (report);blue
+PA_1431;dernier √©tage de la Tour Eiffel;2.294608;48.858271;100;OK;novembre 2019 (report);blue
+PA_1434;39 rue Edouard Vaillant;2.432581;48.855267;30;OK;janvier 2020 (report);blue
+PA_1435;Unknown;2.3082812;48.93328;50;D√©grad√©;novembre 2020 (report);orange
+PA_1436;Unknown;2.2765197;48.8627959;30;OK;janvier 2020 (report);blue
+PA_1443;Unknown;2.6104326;48.691234;40;OK;juillet 2020 (report);blue
+PA_1447;Unknown;2.3043311;48.8325357;50;OK;novembre 2020 (Instagram);blue
+PA_1448;Unknown;2.2930289;48.8447338;50;D√©truit !;novembre 2021 (Instagram);black
+PA_1460;Unknown;2.4443904;48.8566343;50;OK;f√©vrier 2021 (report);blue
+PA_1467;Unknown;2.5437047;48.8230529;50;OK;juin 2021 (report);blue
+PA_1474;Pl. de l'H√¥tel de Ville, 75004 Paris;2.3524400155273995;48.85646247384255;20;OK;octobre 2022;blue
+PA_1475;Pl. de l'H√¥tel de Ville, 75004 Paris;2.3526927831522806;48.85644361418365;20;OK;octobre 2022;blue
+PA_1479;20 Rue L√©on, 75018 Paris;2.3535951793239147;48.88784398706549;30;OK;octobre 2022;blue
+PA_1481;2 R. de Tourtille, 75020 Paris;2.381712;48.870357;30;OK;novembre 2022 (report);blue

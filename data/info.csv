@@ -130,7 +130,7 @@ BGK_0005;??;Détruit !;janvier 2019 (report)
 BGK_0006;10;Détruit !;mars 2006
 BGK_0007;10;Détruit !;novembre 2022 (report)
 BGK_0009;20;Détruit !;janvier 2019 (report)
-BGK_0010;10;OK;avril 2022 (report)
+BGK_0010;10;OK;novembre 2022 (report)
 BGK_0011;??;Détruit !;janvier 2019 (report)
 BGK_0014;20;Détruit !;janvier 2019 (report)
 BGK_0015;20;Détruit !;août 2020 (StreetView)
@@ -818,7 +818,7 @@ KAT_0015;20;OK;octobre 2022 (FlashInvaders)
 KAT_0016;10;OK;octobre 2022 (FlashInvaders)
 KAT_0017;10;OK;septembre 2022 (FlashInvaders)
 KAT_0018;30;OK;octobre 2022 (FlashInvaders)
-KAT_0019;10;Dégradé;octobre 2022 (FlashInvaders)
+KAT_0019;10;Détruit !;novembre 2022 (report)
 KAT_0020;20;Détruit !;
 KAT_0021;10;Détruit !;
 KAT_0022;20;Un peu dégradé;octobre 2022 (FlashInvaders)
@@ -935,7 +935,7 @@ LA_0077;10;Détruit !;avril 2021 (report)
 LA_0078;30;Détruit !;
 LA_0079;10;Détruit !;juin 2018 (report)
 LA_0080;20;Détruit !;mai 2022 (report)
-LA_0081;30;Détruit !;
+LA_0081;30;OK;décembre 2022 (FlashInvader)
 LA_0082;20;Détruit !;janvier 2022 (report)
 LA_0083;10;Détruit !;septembre 2020 (report)
 LA_0084;30;Détruit !;septembre 2020 (report)
@@ -959,9 +959,9 @@ LA_0101;30;OK;octobre 2020 (report)
 LA_0102;50;Détruit !;septembre 2022 (report)
 LA_0103;50;Détruit !;septembre 2022 (report)
 LA_0104;50;Détruit !;septembre 2022 (report)
-LA_0105;20;Détruit !;
+LA_0105;20;OK;décembre 2022 (FlashInvader)
 LA_0106;20;Détruit !;
-LA_0107;10;Détruit !;mai 2019 (report)
+LA_0107;10;OK;décembre 2022 (FlashInvader)
 LA_0108;10;Détruit !;septembre 2020 (report)
 LA_0109;10;Détruit !;mai 2022 (report)
 LA_0110;10;Détruit !;septembre 2020 (report)
@@ -972,7 +972,7 @@ LA_0114;10;OK;mai 2022 (Live FlashInvaders)
 LA_0115;20;Détruit !;septembre 2020 (report)
 LA_0116;10;Détruit !;juin 2022 (report)
 LA_0117;10;Détruit !;mars 2022 (report)
-LA_0118;30;Détruit !;
+LA_0118;30;OK;décembre 2022 (FlashInvader)
 LA_0119;10;Détruit !;septembre 2020 (report)
 LA_0120;10;Détruit !;
 LA_0121;10;Détruit !;
@@ -983,7 +983,7 @@ LA_0125;50;Détruit !;
 LA_0126;30;Détruit !;novembre 2021 (report)
 LA_0127;50;Détruit !;
 LA_0128;30;Dégradé;décembre 2021 (Live FlashInvaders)
-LA_0129;30;Détruit !;
+LA_0129;30;OK;décembre 2022 (FlashInvader)
 LA_0130;30;Détruit !;mai 2022 (report)
 LA_0131;30;Détruit !;
 LA_0132;10;Détruit !;
@@ -992,7 +992,7 @@ LA_0134;50;OK;juin 2020 (report)
 LA_0135;10;Détruit !;
 LA_0136;10;Détruit !;mars 2022 (report)
 LA_0137;20;Détruit !;mai 2022 (report)
-LA_0138;20;Détruit !;janvier 2018 (Instagram)
+LA_0138;20;OK;décembre 2022 (FlashInvader)
 LA_0139;10;Détruit !;juillet 2019 (report)
 LA_0140;20;Détruit !;mai 2022 (report)
 LA_0141;30;OK;décembre 2018 (flash)
@@ -1234,7 +1234,7 @@ LDN_0146;30;Détruit !;mai 2017 (spott)
 LDN_0147;30;Détruit !;octobre 2018 (report)
 LDN_0148;30;OK;mai 2017 (spott)
 LDN_0149;100;OK;mai 2017 (spott)
-LDN_0150;20;Dégradé;mars 2021 (Live FlashInvaders)
+LDN_0150;20;Dégradé;novembre 2022 (FlashInvaders)
 LIL_0000;50;Un peu dégradé;octobre 2017 (report)
 LIL_0001;10;OK;septembre 2019 (report)
 LIL_0002;10;OK;juillet 2020 (report)
@@ -1259,7 +1259,7 @@ LJU_0015;10;OK;mai 2021 (Instagram)
 LJU_0016;20;OK;mai 2021 (Instagram)
 LJU_0017;50;Un peu dégradé;juillet 2020 (report)
 LJU_0018;30;OK;mai 2021 (Instagram)
-LJU_0019;10;Un peu dégradé;juillet 2021 (report)
+LJU_0019;10;Dégradé;novembre 2022 (FlashInvaders)
 LJU_0020;20;OK;juillet 2020 (report)
 LJU_0021;30;OK;mars 2021 (report)
 LJU_0022;50;OK;mars 2021 (report)
@@ -2643,7 +2643,7 @@ PA_0682;30;OK;juillet 2019 (report)
 PA_0683;30;Dégradé;novembre 2019 (report)
 PA_0684;30;OK;août 2018 (report)
 PA_0685;30;OK;septembre 2018 (spott)
-PA_0686;30;Détruit !;août 2022 (report)
+PA_0686;30;OK;novembre 2022 (Instagram)
 PA_0687;30;Détruit !;septembre 2014 (street view)
 PA_0688;10;Détruit !;
 PA_0689;50;OK;janvier 2021 (report)
@@ -3863,7 +3863,7 @@ TK_0081;20;Détruit !;octobre 2017 (report)
 TK_0082;30;Détruit !;
 TK_0083;30;Détruit !;janvier 2018 (Instagram)
 TK_0084;??;Détruit !;
-TK_0085;20;OK;septembre 2019 (report)
+TK_0085;20;Non visible;décembre 2022 (report)
 TK_0086;30;Détruit !;mars 2019 (report)
 TK_0087;??;Détruit !;
 TK_0088;50;Détruit !;
@@ -3875,7 +3875,7 @@ TK_0093;30;Détruit !;novembre 2022 (report)
 TK_0094;30;Détruit !;
 TK_0095;50;Détruit !;décembre 2017 (Instagram)
 TK_0096;10;Détruit !;novembre 2017 (Instagram)
-TK_0097;30;OK;juillet 2019 (report)
+TK_0097;30;Dégradé;décembre 2022 (report)
 TK_0098;30;Détruit !;
 TK_0099;20;Détruit !;
 TK_0100;100;Détruit !;
@@ -3893,7 +3893,7 @@ TK_0111;100;Détruit !;
 TK_0112;50;OK;septembre 2019 (report)
 TK_0113;30;OK;septembre 2019 (report)
 TK_0114;30;Détruit !;
-TK_0115;20;OK;juillet 2019 (report)
+TK_0115;20;Détruit !;décembre 2022 (report)
 TK_0116;50;Détruit !;
 TK_0117;10;Détruit !;
 TK_0118;30;Détruit !;février 2018 (report)

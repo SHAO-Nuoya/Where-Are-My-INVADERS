@@ -3,6 +3,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+import urllib.request
 import time
 import pandas as pd
 from tqdm import tqdm
@@ -30,9 +31,23 @@ class Crawler:
             current_infos = self.wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "haut")))
             current_infos = list(map(lambda x:x.text, current_infos))
             infos.extend(current_infos)
-
+        
+        # unflashed_list = pd.read_csv('data/unflashed_invaders.csv', on_bad_lines='skip',delimiter=';')['ID'].values.tolist()
+        # urls = []
+        # for page in tqdm(range(39, 70)):
+        #     self.wait.until(EC.element_to_be_clickable((By.XPATH, f"/html/body/div[2]/div/p[2]/a[{page}]"))).click()
+        #     current_urls = map(lambda x:x.get_attribute('src'), self.wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".haut [src]"))))
+        #     current_urls = list(filter(lambda x:x[-4:]=='.jpg', current_urls))
+        #     urls.extend(current_urls)
         self.driver.close()
         return infos
+
+        # urls = [url for url in urls if any(str(unflashed) in url for unflashed in unflashed_list)]
+
+        # for url in urls:
+        #     urllib.request.urlretrieve(url, '/Users/ritsuritsu/Python/Invader in Paris/' + url.split('/')[-1])
+        
+        # return 
 
     def generate_info(self):
         invaders = []
