@@ -422,7 +422,7 @@ CLR_0029;30;OK;juillet 2020 (report)
 CLR_0030;50;OK;juillet 2020 (report)
 CLR_0031;40;OK;juillet 2020 (report)
 CLR_0032;50;OK;juillet 2020 (report)
-CLR_0033;100;Un peu dégradé;février 2021 (report)
+CLR_0033;100;Dégradé;novembre 2022 (FlashInvaders)
 CLR_0034;50;Dégradé;novembre 2020 (report)
 CLR_0035;50;OK;juillet 2020 (report)
 CLR_0036;30;OK;juillet 2020 (report)
@@ -972,7 +972,7 @@ LA_0114;10;OK;mai 2022 (Live FlashInvaders)
 LA_0115;20;Détruit !;septembre 2020 (report)
 LA_0116;10;Détruit !;juin 2022 (report)
 LA_0117;10;Détruit !;mars 2022 (report)
-LA_0118;30;OK;décembre 2022 (FlashInvader)
+LA_0118;30;OK;décembre 2022 (FlashInvaders)
 LA_0119;10;Détruit !;septembre 2020 (report)
 LA_0120;10;Détruit !;
 LA_0121;10;Détruit !;
@@ -2312,7 +2312,7 @@ PA_0351;20;OK;avril 2019 (report)
 PA_0352;10;Détruit !;septembre 2022
 PA_0353;20;OK;décembre 2020 (Live FlashInvaders)
 PA_0354;20;OK;septembre 2016 (spott)
-PA_0355;30;Non visible;juillet 2022
+PA_0355;30;OK;décembre 2022 (report)
 PA_0356;30;OK;août 2020
 PA_0357;10;Dégradé;juillet 2022
 PA_0358;10;Détruit !;janvier 2021 (report)
@@ -2536,7 +2536,7 @@ PA_0575;50;Dégradé;décembre 2018 (report)
 PA_0576;20;OK;octobre 2019 (report)
 PA_0577;10;OK;mai 2019 (report)
 PA_0578;20;Très dégradé;août 2022 (report)
-PA_0579;20;OK;octobre 2019 (report)
+PA_0579;20;Dégradé;décembre 2022 (report)
 PA_0580;20;OK;juin 2019 (spott)
 PA_0581;20;OK;juillet 2019 (spott)
 PA_0582;20;Détruit !;août 2022
