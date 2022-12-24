@@ -33,6 +33,7 @@ class Invaders:
                      "Rome": "ROM", 
                      "Toulouse": "TLS", 
                      "Berlin": "BRL",
+                     "Bilbao" : "BBO",
                      "Aix-en-Provence": "AIX",
                      "Clermont-Ferrand": "CLR",
                      "Nimes":"NIM",
@@ -54,6 +55,7 @@ class Invaders:
 
         merged_df.loc[merged_df["ID"].isin(
             client_invader_list), "Color"] = "pink"
+        merged_df.sort_values(by="ID", inplace=True)
         merged_df.to_csv("data/merged_df.csv", index=False, sep=";")
         return merged_df
 
@@ -141,6 +143,6 @@ class Invaders:
 
     
 if __name__ == "__main__":
-    # Crawler().generate_info()
-    Inva = Invaders("xueying")
+    Crawler().generate_info()
+    Inva = Invaders("nuoya")
     Inva.display()
