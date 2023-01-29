@@ -10,9 +10,16 @@ class Invaders:
         self.address_path = address_path
         self.info_path = info_path
         self.client = client
-        self.merged_df = self.gather_all_info()
-        self.generate_kmz()
+        self.seperate_df()
+        self.generate_parisetversaille_kmz()
+        self.generate_ailleurs_kmz()
 
+    def seperate_df(self):
+        merged_df = self.gather_all_info()
+        self.merged_df = merged_df
+        self.paris_df = merged_df[merged_df["ID"].str.contains('|'.join(["PA_", "VRS_"]))]
+        self.other_df = merged_df[~merged_df["ID"].str.contains('|'.join(["PA_", "VRS_"]))]
+        
     def gather_all_info(self):
         address_df = pd.read_csv(self.address_path, delimiter=";")
         info_df = pd.read_csv(self.info_path, delimiter=";")
@@ -73,10 +80,10 @@ class Invaders:
         else:
             return "blue"
 
-    def generate_kmz(self):
+    def generate_parisetversaille_kmz(self):
         # create a ZipFile object
         fld = KML.Folder()
-        draw_df = self.merged_df.dropna(subset=["Latitude"])
+        draw_df = self.paris_df.dropna(subset=["Latitude"])
         for _, line in draw_df.iterrows():
             name = line['ID']
             href = f"data/icons/{line['Color']}.png"
@@ -112,7 +119,57 @@ class Invaders:
 
             fld.append(kml)
 
-        with ZipFile(f'result/{self.client}.kmz', 'w') as zipObj:
+        with ZipFile(f'result/{self.client}_paris.kmz', 'w') as zipObj:
+            # serialize KML to a string
+            kml_str = etree.tostring(fld, pretty_print=True,
+                                     xml_declaration=True, encoding='UTF-8')
+
+            zipObj.writestr('invader.kml', kml_str)   # Add doc.kml entry
+
+            for color in ["black", "green", "blue", "grey", "orange", "pink", "red", "yellow"]:
+                image = f"data/icons/{color}.png"
+                zipObj.write(image)        # Add icon to the zip
+
+    def generate_ailleurs_kmz(self):
+        # create a ZipFile object
+        fld = KML.Folder()
+        draw_df = self.other_df.dropna(subset=["Latitude"])
+        for _, line in draw_df.iterrows():
+            name = line['ID']
+            href = f"data/icons/{line['Color']}.png"
+            coordinates = str(line["Longitude"]) + \
+                ',' + str(line["Latitude"])
+
+            kml = KML.Placemark(
+                KML.name(name),
+                KML.Style(
+                    KML.IconStyle(
+                        KML.scale(1.0),
+                        KML.Icon(
+                            KML.href(href)
+                        )
+                    )
+                ),
+                KML.Point(
+                    KML.coordinates(coordinates)
+                ),
+                KML.description('<table border="1">'
+                                '<tr><th>Lat, Long : </th><td>{lat:.4f}, {lon:.4f}</td>'
+                                '<tr><th>Point : </th><td>{point}</td>'
+                                '<tr><th>Address : </th><td>{add}</td>'
+                                '<tr><th>Source date : </th><td>{date}</td>'
+                                '</table>'.format(
+                                    lat=line["Latitude"],
+                                    lon=line["Longitude"],
+                                    point=line["Point"],
+                                    add=line["Address"],
+                                    date=line["Source_date"])
+                                )
+            )
+
+            fld.append(kml)
+
+        with ZipFile(f'result/{self.client}_other.kmz', 'w') as zipObj:
             # serialize KML to a string
             kml_str = etree.tostring(fld, pretty_print=True,
                                      xml_declaration=True, encoding='UTF-8')
@@ -144,5 +201,5 @@ class Invaders:
     
 if __name__ == "__main__":
     #Crawler().generate_info()
-    Inva = Invaders("nuoya")
+    Inva = Invaders("xueying")
     Inva.display()

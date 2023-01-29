@@ -7,7 +7,9 @@ import urllib.request
 import time
 import pandas as pd
 from tqdm import tqdm
+import chromedriver_autoinstaller as chromedriver
 
+chromedriver.install()
 class Crawler:
     def __init__(self, url:str="http://invader.spotter.free.fr/listing.php") -> None:
         options = Options()
