@@ -49,10 +49,10 @@ class Invaders:
                      "Dijon":"DIJ",
                      "Rennes":"RN",
                      "Lyon":"LY",
-                     "Côte d'Azur":"CAZ",
+                     "Cote d'Azur":"CAZ",
                      "Luberon":"LBR",
                      "Forcalquier":"FRQ",
-                     "MTB":"MTB",
+                     "Montauban":"MTB",
                      "Pau":"PAU"
                      }
         client_invader_list = []
