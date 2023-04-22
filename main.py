@@ -17,8 +17,9 @@ class Invaders:
     def seperate_df(self):
         merged_df = self.gather_all_info()
         self.merged_df = merged_df
-        self.paris_df = merged_df[merged_df["ID"].str.contains('|'.join(["PA_", "VRS_"]))]
-        self.other_df = merged_df[~merged_df["ID"].str.contains('|'.join(["PA_", "VRS_"]))]
+        ile_de_france_list = ["PA_", "VRS_", "FTBL_"]
+        self.ile_de_france_df = merged_df[merged_df["ID"].str.contains('|'.join(ile_de_france_list))]
+        self.other_df = merged_df[~merged_df["ID"].str.contains('|'.join(ile_de_france_list))]
         
     def gather_all_info(self):
         address_df = pd.read_csv(self.address_path, delimiter=";")
@@ -35,6 +36,7 @@ class Invaders:
         # todo
         abbre_dic = {"Paris": "PA", 
                      "Versailles": "VRS", 
+                     "Fontainebleau": "FTBL",
                      "Avignon": "AVI",
                      "Rennes": "RN", 
                      "Rome": "ROM", 
@@ -83,7 +85,7 @@ class Invaders:
     def generate_parisetversaille_kmz(self):
         # create a ZipFile object
         fld = KML.Folder()
-        draw_df = self.paris_df.dropna(subset=["Latitude"])
+        draw_df = self.ile_de_france_df.dropna(subset=["Latitude"])
         for _, line in draw_df.iterrows():
             name = line['ID']
             href = f"data/icons/{line['Color']}.png"
@@ -200,6 +202,8 @@ class Invaders:
 
     
 if __name__ == "__main__":
-    Crawler().generate_info()
-    Inva = Invaders("xueying")
-    Inva.display()
+    #Crawler().generate_info()
+    InvaNuoya = Invaders("nuoya")
+    InvaXueying = Invaders("xueying")
+    InvaNuoya.display()
+    InvaXueying.display()
