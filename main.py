@@ -202,7 +202,7 @@ class Invaders:
 
     
 if __name__ == "__main__":
-    #Crawler().generate_info()
+    Crawler().generate_info()
     InvaNuoya = Invaders("nuoya")
     InvaXueying = Invaders("xueying")
     InvaNuoya.display()
