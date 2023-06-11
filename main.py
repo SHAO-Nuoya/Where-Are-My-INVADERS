@@ -55,7 +55,8 @@ class Invaders:
                      "Luberon":"LBR",
                      "Forcalquier":"FRQ",
                      "Montauban":"MTB",
-                     "Pau":"PAU"
+                     "Pau":"PAU",
+                     "Faro":"FAO"
                      }
         client_invader_list = []
         for col in client_invader_df.columns:
